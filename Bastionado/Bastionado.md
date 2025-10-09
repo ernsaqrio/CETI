@@ -1,4 +1,6 @@
-Aqui va todo lo relacionado con bastionado de redes y sistemas.
+Aquí va todo lo relacionado con bastionado de redes y sistemas.
+
+![[dragon.png]]
 
 	git init
 	git add README.md
