@@ -13,5 +13,7 @@ Aquí va todo lo relacionado con bastionado de redes y sistemas.
 		la password la generais en settings -> developer settings -> Fine-grained
 		 tokens
 
+del *.*
+
 [[Repaso de redes]]
 [[Tema 1]]
