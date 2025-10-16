@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado/Tema 1.md",
+                "file": "Hacking etico/UD1 - Introduccion al hacking etico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 1"
+              "title": "UD1 - Introduccion al hacking etico"
             }
           }
         ]
@@ -166,13 +166,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d060c48ce46092e4",
   "lastOpenFiles": [
-    "Bastionado/Bastionado.md",
     "Bastionado/Tema 1.md",
+    "Bastionado/Bastionado.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
     "Incidentes de Ciberseguridad/IC1.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",

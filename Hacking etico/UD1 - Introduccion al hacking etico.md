@@ -158,3 +158,171 @@ A esto se debe el nombre de TOR, una alusión a las capas de las cebollas.
 
 - ZeroNet: red de internet descentralizada. No hace uso de servidores, sino que los host pertenecen a una red p2p (peer to peer). Por defecto no es anónima, pero se puede combinar con Tor.
 - FreeNet: alternativa a Tor. Como ZeroNet, es una red descentralizada que emplea la conexión punto a punto (p2p) y es anónima. Aún en desarrollo
+
+**Vulnerabilidades**
+
+Para el nombrado de vulnerabilidades se emplea el estándar de nomenclatura de
+vulnerabilidades CVE (https://cve.mitre.org/) (Common Vulnerabilities and
+Exposures), con el fin de facilitar el intercambio de información entre diferentes
+bases de datos y herramientas.
+
+El CVE-ID ofrece una nomenclatura estándar para identificar las vulnerabilidades
+de forma inequívoca:
+- El formato para CVE-ID es: CVE-YYYY-NNNN (YYYY indica el año y NNNN el
+número de vulnerabilidad). Desde enero de 2014 este identificador puede
+contener, si es necesario, más de cuatro dígitos.
+-  El formato para vulnerabilidades candidatas es: CAN-YYYY-NNNN (YYYY indica
+el año y NNNN el número de vulnerabilidad).
+
+MITRE dispone de otra iniciativa llamada Common Platform Enumeration (CPE). En
+resumen, permite identificar con un nombre único y estándar los sistemas, plataformas y
+software de una manera muy detallada.
+
+Se utiliza el CPE para hacer referencia a tecnologías, herramientas, sistemas o plataformas
+específicas con la mayor exactitud posible. 
+
+Nomenclatura: cpe:/ {part} : {vendor} : {product} : {version} : {update} : {edition} : {language}
+
+Por ejemplo: cpe:2.3:a:kemptechnologies:web_application_firewall:7.2.54.1:*:*:*:*:*:*:*
+
+*Según severidad*
+
+Existen diferentes formas de clasificación de vulnerabilidades algunas organizaciones utilizan el CVSS (Common Vulnerability Scoring
+System) que califican del 0 al 10 su riesgo.
+- 0 – Ninguna
+- 0.1 a 3.9 – Baja
+- 4.0 a 6.9 – Media
+- 7.0 a 8.9 – Alta
+- 9.0 a 10.0 – Crítica
+
+Una lista de vulnerabilidades y exposiciones más comunes (CVE – Common Vulnerabitilies and Exposures) se encuentra en el National Vulnerability Database (NVD), el cual es un repositorio del gobierno norteamericano. Otra base de datos de vulnerabilidades es cveDetails.com.
+
+*Según tiempo*
+
+Vulnerabilidades Zero-Day: vulnerabilidad que acaba de ser descubierta y que aún no tiene un
+parche que la solucione. La principal amenaza reside en que, hasta que se lanza dicho parche
+correctivo y los usuarios lo instalan en sus equipos, los atacantes tienen vía libre para explotar la
+vulnerabilidad y sacar provecho del fallo de seguridad. A este tipo de ataques, se les denomina
+ataques de día cero o Zero day attack.
+
+Vulnerabilidades N-day: vulnerabilidades públicas y reconocidas por la organización que han sido (o no) debidamente parcheadas, siendo "n" el número de días desde que ha hecho público y asignado un CVE. Este tipo de vulnerabilidades debemos tomarlas en consideración por el tiempo que tardan algunas organizaciones en implementar los parches de seguridad ya publicados por el desarrollador.
+
+Vulnerabilidades antiguas: vulnerabilidades conocidas desde hace mucho tiempo que han sido
+parcheadas en nuevas versiones o no lo han sido en absoluto por diversos motivos, por ejemplo: el
+abandono de Windows XP. Suelen tener exploits públicos y son usadas en un entorno de aprendizaje
+
+**Tipos de amenazas**
+
+Poco estructuradas: personas o grupos pequeños que actúan por cuenta propia motivados
+por diversas causas: curiosidad, aprendizaje, beneficios, hacktivismo, etc. Los casos más
+conocidos han sido personas jóvenes que debido a su capacidad han recibido un puesto de
+trabajo en la empresa atacada (tras cumplir la debida condena).
+
+Estructuradas: grupos organizados que disponen de los medios para efectuar ataques
+planificados. Suelen dedicar bastante tiempo al estudio del objetivo para encontrar
+vulnerabilidades. Aquí podemos encontrar grupos como Anonymus, aunque la mayoría
+permanecen en el anonimato.
+
+Muy estructuradas: organizaciones grandes y profesionales con una gran cantidad de
+recursos a su disposición. En esta categoría entran numerosas empresas de ciberseguridad
+así como organizaciones gubernamentales. La más conocida es la NSA.
+
+**¿Que es un ataque?**: Toda aquella acción que atenta contra los pilares de la seguridad:
+Confidencialidad, Integridad, Disponibilidad (CIA).
+
+**Tipos de ataques**
+- Pasivo o activo:
+	- Activo:
+		- Modifica el sistema
+		- Altera la integridad o disponibilidad
+		- Ejemplos: Ransomware, borrado de un base de datos.
+	- Pasivo: 
+		- No modifica los sistemas
+		- Intercepta información
+		- Afecta a la confidencialidad
+		- Ejemplo: escucha de paquetes en la red o interceptación de comunicaciones
+- Vectores de ataque:
+	- Phishing: El phishing es una técnica que consiste en el envío de un correo o mensaje por parte de un ciberdelincuente a un usuario realizando una suplantación de identidad (red social, banco, institución pública, etc.) con el objetivo de robarle información privada, realizarle un cargo económico o infectar el dispositivo. Para ello, adjuntan archivos infectados o enlaces a páginas fraudulentas en el mensaje.
+	- Malware: tiene como objetivo la infección del sistema o sistemas objetivos. Es un tipo de programa malicioso que se camufla en el ordenador y puede dañar los sistemas afectados. Pueden ser virus, troyanos, gusanos, programas ransomware y otros.
+	- Ataques de fuerza bruta: intentos de adivinar algún tipo de información (típicamente una contraseña) mediante la permutación de caracteres hasta hallar la correcta. Suele combinarse con el uso de diccionarios.
+	- Web: utiliza como medio la web realizando distintos ataques como una inyección SQL o XSS (Cross Site Scripting).
+- Atacante:
+	- Estados (Ciber espionaje)
+	- Cibercriminales
+	- Grupos hacktivistas
+	- Ciber terroristas
+	- Otros actores:
+		- Organizaciones privadas
+		- Empleados internos
+		- Investigadores
+		- Script kiddies
+
+**Hacking ético**
+
+El hacking ético, también conocido como «pentesting» o prueba de penetración, es una técnica utilizada por los expertos en seguridad informática para detectar y corregir vulnerabilidades en los sistemas de información.
+
+El objetivo principal de los hackers éticos es asegurar que los sistemas y redes de una organización sean seguros y protegidos contra posibles ataques malintencionados.
+
+*comparativa de hacker ético y hacker*
+
+Mientras que el término hacker tiene unas connotaciones de persona que hace uso del hacking para obtener algún tipo de beneficio personal realizando actividades ilegales, cuando hablamos de hacker ético nos referimos a:
+- Profesional de la ciberseguridad que se encarga de identificar y reportar vulnerabilidades en sistemas.
+- Experto que se especializan en las pruebas de penetración de sistemas informáticos y de software con el fin de evaluar, fortalecer y mejorar la seguridad.
+
+
+*tipos de hackers*
+- White hat: los sombreros blancos utilizan sus capacidades y recursos para descubrir vulnerabilidades y mantener a salvo a la organización. Reciben el permiso de la organización para esta búsqueda. **Actividad legal**
+- Black hat: delincuentes que buscan identificar y explotar vulnerabilidades en sistemas motivados por el simple beneficio económico, reputación, venganza o diversión. **Actividades ilegales.**
+- Grey hat: este tipo de hacker es una combinación de los dos anteriores. Realizan el mismo análisis de vulnerabilidades de la forma que lo haría un sombrero blanco, pero a diferencia de este no cuenta con el permiso expreso de la organización. Mientras que un sombrero blanco encuentran, reportan vulnerabilidades exclusivamente a la organización y un sombrero negro las explota para su propio beneficio, un sombrero gris encuentra y podría intentar reportárselo a la organización. **Actividades ilegales por no contar con el permiso expreso**
+
+**Bug bounties**
+
+El Bug Bounty se puede definir como una modalidad de seguridad ofensiva en el que una organización ofrece recompensa a aquellos hackers que encuentren diferentes vulnerabilidades en su infraestructura.
+
+Esquema:
+- Una organización publica un programa en la que invita a los hackers a encontrar vulnerabilidades a cambio de recompensa. Cada programa tiene sus políticas y condiciones, en las que se indicará lo que se puede hacer y lo que no.
+- Los hackers tendrán que emplear su conocimiento y habilidades para descubrir vulnerabilidades. Hay diferentes metodologías, cada hacker emplea la que mejor se le adapte.
+- Cuando el hacker encuentra una vulnerabilidad, se lo debe comunicar a la empresa a través de un reporte en el que explicará en que consiste la vulnerabilidad, su impacto y pasos para reproducirla
+- Los triagers (Personas encargadas en verificar y categorizar las vulnerabilidades) reproducirán la vulnerabilidad reportada y verificarán si cumple con las condiciones descritas en el programa, en ese caso, el hacker recibirá una recompensa. Hay que tener en cuenta que solo será el primer hacker en reportar la vulnerabilidad el que se lleve la recompensa.
+
+Entre las plataformas más populares donde las empresas y los hackers pueden
+encontrar programas de recompensa están:
+- https://www.yeswehack.com/
+- https://www.hackerone.com/
+- https://www.bugcrowd.com/
+- http://antihack.me/
+
+**Tipos de análisis de seguridad**
+
+*Auditorias de gestión*
+
+Este tipo de auditorias se encarga principalmente de auditar un determinado activo con el fin de verificar normativas a cumplir en la organización.
+
+Algunos ejemplos serian:
+- Cumplimiento de políticas de seguridad
+- Cumplimiento de la norma ISO 27001: Certificación de los Sistemas de Gestión de Seguridad de la Información (SGSI). Garantiza confidencialidad, integridad y disponibilidad. Ejemplo checklist.
+ - Cumplimiento de las medidas de seguridad física
+ 
+Tienen un carácter mas teórico y donde la auditoria suele estar basada en una batería de pruebas
+teóricas que deben ser cumplidas.
+
+*Auditorias técnicas*
+
+Este tipo de auditorias tienen un carácter más practico donde se pasa de simplemente identificar que algo existe o no para pasar a verificarlo.
+Los principales tipos de auditorias técnicas son los siguientes:
+- Auditoria de vulnerabilidades (Búsqueda de vulnerabilidades).
+- Test de Intrusión (Proceso de intrusión, simulación de ataque digital).
+- Red Team (Simulación de ataque real y dirigido).
+
+*Ámbitos*
+
+En base al activo y origen de las pruebas podemos tener los siguientes ámbitos tanto de auditoria como de intrusión:
+▪ Externo: Acciones realizadas sobre la infraestructura desde Internet.
+▪ Interno: Acciones realizadas desde la red interna.
+▪ Aplicaciones Web: Acciones sobre determinados activos web.
+▪ Sistemas: Acciones sobre determinados sistemas.
+▪ Wireless: Acciones sobre tecnologías inalámbricas como Wi-Fi.
+▪ Otros.
+
+**Alcance del hacking ético**
+
