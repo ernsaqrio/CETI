@@ -326,3 +326,72 @@ En base al activo y origen de las pruebas podemos tener los siguientes ámbitos 
 
 **Alcance del hacking ético**
 
+- Antes de realizar ninguna acción, discutir con el cliente las tareas que llevará a cabo el analista durante el Hacking Ético, así como los roles y responsabilidades de ambos.
+- Asegurar mediante contrato firmado que las acciones que se llevan a cabo son en representación del cliente.
+- Análisis de las políticas de la organización que definen el uso que los usuarios hacen de los sistemas y de la infraestructura.
+- Procedimiento en el caso de que se localice una intrusión por un tercero.
+
+**Mejores prácticas para el hacking ético**
+- Obtener autorización: Antes de realizar cualquier prueba de penetración o análisis de vulnerabilidades, es esencial obtener la autorización del propietario del sistema o red que se está evaluando.
+- Documentar todo: Es importante documentar todas las actividades realizadas durante la evaluación de seguridad, incluyendo cualquier vulnerabilidad encontrada y las medidas tomadas para corregirlas.
+- Mantener la confidencialidad: Todo lo descubierto durante la prueba de penetración debe mantenerse en secreto y no debe ser compartido con terceros sin autorización.
+- No causar daño: El objetivo del hacking ético es mejorar la seguridad del sistema, no dañarlo. Por lo tanto, es importante asegurarse de que las pruebas de penetración no causen daño a los sistemas evaluados.
+- Conocer y cumplir las leyes y regulaciones: Es importante conocer las leyes y regulaciones locales, nacionales e internacionales relacionadas con la seguridad informática y asegurarse de cumplirlas durante cualquier actividad de hacking ético.
+
+**Metodologías de seguridad**
+
+Existen una gran cantidad de metodologías actualmente reconocidas y ampliamente
+utilizadas por profesionales a nivel internacional. De entre ellas cabe destacar:
+- OSSTMM: Metodología genérica y muy amplia.
+- PTES (Penetration Testing Execution Standard): Metodología especializada en test de intrusión
+En cuanto a certificaciones mas acotadas:
+- OWASP: Auditoria de aplicaciones Web
+- OWISAM: Auditoria de redes Wi-Fi
+- OASAM: Auditoria de aplicaciones móvil (Android)
+
+*OWASP*
+
+Es una metodología desarrollada por el proyecto OWASP, que tiene por objetivo
+exponer todos los detalles necesarios para realizar ejercicios de auditoria e
+intrusión en aplicaciones web.
+
+Uno de los beneficios mas destacados de esta metodología es el alto nivel de
+detalle en que se explican cada una de las pruebas a realizar. Esto permite a
+auditores junior o gente menos experta poder seguir la metodología de manera
+correcta.
+
+Para ello, han elaborado la OWASP Testing Guide.
+
+*PTES*
+
+Es una metodología abierta desarrollada por reputados profesionales en el ámbito
+de la seguridad. Dicha metodología tiene un claro enfoque en el desarrollo de
+ejercicios de intrusión o “test de intrusión”.
+
+Esta metodología cubre todas las fases necesarias que deben ser seguidas para
+materializar una intrusión.
+
+*OSSTMM*
+
+Es una metodología abierta (v3) desarrollada por ISECOM, y es uno de los estándares
+profesionales mas completos y comúnmente utilizados en auditoria de seguridad.
+Dicha metodología consta de diferentes secciones que son:
+- Sección A - Seguridad de la Información
+- Sección B - Seguridad de los Procesos
+- Sección C - Seguridad en las tecnologías de Internet
+- Sección D - Seguridad en las Comunicaciones
+- Sección E - Seguridad Inalámbrica
+- Sección F - Seguridad Física
+
+**Reportes**
+
+Para resolver esta duda y que tengáis ejemplos reales de cara a poder organizar
+de la mejor forma posible vuestros informes, me gustaría dejaros por aquí varios
+recursos que considero valiosos.
+
+Antes de nada, debéis tener en cuenta que los informes de Hacking ético y
+auditoría de seguridad dependen mucho de la organización que los realiza y del
+tipo de auditoría que se ha llevado a cabo. 
+
+No todas las auditoría son completas y siguen todas las fases que se enseñan en este curso, en algunas ocasiones se centran en fases o entornos específicos dentro de la infraestructura tecnológica de una organización. Todo esto se debe concretar en la fase de definición del alcance
+que se mencionaba en la sección anterior.
