@@ -7,5 +7,8 @@
 	- System -> todo lo relacionado al sistema
 	- Software -> aplicaciones
 	- SAM -> cuentas locales y hashes
-	- Security
-	- Default
+	- Security -> hashes de las claves
+	- Default -> plantilla de configuración de usuarios
+- NTUSER.dat
+- UsrClass.dat -> ShellBags
+- EVTX -> logs del sistema
