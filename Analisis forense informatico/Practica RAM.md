@@ -1,6 +1,6 @@
 - RAM
 - Pagefile.sys: cuando el kernel (núcleo) detecta que no hay espacio en la RAM, usa estos archivos para seguir cargando procesos (como una ampliación de la memoria RAM en el almacenamiento)
-- sarving
+- Carving
 - Swapfile.sys -> UWP
 - Hiberfile.sys
 - Hives
