@@ -12,3 +12,7 @@
 - NTUSER.dat
 - UsrClass.dat -> ShellBags
 - EVTX -> logs del sistema
+- Prefetch (.pf)
+- Amcache.hve -> catalogo de ejecutables del sistema (hashes, rutas, etc)
+- SRUM (SRUBD.dat)
+- Jump List / LNK -> accesos directos
