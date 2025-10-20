@@ -1,1 +1,1 @@
-meow cat
+tipico
