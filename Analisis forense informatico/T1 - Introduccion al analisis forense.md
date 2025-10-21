@@ -171,3 +171,7 @@ Peritos nombrados por una o ambas partes
 - Sujeto a Responsabilidad profesional
 	- No cumplir el código deontológico o el procedimiento disciplinario Colegial
 
+**Otras funciones del perito**
+
+Los peritos pueden ser contratados con fines preventivos, correctivos o probatorios
+
