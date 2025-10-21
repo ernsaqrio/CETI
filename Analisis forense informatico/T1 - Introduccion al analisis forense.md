@@ -174,4 +174,10 @@ Peritos nombrados por una o ambas partes
 **Otras funciones del perito**
 
 Los peritos pueden ser contratados con fines preventivos, correctivos o probatorios
-
+- Asesoría técnica contra el Cibercrimen
+- Localización de evidencias electrónicas
+- Auditorías
+- Análisis forenses preventivos
+- Valoración y Tasación de equipos tecnológicos
+- Certificaciones y Homologaciones
+- Recuperación de Datos
