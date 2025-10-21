@@ -88,3 +88,33 @@ También hay peritos en lo social ([Ley 36/2011, de 10 de octubre]()) y en lo co
 Se centra sobre todo en los de la LEC
 -  Aunque en muchos aspectos la LECrim es similar
 
+*Requisitos*
+
+Poseer el título oficial en la materia
+- O ser personas entendidas si no hay título oficial
+Promesa de decir la verdad y actuar con la mayor objetividad posible
+- Tanto lo que pueda favorecer como lo que sea susceptible de causar perjuicio a las partes
+Conocer las sanciones penales en las que podría incurrir si incumple su deber
+
+*Funciones*
+
+Formular dictamen escrito
+- Acompañar de documentos o instrumentos o materiales adecuados
+Intervenir en el juicio
+- Exposición del dictamen
+- Explicación del dictamen
+- Respuesta a preguntas y objeciones
+- Respuesta a solicitudes de ampliación
+- Crítica del dictamen de la parte contraria
+- Formulación de tachas
+
+*Habilidades*
+
+Aseguramiento de la escena
+- Recolección de pruebas
+- Preservación de pruebas
+- Manejo de la cadena de custodia
+- Análisis de evidencias
+- Generación de dictámenes
+- Conocimiento legislativo
+
