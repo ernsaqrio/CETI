@@ -74,7 +74,17 @@ Ya eran usados en juicios en la antigua Roma
 - Para disputas de lindes de tierras, embarazos, etc.
 Después se van extendiendo a otras áreas
 - P. ej.: caligrafía
-En la Edad Media en España aparecen los
-peritos especializados en Medicina Forense
-• En el entorno industrial, el título se crea en el
-Real Decreto del 17 de agosto de 1901
+En la Edad Media en España aparecen los peritos especializados en Medicina Forense
+En el entorno industrial, el título se crea en el Real Decreto del 17 de agosto de 1901
+
+El perito judicial civil se recoge en la [Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil]()
+- Sección 5ª, arts. 335-352
+El perito judicial criminal se recoge en el [Real Decreto de 14 de septiembre de 1882]() por el
+que se aprueba la Ley de Enjuiciamiento Criminal (LECrim)
+- arts. 456-485, 661-663, 723-725 y 334-367
+
+También hay peritos en lo social ([Ley 36/2011, de 10 de octubre]()) y en lo contencioso-administrativo ([Ley 29/1998, de 13 de julio]())
+- Sin embargo, la legislación sobre peritos es escasa y se suele seguir la Ley de Enjuiciamiento Civil siempre y cuando no contradiga a las otras
+Se centra sobre todo en los de la LEC
+-  Aunque en muchos aspectos la LECrim es similar
+
