@@ -8,10 +8,11 @@ Rodney McKemmish, 1999: La informática forense es el proceso de
 identificar, preservar, analizar y presentar las evidencias digitales de una forma legalmente
 aceptable.
 
-Aplicación de técnicas y procedimientos
-científicos y analíticos especializados a infraestructura tecnológica
-• Generalmente dicha infraestructura ha sufrido
-un incidente de seguridad informática
-• También sacar información de un crimen que
-no emplea tecnología
-– P. ej.: Verificar una coartada
+Aplicación de técnicas y procedimientos científicos y analíticos especializados a infraestructura tecnológica
+
+Generalmente dicha infraestructura ha sufrido un incidente de seguridad informática
+
+También sacar información de un crimen que no emplea tecnología
+- P. ej.: Verificar una coartada
+
+Tipos de 
