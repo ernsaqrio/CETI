@@ -53,3 +53,28 @@ También sacar información de un crimen que no emplea tecnología
 	- ¿Qué hizo dentro del sistema?
 	- ¿Dónde?
 - En caso de otros delitos
+	- ¿Existe información relevante en el dispositivo?
+	- ¿Dónde estaba en el momento del delito?
+	- ¿Qué conversaciones mantuvo?
+	- ¿Qué archivos descargó /visualizó / creó?
+	- ¿Qué programas usó?
+	- ¿Qué periféricos usó?
+
+**Perito judicial**
+
+Su misión es suministrar información u opinión fundada a los tribunales de justicia.
+
+Proceso
+
+![[proceso.png]]
+
+*historia*
+
+Ya eran usados en juicios en la antigua Roma
+- Para disputas de lindes de tierras, embarazos, etc.
+Después se van extendiendo a otras áreas
+- P. ej.: caligrafía
+En la Edad Media en España aparecen los
+peritos especializados en Medicina Forense
+• En el entorno industrial, el título se crea en el
+Real Decreto del 17 de agosto de 1901
