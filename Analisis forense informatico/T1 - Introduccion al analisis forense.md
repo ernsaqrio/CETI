@@ -181,3 +181,7 @@ Los peritos pueden ser contratados con fines preventivos, correctivos o probator
 - Valoración y Tasación de equipos tecnológicos
 - Certificaciones y Homologaciones
 - Recuperación de Datos
+- Asesoría Informática y formación a profesionales del Derecho, Administración pública, Cuerpos y Fuerzas de Seguridad del Estado...
+- Supervisión de actividad laboral informática
+- Detección y asesoría en casos de competencia desleal
+- Seguimiento de correos, autores de publicaciones, propietarios de páginas Web
