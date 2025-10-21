@@ -37,5 +37,8 @@ También sacar información de un crimen que no emplea tecnología
 
 *Enfoques*
 - Presentar evidencia ante un Tribunal de Justicia
-	- 
+	- Casos de competencia desleal, fuga de información, incumplimiento de contrato, plagio, acoso, fraude financiero, investigación de seguros, homicidios, secuestros, pornografía infantil o ciberterrorismo.
 -  Analizar un incidente
+	- no se trata de responder al incidente
+		- No trata de contenerlo, solucionarlo y recuperar el sistema
+	- DFIR (Digital Forensics Incident Response)

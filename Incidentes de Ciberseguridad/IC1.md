@@ -150,4 +150,44 @@ MEDIDAS DE SEGURIDAD DE CARÁCTER TÉCNICO
 - Habilitar mecanismos de seguridad en la impresión de documentos.
 - Limitar el acceso a la red corporativa a equipos no seguros
 
+**Plan de concienciación**
 
+1. La normativa de protección del puesto de trabajo no es suficiente
+2. El plan de concienciación deberá alcanzar a todo el personal de la empresa
+3. Debe tener en cuenta el perfil del empleado
+
+Todo el personal de una empresa u organización debe ser consciente de la necesidad de garantizar la seguridad de los sistemas de información, así como ellos mismos son una pieza esencial en el mantenimiento y mejora de la seguridad.
+
+*Elementos a concienciar*
+- INCIBE nos proporciona una [guía de ciberamenazas contra entornos empresariales.]()
+- En esta guía aparecen los ataques más habituales contra las empresas
+- Otra [guía]() útil es la realizada por OSI sobre ciberataques
+- Cumplimiento de la normativa interna.
+- Contraseñas seguras y únicas.
+- Uso responsable del email corporativo
+- MFA ó 2FA
+- Cifrado
+- Phishing, smishing, vishing, spear phishing…
+- Leaks o fugas de información.
+- Ataques de ingeniería social
+- Uso de soportes de datos desconocidos.
+- Ejecutar archivos con origen desconocido
+
+*¿Qué tener en cuenta?*
+- Realizar una evaluación de ciberseguridad para identificar el riesgos e impacto de los ciberataques.
+- Métodos de capacitación preferidos.
+- Estrategias de refuerzo y medición para garantizar que se cumplan los objetivos de seguridad de la empresa.
+- Evaluación periódica del programa
+
+*EJ1*
+
+1. Planificación del plan de concienciación.
+	1.1. Identificar las necesidades.
+	1.2 Destacar las debilidades.
+	1.3 Adaptar el programa.
+	1.4 Aplicar metodologías educativas.
+2. Implementación.
+	2.1 Estrategia y enfoque.
+	2.2 Involucrar a todo el personal.
+	2.3 Establecer responsabilidades.
+	2. Implementación.
