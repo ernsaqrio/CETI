@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03eab691d893eeb1",
+        "id": "0342e03eebcaf02a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8b174921b2305ea",
+            "id": "2c88a4f88288ebec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,15 +170,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8b174921b2305ea",
+  "active": "2c88a4f88288ebec",
   "lastOpenFiles": [
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
+    "Incidentes de Ciberseguridad/IC1.md",
     "Analisis forense informatico/Practica RAM.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
     "Bastionado/Tema 1.md",
     "Bastionado/Bastionado.md",
-    "Incidentes de Ciberseguridad/IC1.md",
     "Bastionado/Repaso de redes.md",
     "Incidentes de Ciberseguridad/IC_Indice.md",
     "Puesta en produccion segura/T1 - Entendiendo el código de nuestras aplicaciones.md",

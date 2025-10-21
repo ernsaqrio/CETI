@@ -42,3 +42,14 @@ También sacar información de un crimen que no emplea tecnología
 	- no se trata de responder al incidente
 		- No trata de contenerlo, solucionarlo y recuperar el sistema
 	- DFIR (Digital Forensics Incident Response)
+
+*Objetivos*
+
+- Investigación de incidente de seguridad
+	- ¿Quién nos ha atacado?
+	- ¿Cuándo se ha producido el ataque?
+	- ¿Cómo se ha producido?
+	- ¿Qué vulnerabilidad se explotó?
+	- ¿Qué hizo dentro del sistema?
+	- ¿Dónde?
+- En caso de otros delitos
