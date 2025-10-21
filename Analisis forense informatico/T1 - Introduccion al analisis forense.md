@@ -109,8 +109,7 @@ Intervenir en el juicio
 - Formulación de tachas
 
 *Habilidades*
-
-Aseguramiento de la escena
+- Aseguramiento de la escena
 - Recolección de pruebas
 - Preservación de pruebas
 - Manejo de la cadena de custodia
@@ -118,3 +117,20 @@ Aseguramiento de la escena
 - Generación de dictámenes
 - Conocimiento legislativo
 
+*nombramiento*
+
+Peritos nombrados judicialmente
+- A partir de una lista de titulados creada por el
+- Colegio profesional o asociación similar
+- Pueden ser recusados
+- Pueden excusarse de participar
+	- Bajo causa justificada (p. ej.: no tener conocimiento o experiencia suficiente en la materia)
+	- Si no se le asigna la provisión que solicite en plazo
+		- Sólo civil, en penal el juez pide los medios y se cobra al final
+
+![[seleccion.png]] 
+
+Peritos nombrados por una o ambas partes
+- Tienen que ser aceptados por el juez o fiscal
+- No necesitan ser titulados
+- Pueden ser tachados por nepotismo, etc.
