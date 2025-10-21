@@ -134,3 +134,40 @@ Peritos nombrados por una o ambas partes
 - Tienen que ser aceptados por el juez o fiscal
 - No necesitan ser titulados
 - Pueden ser tachados por nepotismo, etc.
+	- Tachado significa que no se le recusa aunque sí se tiene en cuenta la circunstancia
+	- P. ej.: si el perito de una empresa es un propio trabajador de la empresa
+
+**Código deontológico**
+
+*Responsabilidad civil*
+
+- Sujeto a responsabilidad civil
+	- Por acción u omisión
+	- Obligado a reparar el daño a un particular
+- Causas:
+	- Faltar al Secreto Profesional
+	- Daño patrimonial
+		- Pérdida o deterioro de objetos, bien mal valorado, etc.)
+	- Falsedad en documento privado
+	- Responsabilidad contractual
+		- No hacer la tarea, hacerlo fuera de plazo o errores flagrantes
+
+*Responsabilidad penal*
+
+- Sujeto a responsabilidad penal
+	-  Hecho delictivo voluntario
+	- Obligado a reparar el daño a la sociedad
+- Causas:
+	- Falso testimonio o perjurio
+	- Cohecho o soborno
+	- Denegación de auxilio a la justicia
+	- Desobediencia al Juez o Tribunal
+	- Perturbación del orden en el Juzgado o Tribunal
+
+*Responsabilidad disciplinaria y profesional*
+
+- Sujeto a Responsabilidad disciplinaria
+	- No comparecer en juicio o vista cuando sea requerido judicialmente (por escrito) para ello
+- Sujeto a Responsabilidad profesional
+	- No cumplir el código deontológico o el procedimiento disciplinario Colegial
+
