@@ -26,6 +26,16 @@ También sacar información de un crimen que no emplea tecnología
 	- iOS
 - Dispositivos industriales
 - Redes:
+	- Redes Ethernet
+	- Redes Wifi
 - Sistemas Cloud:
+	- AWS
+	- Azure
+	- Google Cloud
 - Dispositivos IoT
 - Multimedia
+
+*Enfoques*
+- Presentar evidencia ante un Tribunal de Justicia
+	- 
+-  Analizar un incidente
