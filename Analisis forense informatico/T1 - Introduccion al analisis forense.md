@@ -15,4 +15,17 @@ Generalmente dicha infraestructura ha sufrido un incidente de seguridad informá
 También sacar información de un crimen que no emplea tecnología
 - P. ej.: Verificar una coartada
 
-Tipos de 
+*Tipos de infraestructura*
+
+- S.O del PC:
+	- Windows
+	- GNU / Linux
+	- MacOS
+- Dispositivos móviles:
+	- Android
+	- iOS
+- Dispositivos industriales
+- Redes:
+- Sistemas Cloud:
+- Dispositivos IoT
+- Multimedia
