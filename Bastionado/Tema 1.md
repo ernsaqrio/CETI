@@ -104,9 +104,9 @@ Mediante las respuestas a las preguntas del cuestionario interactivo, iremos con
 - ==Análisis de riesgos==
 - Tener el presupuesto de los equipos que protegen el sistema.
 
-**Plan director de seguridad**
+**Plan directo de seguridad**
 
-Un plan director de seguridad es un conjunto de actividades direccionadas a elevar el nivel de ciberseguridad. Las acciones que se han de llevar a cabo tienen el propósito de reducir los riesgos a los que se pueda exponer una organización. Esta reducción se considerará adecuada cuando tras los análisis, se consideren que los riesgos se han minimizado hasta un nivel aceptable.
+Un plan directo de seguridad es un conjunto de actividades direccionadas a elevar el nivel de ciberseguridad. Las acciones que se han de llevar a cabo tienen el propósito de reducir los riesgos a los que se pueda exponer una organización. Esta reducción se considerará adecuada cuando tras los análisis, se consideren que los riesgos se han minimizado hasta un nivel aceptable.
 
 Como se ha mencionado previamente, cualquier proyecto de ciberseguridad hade estar alineado con el negocio de la organización y nunca discurrir por un camino fuera de la estrategia. La ciberseguridad apoya al negocio.
 
