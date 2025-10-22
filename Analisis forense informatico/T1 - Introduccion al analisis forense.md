@@ -219,13 +219,21 @@ A la sentencia se le llama laudo
 *Constitución Española*
 
 Garantizar los siguientes [derechos fundamentales]()
-– A la seguridad jurídica (art. 9.3) y tutela judicial
-efectiva (art. 24.1)
-• Proceso judicial con garantías.
-– Al honor, a la intimidad personal y familiar, y la
-propia imagen (art. 18.1)
-• Limitación del uso de la informática para proteger el honor y
-la intimidad (art. 18.4)
-– Al secreto de las comunicaciones (art. 18.3)
-– A la protección de datos (STC 292/2000)
+-  A la seguridad jurídica (art. 9.3) y tutela judicial efectiva (art. 24.1)
+	- Proceso judicial con garantías.
+- Al honor, a la intimidad personal y familiar, y la propia imagen (art. 18.1)
+	- Limitación del uso de la informática para proteger el honor y la intimidad (art. 18.4)
+- Al secreto de las comunicaciones (art. 18.3)
+- A la protección de datos ([STC 292/2000]())
 
+*Enjuiciamiento civil y criminal*
+
+[Ley 1/2000](), de 7 de enero, de Enjuiciamiento Civil (LEC)
+[Real Decreto de 14 de septiembre de 1882]()  Ley de Enjuiciamiento Criminal (LECrim)
+- Art. 326, recogida de pruebas
+- Arts. 456-485, 661-663, 723-725 y 334-367, sobre peritos e informes periciales
+- Art. 588, sobre interceptación de comunicaciones
+	- Muy modificado por la [LO 13/2015, de 5 de octubre]()
+[Circular 5/2019, de 6 de marzo](), de la FGE, sobre registro de dispositivos y equipos informáticos
+
+*Sistemas de información y Comercio electrónico*
