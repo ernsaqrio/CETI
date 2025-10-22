@@ -188,5 +188,44 @@ Los peritos pueden ser contratados con fines preventivos, correctivos o probator
 - Análisis informático forense de videos, imágenes digitales y audio
 - Asesoría sobre falsificación de correos, imágenes, violaciones de seguridad, infiltraciones, doble contabilidad, fraude financiero y de sistemas informáticos, robo de claves, información sensible, secretos industriales, errores en la cadena de custodia, etc.
 
-*cobro de honorarios*
+**cobro de honorarios**
+
+Solicitado por una de las partes => se trata como un contrato privado más
+
+Solicitado por el juez => pagado por las partes
+- A través del juzgado o directamente por ellas
+- Puede presentar escrito al juez o renunciar si no le pagan en tiempo y forma
+
+Justicia gratuita => pago por parte de Admon. de Justicia que no cubre los gastos ni de lejos
+- puede cobrar más si hay beneficio económico
+
+
+**Arbitraje**
+
+Más rápido y barato que el proceso judicial
+- Contemplado en las leyes [60/2003]() y [11/2011]()
+- Debe ser de mutuo acuerdo y renuncia a la vía judicial
+
+En lugar del juez hay uno o varios árbitros
+- En arbitraje de derecho, han de ser abogados
+- En el de equidad, serán profesionales de la materia
+
+A la sentencia se le llama laudo
+- De obligado cumplimiento y no recurrible, pero se puede solicitar su anulación
+
+
+**Legislación aplicable al Análisis Forense Informático**
+
+*Constitución Española*
+
+Garantizar los siguientes [derechos fundamentales]()
+– A la seguridad jurídica (art. 9.3) y tutela judicial
+efectiva (art. 24.1)
+• Proceso judicial con garantías.
+– Al honor, a la intimidad personal y familiar, y la
+propia imagen (art. 18.1)
+• Limitación del uso de la informática para proteger el honor y
+la intimidad (art. 18.4)
+– Al secreto de las comunicaciones (art. 18.3)
+– A la protección de datos (STC 292/2000)
 
