@@ -185,3 +185,8 @@ Los peritos pueden ser contratados con fines preventivos, correctivos o probator
 - Supervisión de actividad laboral informática
 - Detección y asesoría en casos de competencia desleal
 - Seguimiento de correos, autores de publicaciones, propietarios de páginas Web
+- Análisis informático forense de videos, imágenes digitales y audio
+- Asesoría sobre falsificación de correos, imágenes, violaciones de seguridad, infiltraciones, doble contabilidad, fraude financiero y de sistemas informáticos, robo de claves, información sensible, secretos industriales, errores en la cadena de custodia, etc.
+
+*cobro de honorarios*
+
