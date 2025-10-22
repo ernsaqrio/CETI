@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
+                "file": "Bastionado/Tema 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T1 - Introduccion al analisis forense"
+              "title": "Tema 1"
             }
           }
         ]
@@ -170,13 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2f07224029a2894",
+  "active": "2c88a4f88288ebec",
   "lastOpenFiles": [
+    "Incidentes de Ciberseguridad/IC1.md",
+    "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Imagenes/seleccion.png",
     "Imagenes/Captura de pantalla 2025-10-21 182707.png",
     "Imagenes/proceso.png",
-    "Incidentes de Ciberseguridad/IC1.md",
-    "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Analisis forense informatico/Practica RAM.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",

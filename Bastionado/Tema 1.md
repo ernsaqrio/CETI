@@ -103,3 +103,19 @@ Mediante las respuestas a las preguntas del cuestionario interactivo, iremos con
 - Configurando los firewall
 - ==Análisis de riesgos==
 - Tener el presupuesto de los equipos que protegen el sistema.
+
+**Plan director de seguridad**
+
+Un plan director de seguridad es un conjunto de actividades direccionadas a elevar el nivel de ciberseguridad. Las acciones que se han de llevar a cabo tienen el propósito de reducir los riesgos a los que se pueda exponer una organización. Esta reducción se considerará adecuada cuando tras los análisis, se consideren que los riesgos se han minimizado hasta un nivel aceptable.
+
+Como se ha mencionado previamente, cualquier proyecto de ciberseguridad hade estar alineado con el negocio de la organización y nunca discurrir por un camino fuera de la estrategia. La ciberseguridad apoya al negocio.
+
+
+Un plan director, ha de incluir tanto medidas técnicas como medidas organizativas en su ejecución y como otros planes, tiene que contener una definición y alcance concreto que permita incrementar la seguridad en los procesos considerados como críticos de la organización. 
+
+Uno de los errores más comunes es diseñar planes que no son realistas, esto son aquellos
+que tratan de abarcar cuestiones que no son críticas o que implementan soluciones sobredimensionadas.
+
+No existe una manera única de llevar a cabo o implementar un plan director, de hecho, variará en función de varias características de la organización donde se desee implementar como por ejemplo la dependencia tecnológica, el sector al que pertenece la organización o la criticidad de la información que se maneje, entre otros. Por ejemplo, no tendrán los mismos requerimientos una empresa dedicada a cuestiones agrícolas que una que ofrece servicios tecnológicos.
+
+Los planes directores de seguridad, así como la certificación en estándares que veremos a continuación, se basan en lo que se denominan, ciclos de mejora continua. Esto supone que tras la implementación, el ciclo continua para iterar de nuevo, pues las tecnologías, la situación de las empresas y otros factores, cambian a lo largo del tiempo.
