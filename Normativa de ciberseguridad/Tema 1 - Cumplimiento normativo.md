@@ -369,6 +369,171 @@ Compliance Officer actúa como un enlace entre la estrategia de negocio y las ex
 *Objetivo del Compliance Officer*
 
 Prevenir sanciones legales y multas.
+
 Proteger la reputación y confianza de la organización.
+
 Promover la ética corporativa y la cultura del cumplimiento.
+
 Alinear la ciberseguridad con el marco regulatorio.
+
+*Conocimientos clave*
+
+Estándares → ISO 27001, NIST, etc.
+
+Regulaciones → RGPD, HIPAA...
+
+Políticas → Normas internas de seguridad y conducta.
+
+Leyes → Legislación nacional e internacional aplicable.
+
+Normas → Procedimientos técnicos y operativos específicos.
+
+*Funciones y Responsabilidades*
+
+Las funciones pueden variar según el tamaño y la naturaleza de la organización, pero en general se agrupan en siete áreas clave.
+
+==1. Interpretación y Seguimiento Normativo==
+
+Conocer y mantenerse actualizado sobre leyes, regulaciones y estándares de ciberseguridad y protección de datos. 
+
+Analizar el impacto de los cambios regulatorios en la organización. 
+
+Asegurar la alineación continua entre las operaciones y los requisitos normativos.
+
+==2. Desarrollo de Políticas y Procedimientos Internos
+
+Diseñar, implementar y mantener políticas corporativas de cumplimiento.
+
+Incluir áreas como seguridad de la información, gestión de riesgos y privacidad de datos.
+
+Garantizar que los documentos reflejen los requisitos legales y regulatorios vigentes.
+
+==3. Formación y Concienciación del Personal==
+
+Organizar sesiones de capacitación sobre políticas de cumplimiento. 
+
+Elaborar materiales formativos y campañas internas. 
+
+Promover una cultura de cumplimiento y responsabilidad individual. 
+
+Recordar: “El eslabón más débil siempre es la persona”.
+
+==4. Monitorización y Auditoría del Cumplimiento==
+
+Supervisar el cumplimiento de políticas y controles internos.
+
+Realizar auditorías periódicas y revisiones de seguridad.
+
+Coordinar con áreas técnicas para vigilar eventos de seguridad.
+
+Comprobar la eficacia de los controles de seguridad de la información.
+
+==5. Gestión de Incidentes y Respuesta a Emergencias==
+
+Coordinar la respuesta ante incidentes de seguridad o brechas de datos. 
+
+Colaborar con los equipos técnicos y legales en la contención y notificación. 
+
+Aplicar medidas correctivas y preventivas. 
+
+Mantener comunicación con autoridades regulatorias cuando sea necesario.
+
+==6. Reporte y Comunicación==
+
+Informes regulares sobre el estado del cumplimiento en ciberseguridad. 
+
+Presentaciones a la alta dirección sobre el cumplimiento normativo. 
+
+Comunicación de incidentes de seguridad a los stakeholders relevantes.
+
+==7. Coordinación con Autoridades Reguladoras==
+
+Punto de contacto para auditorías externas. 
+
+Colaboración en la preparación de documentación y respuestas a solicitudes de información. 
+
+Supervisión de investigaciones regulatorias relacionadas con ciberseguridad.
+
+
+*Marco Normativo del Compliance Officer en Europa y España*
+
+==Influencia normativa en el rol del Compliance Officer==
+
+El rol del Compliance Officer está condicionado por directrices europeas y nacionales. 
+
+Estas normas establecen requisitos, responsabilidades y expectativas en materia de cumplimiento y gestión de riesgos. 
+
+En España, se complementan regulaciones de la Unión Europea con leyes nacionales específicas.
+
+==1. Reglamento General de Protección de Datos (RGPD)==
+
+Normativa de la Unión Europea sobre protección de datos personales. 
+
+Obliga a designar un Delegado de Protección de Datos (DPO). 
+
+El Compliance Officer colabora con el DPO en la supervisión del cumplimiento del RGPD. 
+
+Actúa como enlace con las autoridades de protección de datos.
+
+==2. Reglamento de Ciberseguridad (UE) 2019/881==
+
+Establece un marco europeo de certificación para productos y servicios TIC. 
+
+Refuerza el papel de [ENISA,]() la agencia europea de ciberseguridad. 
+
+El Compliance Officer debe alinear las políticas internas con los estándares de certificación y seguridad.
+
+==3. Directiva NIS (Seguridad de Redes y Sistemas de Información)==
+
+Fija requisitos de ciberseguridad para proveedores de servicios esenciales.
+
+Obliga a implementar medidas técnicas y organizativas de seguridad.
+
+El Compliance Officer asegura la conformidad de la empresa con las exigencias de la directiva.
+
+==4. Ley de Seguridad Nacional (España, Ley 36/2015)==
+
+Define el marco legal para la seguridad nacional.
+
+Busca proteger los intereses estratégicos del país frente a amenazas y riesgos.
+
+Impulsa la coordinación entre organismos públicos.
+
+El Compliance Officer debe conocer esta ley cuando su organización forma parte de infraestructuras críticas o estratégicas.
+
+==5. Esquema Nacional de Seguridad (ENS)==
+
+Marco normativo nacional para la seguridad en las Administraciones Públicas.
+
+Establece medidas y controles mínimos obligatorios.
+
+Supervisa el cumplimiento a través del Centro Criptológico Nacional (CCN).
+
+El Compliance Officer vela por la implementación y revisión de medidas ENS en organismos públicos o contratistas.
+
+==6. Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD)==
+
+Complementa el RGPD a nivel nacional.
+
+Introduce disposiciones específicas sobre derechos digitales y privacidad.
+
+El Compliance Officer debe asegurar la armonización entre las políticas internas y ambos marcos legales (RGPD + LOPDGDD).
+
+==7. Ley de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI-CE)==
+
+Regula la prestación de servicios digitales y comercio electrónico.
+
+Afecta la protección de datos online y la información al usuario.
+
+El Compliance Officer debe verificar que la empresa cumpla con las obligaciones de transparencia y
+consentimiento digital.
+
+==8. Normas ISO de Gestión de Seguridad de la Información==
+
+ISO 27001 e ISO 27002: estándares internacionales no obligatorios, pero altamente recomendados.
+
+Proporcionan buenas prácticas para sistemas de gestión de seguridad de la información (SGSI).
+
+El Compliance Officer puede utilizarlas como referencia
+estratégica para la mejora continua del cumplimiento y la
+seguridad.
