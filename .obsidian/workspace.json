@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado/Mindmap 1.md",
+                "file": "Bastionado/Tema 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mindmap 1"
+              "title": "Tema 1"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "2c88a4f88288ebec",
   "lastOpenFiles": [
-    "Pasted image 20251023165511.png",
+    "Bastionado/Repaso de redes.md",
     "Bastionado/Bastionado.md",
-    "Bastionado/Tema 1.md",
     "Bastionado/Mindmap 1.md",
+    "Pasted image 20251023165511.png",
+    "Bastionado/Tema 1.md",
     "Incidentes de Ciberseguridad/IC1.md",
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Imagenes/seleccion.png",
@@ -184,7 +185,6 @@
     "Analisis forense informatico/Practica RAM.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
-    "Bastionado/Repaso de redes.md",
     "Incidentes de Ciberseguridad/IC_Indice.md",
     "Puesta en produccion segura/T1 - Entendiendo el código de nuestras aplicaciones.md",
     "Incidentes de Ciberseguridad/Actividad 1.1 - Principios, amenazas y medidas.md",
