@@ -242,3 +242,67 @@ Finalidad: Minimizar amenazas y proteger la continuidad del negocio.
 Ejemplo: Realizar auditorías periódicas de seguridad y establecer planes de contingencia frente a ataques de phishing.
 
 ==Implementación de controles y medidas de seguridad==
+
+Aplicar políticas y tecnologías para proteger los activos digitales.
+Implicaciones:
+- Uso de tecnologías avanzadas de seguridad (firewalls, cifrado, IAM).
+- Capacitación constante del personal en buenas prácticas de ciberseguridad.
+- Establecimiento de políticas de seguridad robustas.
+
+Finalidad: Prevenir accesos no autorizados y proteger la información sensible.
+Ejemplo: Implementar un sistema de gestión de identidades y accesos (IAM) para controlar los permisos de los usuarios.
+
+==Monitorización y respuesta efectiva==
+
+Detectar y responder rápidamente a incidentes de seguridad.
+Implicaciones:
+- Monitorización continua de redes y sistemas.
+- Investigación y mitigación rápida de amenazas.
+- Establecimiento de planes de respuesta ante incidentes.
+
+Finalidad: Minimizar el impacto de ataques y asegurar la
+continuidad del negocio.
+Ejemplo: Uso de un Security Operations Center (SOC) para monitorear y responder a intrusiones en tiempo real.
+
+*Ética empresarial*
+
+Conjunto de principios, valores y normas que guían el comportamiento de una organización con empleados, clientes, proveedores, accionistas y la sociedad.
+Fundamento:
+- Equilibrio entre beneficio económico e impacto social y ambiental.
+- En ciberseguridad, destaca en la protección de datos y la privacidad de usuarios.
+
+Relación con Responsabilidad Social Corporativa (RSC):
+- Las empresas éticas suelen implementar políticas de RSC, buscando sostenibilidad, respeto por derechos humanos y bienestar social.
+- En España, el [Observatorio de Responsabilidad Social Corporativa]() guía la implantación de estas prácticas.
+
+Los [objetivos de desarrollo sostenible definidos por la ONU]() están muy presentes en la ética empresarial.
+
+Aquellas empresas que tienen un fuerte compromiso ético y social suelen desarrollar lo que se denomina la responsabilidad social corporativa.
+
+![[etica empresarial.png]]
+
+En España existe el Observatorio de Responsabilidad Social Corporativa.
+
+Organización independiente sin ánimo de lucro y referente del tercer sector.
+
+Dedicación:
+- Incidencia
+- Desarrollo
+- e implantación de políticas de responsabilidad social corporativa, en el ámbito nacional e internacional.
+
+![[csr.png]]
+
+==Aspectos clave==
+
+Transparencia y honestidad
+- Las organizaciones éticas son transparentes en operaciones y comunicaciones.
+- Proporcionan información veraz y completa a todas las partes interesadas.
+- Evitan la ocultación de información relevante.
+- Fomentan la honestidad en todas las interacciones comerciales.
+
+Respeto por los Derechos Humanos
+- Garantizar condiciones laborales justas y seguras.
+- Respetar la diversidad y la igualdad de oportunidades.
+- Proteger los derechos individuales de empleados y colaboradores.
+
+
