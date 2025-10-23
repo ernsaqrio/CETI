@@ -534,6 +534,89 @@ ISO 27001 e ISO 27002: estándares internacionales no obligatorios, pero altamen
 
 Proporcionan buenas prácticas para sistemas de gestión de seguridad de la información (SGSI).
 
-El Compliance Officer puede utilizarlas como referencia
-estratégica para la mejora continua del cumplimiento y la
-seguridad.
+El Compliance Officer puede utilizarlas como referencia estratégica para la mejora continua del cumplimiento y la seguridad.
+
+==Otras normativas y actualización constante==
+
+Las mencionadas son solo algunas de las normativas másrelevantes.
+
+Según el sector (financiero, sanitario, energético, tecnológico, etc.), pueden aplicar otras regulaciones específicas.
+
+Las normas están en constante evolución, por lo que el Compliance Officer debe mantenerse actualizado sobre cambios y nuevas directrices.
+
+*Informes elaborados por el Compliance Officer*
+
+==Importancia de los informes de cumplimiento==
+
+Reflejan el estado del cumplimiento normativo en la organización. 
+
+Sirven como base para la toma de decisiones estratégicas. 
+
+Facilitan la comunicación con la alta dirección y autoridades reguladoras. 
+
+Contribuyen a la transparencia y mejora continua del sistema de cumplimiento.
+
+==1. Informe Anual de Cumplimiento Normativo==
+
+Incluye información sobre: 
+- Políticas y procedimientos implementados. 
+- Actividades de formación y concienciación. 
+- Investigaciones internas realizadas. 
+- Medidas disciplinarias adoptadas. 
+- Áreas de mejora identificadas.
+
+==2. Informe de Evaluación de Riesgos==
+
+Evalúa los riesgos de incumplimiento normativo basándose en: 
+- El sector en el que opera la empresa. 
+- Las leyes y regulaciones aplicables. 
+- Las actividades y procesos de la organización. 
+- Los antecedentes históricos en cumplimiento normativo. 
+
+Este informe es esencial para anticipar riesgos y establecer prioridades en la gestión del cumplimiento.
+
+==3. Informe de Investigación Interna==
+
+Se elabora ante posibles irregularidades detectadas. Debe incluir:
+- Descripción de la irregularidad.
+- Identificación de las personas involucradas.
+- Evidencias o pruebas recopiladas.
+- Recomendaciones de medidas disciplinarias o legales.
+
+==Otros tipos de informes==
+
+Otros tipos:
+- Eficacia de políticas y procedimientos de cumplimiento. 
+- Tendencias y cambios en materia de cumplimiento normativo. 
+- Buenas prácticas y benchmarking* en cumplimiento y ciberseguridad. 
+
+benchmarking: proceso de análisis comparativo que evalúa productos, servicios y procesos de una empresa comparándolos con los de otras organizaciones líderes en su sector.
+
+==Recomendaciones para la elaboración de informes==
+- Ser claros, concisos y objetivos. 
+- Basarse siempre en hechos y evidencias verificables. 
+- Evitar opiniones personales o juicios subjetivos. 
+- Mantener un lenguaje profesional y técnico. 
+- Garantizar la confidencialidad de la información tratada.ç
+
+==Redacción profesional de informes de Compliance==
+
+Cómo redactar un informe de Compliance Officer.:
+- Usar un lenguaje formal, claro y preciso. 
+- Redactar en tercera persona (evitar el “yo” o el “nosotros”). 
+- Evitar opiniones personales o juicios de valor. 
+- Basarse únicamente en hechos comprobables y evidencias. 
+- Mantener un tono objetivo, técnico y neutral. 
+- Cuidar la estructura lógica: introducción, desarrollo, conclusiones y recomendaciones. 
+- Utilizar verbos en forma impersonal o pasiva (“se determinó que…”, “fue verificado…”).
+
+Ejemplos: 
+- **Incorrecto:** 
+	- “El empleado parece haber actuado sin mala intención.”
+	- “Considero que el incidente fue causado por una mala configuración del sistema.”
+- **Correcto:** 
+	- "No se encontraron evidencias que indiquen intencionalidad en las acciones del empleado involucrado."
+	- “Se determinó que el incidente se originó por una configuración incorrecta del sistema, según el análisis realizado el 15 de septiembre de 2025.”
+
+
+
