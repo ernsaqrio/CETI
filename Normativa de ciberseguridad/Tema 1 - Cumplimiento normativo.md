@@ -305,4 +305,70 @@ Respeto por los Derechos Humanos
 - Respetar la diversidad y la igualdad de oportunidades.
 - Proteger los derechos individuales de empleados y colaboradores.
 
+Responsabilidad social y ambiental
+- Asumir la responsabilidad de impactos sociales y medioambientales.
+- Minimizar efectos negativos y contribuir al desarrollo sostenible.
+- Implementar iniciativas de responsabilidad social corporativa.
+- Promover la conservación del medioambiente.
 
+Cumplimiento de normativas y regulaciones
+- Respetar todas las leyes, regulaciones y estándares aplicables.
+- Cumplir normativas de protección de datos y seguridad de la información.
+- Asegurar competencia leal y comercio responsable.
+
+Integridad y ética en la toma de decisiones
+- Priorizar intereses a largo plazo sobre beneficios a corto plazo.
+- Evitar prácticas engañosas o fraudulentas.
+- Fomentar una cultura de integridad y ética en la organización.
+
+ ==En la ciberseguridad==
+
+La ética empresarial es clave para la protección de datos y seguridad de la información.
+
+El manejo adecuado de información confidencial y la privacidad de usuarios es fundamental.
+
+Una buena ética contribuye a funcionamiento efectivo y reputación sólida de la organización.
+
+==Principios de protección de la información==
+
+Garantizar:
+- Confidencialidad
+- Integridad
+- Disponibilidad de la información
+
+==Medidas prácticas==
+
+Implementar controles de seguridad adecuados.
+
+Capacitar al personal en buenas prácticas de ciberseguridad.
+
+Cumplir con la normativa y regulaciones aplicables.
+
+==Beneficios de la ética en ciberseguridad==
+
+Refuerza la reputación y la confianza de clientes y colaboradores.
+
+Contribuye al éxito a largo plazo de la organización.
+
+Favorece el bienestar de la sociedad y el desarrollo sostenible.
+
+**1.4 - Compliance officer: funciones y responsabilidades**
+
+*¿Qué es un Compliance Officer?*
+
+Profesional especializado en ciberseguridad y cumplimiento normativo.
+
+Su función principal es garantizar que la organización cumpla con las leyes, regulaciones y normativas aplicables.
+
+Asegura que la empresa opere dentro de los límites legales y éticos.
+
+Busca minimizar el riesgo de incumplimientos que puedan derivar en sanciones o daños reputacionales.
+
+Compliance Officer actúa como un enlace entre la estrategia de negocio y las exigencias regulatorias, asegurando un equilibrio entre innovación y cumplimiento.
+
+*Objetivo del Compliance Officer*
+
+Prevenir sanciones legales y multas.
+Proteger la reputación y confianza de la organización.
+Promover la ética corporativa y la cultura del cumplimiento.
+Alinear la ciberseguridad con el marco regulatorio.
