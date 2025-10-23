@@ -198,3 +198,47 @@ Finalidad del cumplimiento normativo
 
 El cumplimiento normativo es una inversión en reputación,
 seguridad y sostenibilidad.
+
+**1.3 Principios del buen gobierno y ética empresarial**
+
+Cómo la gestión ética y responsable protege los activos digitales y fortalece la confianza.
+
+*Buen gobierno en ciberseguridad*
+
+
+Los principios de buen gobierno se vinculan con el cumplimiento normativo.
+Las regulaciones y estándares proporcionan un marco legal y técnico para:
+- Proteger los activos digitales.
+- Fomentar la confianza con colaboradores y organismos.
+Ejemplos clave:
+- GDPR (UE) – protección de datos personales.
+- Ley de Ciberseguridad (EE. UU.).
+- ISO 27001 – estándares de seguridad de la información.
+
+Recuerda: Al adherirse a unos marcos normativos las organizaciones no solo fortalecen su postura de seguridad, sino que también están mitigando el riesgo de sanciones legales y de daños a su reputación.
+
+*Principios fundamentales del buen gobierno en ciberseguridad*
+
+==Liderazgo ejecutivo y compromiso corporativo==
+
+El buen gobierno en ciberseguridad se inicia con el compromiso activo de la dirección ejecutiva. 
+Implicaciones:
+- Asignación de recursos adecuados para la protección de activos digitales. 
+- Establecimiento de políticas claras de seguridad. 
+- Promoción de una cultura de seguridad que impregne a todos los niveles de la organización. 
+
+Finalidad: Garantizar que la ciberseguridad sea una prioridad estratégica.
+Ejemplo: Un CEO que aprueba presupuesto para implementar controles de seguridad y respalda públicamente iniciativas de ciberseguridad.
+
+==Gestión integral de riesgos==
+
+Identificar y gestionar proactivamente los riesgos cibernéticos.
+Implicaciones:
+- Evaluación de riesgos técnicos, humanos y de procesos.
+- Implementación de medidas de mitigación antes de que ocurran incidentes.
+- Monitoreo continuo de amenazas y vulnerabilidades.
+
+Finalidad: Minimizar amenazas y proteger la continuidad del negocio.
+Ejemplo: Realizar auditorías periódicas de seguridad y establecer planes de contingencia frente a ataques de phishing.
+
+==Implementación de controles y medidas de seguridad==
