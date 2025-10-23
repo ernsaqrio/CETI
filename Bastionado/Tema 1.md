@@ -1,5 +1,9 @@
 **Necesidad**
 
+CERT: Computer Emergency Response Team
+CIRT: Computer Incident Response Team
+CSIRT: Computer Security Incident Response Team
+
 Es necesario hacer bastionado para:
 - mantener las famosas 3 dimensiones de la seguridad de la información: confidencialidad, integridad y disponibilidad; y en segundo, porque existen, aunque no a nivel global, numerosos requerimientos legales que precisan de la protección de las infraestructuras tecnológicas que almacenan la información, como por ejemplo los datos de carácter personal.
 - En segundo lugar, por todas las amenazas a las que están sujetos tanto los servicios como las tecnologías.
