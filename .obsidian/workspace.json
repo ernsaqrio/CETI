@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d6d1822f86c9c5b2",
+        "id": "b872fe7c9bd44dd9",
         "type": "split",
         "children": [
           {
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "e8b752e1e2afc7b1",
+            "id": "dc2d7b521aa17f4f",
             "type": "tabs",
             "children": [
               {
-                "id": "484dd9377b1ce946",
+                "id": "d4da1d0e2fa21e7e",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -193,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "484dd9377b1ce946",
+  "active": "d4da1d0e2fa21e7e",
   "lastOpenFiles": [
+    "Bastionado/Bastionado.md",
     "Bastionado/Tema 1.md",
     "Bastionado/Mindmap 1.md",
     "Incidentes de Ciberseguridad/IC1.md",
@@ -205,7 +206,6 @@
     "Analisis forense informatico/Practica RAM.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
-    "Bastionado/Bastionado.md",
     "Bastionado/Repaso de redes.md",
     "Incidentes de Ciberseguridad/IC_Indice.md",
     "Puesta en produccion segura/T1 - Entendiendo el código de nuestras aplicaciones.md",
