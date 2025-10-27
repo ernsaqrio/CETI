@@ -23,7 +23,7 @@ Analiza gran variedad de documentos como .docx, .pdf, etc.
 
 Hace uso de 3 buscadores: Google, Bing y DuckDuckGo.
 
-Estos metadatos nos permite averiguar detalles acerca de la empresa: sofware empleado, autor, correos electrónicos, nombres de equipos y versión del propio software.
+Estos metadatos nos permite averiguar detalles acerca de la empresa: sofware empleado, autor, correos electrónicos, nombres de equipos y versión del propio software. [Repositorio]().
 
 *Exiftool*
 
@@ -39,8 +39,8 @@ Su objetivo principal es la comunicación confidencial e incógnita entre un emi
 *Herramientas*
 
 Dos de las herramientas más conocidas son:
-- [Steghide](): diseñada para ocultar datos en otros archivos.  [Repositorio](). Tutorial.
-- [Stegcracker](): herramienta de fuerza bruta para el descubrimiento de datos ocultos en archivos. Repositorio.
+- [Steghide](): diseñada para ocultar datos en otros archivos.  [Repositorio](). [Tutorial]().
+- [Stegcracker](): herramienta de fuerza bruta para el descubrimiento de datos ocultos en archivos. [Repositorio]().
 Existen otras herramientas en desarrollo como Stegseek y Stegbrute que muestran mayor potencial a la hora de aplicar fuerza bruta.
 
 **Sniffers**
