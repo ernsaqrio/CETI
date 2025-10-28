@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking etico/UD2- Recopilación de información y Sniffers.md",
+                "file": "Bastionado/Tema 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UD2- Recopilación de información y Sniffers"
+              "title": "Tema 1"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "71d63acac9109bd4",
   "lastOpenFiles": [
-    "Hacking etico/UD1 - Introduccion al hacking etico.md",
+    "Bastionado/Bastionado.md",
+    "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Hacking etico/UD2- Recopilación de información y Sniffers.md",
+    "Hacking etico/UD1 - Introduccion al hacking etico.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Imagenes/csr.png",
     "Imagenes/etica empresarial.png",
@@ -181,10 +183,8 @@
     "Pasted image 20251023165511.png",
     "Bastionado/Tema 1.md",
     "Bastionado/Repaso de redes.md",
-    "Bastionado/Bastionado.md",
     "Bastionado/Mindmap 1.md",
     "Incidentes de Ciberseguridad/IC1.md",
-    "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Imagenes/seleccion.png",
     "Imagenes/Captura de pantalla 2025-10-21 182707.png",
     "Imagenes/proceso.png",

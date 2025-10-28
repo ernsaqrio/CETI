@@ -1,7 +1,9 @@
 **Necesidad**
 
 CERT: Computer Emergency Response Team
+
 CIRT: Computer Incident Response Team
+
 CSIRT: Computer Security Incident Response Team
 
 Es necesario hacer bastionado para:
