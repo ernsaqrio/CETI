@@ -182,32 +182,55 @@ Todo el personal de una empresa u organización debe ser consciente de la necesi
 *EJ1*
 
 1. Planificación del plan de concienciación.
+
 	1.1 Identificar las necesidades.
+	
 	1.2 Destacar las debilidades.
+	
 	1.3 Adaptar el programa.
+	
 	1.4 Aplicar metodologías educativas.
+
 2. Implementación.
+
 	2.1 Estrategia y enfoque.
+	
 	2.2 Involucrar a todo el personal.
+	
 	2.3 Establecer responsabilidades.
+
 3. Operar y mantener.
+
 4. Monitorear y evaluar.
+
 	4.1 Inspecciones
+	
 	4.2 Métricas para supervisar.
+	
 	4.3 Actividades y comentarios.
 
 *EJ2*
 
 1. Objetivos
+
 2. Evaluación inicial
+
 	2.1 Identificar las necesidades.
+	
 	2.2 Destacar las debilidades
+
 3. Áreas y contenidos de formación.
+
 4. Grupos/Roles incluidos en el plan.
+
 5. Metodologías formativas
+
 6. Programación del plan de formación
-7. Mantenimiento de la concienciaciónç
+
+7. Mantenimiento de la concienciación
+
 8. Evaluación del plan
+
 	8.1 Métricas
 
 **Desarrollo del material de concierciación**
