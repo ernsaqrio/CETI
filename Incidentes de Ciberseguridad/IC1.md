@@ -65,7 +65,7 @@ En función de la relevancia de los riegos podremos optar por:
 
 **Ciberresiliencia**
 - Es la habilidad de un sistema o red para resistir a los fallos o para recuperarse rápidamente de cualquier disrupción, normalmente con efectos mínimamente reconocibles. (ISACA - Information Systems Audit and Control Association)
-- O la capacidad para anticiparse, resistir, contener y recuperarse rápidamente en caso de que se produzca un incidente de seguridad de la información
+- Capacidad para anticiparse, resistir, contener y recuperarse rápidamente en caso de que se produzca un incidente de seguridad de la información
 
 **Procesos, tecnologías y personas**
 La ciberseguridad de una empresa debe sustentarse en tres pilares fundamentales:
@@ -109,7 +109,7 @@ La ciberseguridad debe enfocarse en proteger:
 **Normativa en el puesto de trabajo**
 - Gran cantidad de recursos económicos en medidas de seguridad 
 - Se suele obviar  la seguridad en el puesto de trabajo.
-- Puesto de trabajo: Ordenador de trabajo, smartphones, tablets, pendrives, impresoras,, documentos, archivadores, etc + BYOD
+- Puesto de trabajo: Ordenador de trabajo, smartphones, tablets, pendrives, impresoras, documentos, archivadores, etc + BYOD
 - Puesto de trabajo + Perfil profesional = Distintas amenazas ⇒ Medidas transversales + Medidas adicionales al perfil
 - Cultura de la seguridad de la información
 
