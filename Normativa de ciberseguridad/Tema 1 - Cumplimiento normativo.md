@@ -701,3 +701,10 @@ Los cuestionarios para la evaluación de un proveedor o cliente suelen recoger l
 Documentos que establecen las normas y expectativas que la empresa tiene con sus proveedores.
 
 Se trata de constatar información para garantizar una buena relación con los proveedores, que regule el cumplimiento normativo y que ayude a:
+- Garantizar que los proveedores cumplen con los estándares de la empresa.
+- Reducir los riesgos de incumplimiento normativo.
+- Proteger la reputación de la empresa.
+- Promover prácticas responsables en toda la cadena de suministro.
+
+![[formulario.png]]
+
