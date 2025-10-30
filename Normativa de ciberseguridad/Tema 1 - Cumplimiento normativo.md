@@ -619,4 +619,12 @@ Ejemplos:
 	- “Se determinó que el incidente se originó por una configuración incorrecta del sistema, según el análisis realizado el 15 de septiembre de 2025.”
 
 
+**1.5 - Relaciones con terceras partes dentro del compliance**
 
+Las terceras partes son entidades o individuos que interactúan con una empresa y que pueden afectar su capacidad para cumplir con las normas y regulaciones.
+
+Las terceras partes como entidades fundamentales en el desarrollo de los objetivos de las organizaciones también están sujetas a cumplimiento normativo.
+
+*Terceras partes*
+
+==Clasificación.==
