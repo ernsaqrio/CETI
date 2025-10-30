@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incidentes de Ciberseguridad/IC1.md",
+                "file": "Hacking etico/THB1- Intro to Network Traffic Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IC1"
+              "title": "THB1- Intro to Network Traffic Analysis"
             }
           }
         ]
@@ -172,13 +172,14 @@
   },
   "active": "71d63acac9109bd4",
   "lastOpenFiles": [
+    "Hacking etico/UD2- Recopilación de información y Sniffers.md",
+    "Hacking etico/THB1- Intro to Network Traffic Analysis.md",
+    "Incidentes de Ciberseguridad/IC1.md",
     "Bastionado/Tema 1.md",
     "Bastionado/Repaso de redes.md",
     "Bastionado/Bastionado.md",
-    "Incidentes de Ciberseguridad/IC1.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
-    "Hacking etico/UD2- Recopilación de información y Sniffers.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Imagenes/csr.png",
     "Imagenes/etica empresarial.png",
