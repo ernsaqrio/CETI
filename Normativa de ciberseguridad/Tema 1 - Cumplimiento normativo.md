@@ -627,4 +627,77 @@ Las terceras partes como entidades fundamentales en el desarrollo de los objetiv
 
 *Terceras partes*
 
-==Clasificación.==
+==Clasificación==
+
+En el contexto del perfil de cumplimiento normativo las terceras partes se pueden clasificar en tres categorías principales:
+- Proveedores:
+	- Proveedores de servicios: empresas que ofrecen servicios a la empresa, como servicios de TI, consultoría, gestión de riesgos, etcétera.
+	- Proveedores de productos: empresas que suministran productos a la empresa, como materias primas, componentes, equipos, etcétera.
+	- Distribuidores: empresas que venden los productos de la empresa a los consumidores finales.
+- Clientes:
+	 - Clientes finales: consumidores que compran los productos o servicios de la empresa.
+	- Clientes intermedios: empresas que compran los productos de la empresa para luego venderlos a los consumidores finales.
+- Otros:
+	- Socios: empresas con las que la empresa colabora en proyectos o iniciativas.
+	- Asesores: consultores, abogados, auditores y otros profesionales que asesoran a la empresa en materia de cumplimiento normativo.
+	- Entidades gubernamentales: organismos que regulan las actividades de la empresa y que pueden imponer sanciones en caso de incumplimiento.
+
+==Importancia==
+
+Gestionar las terceras partes es fundamental para asegurar el cumplimiento normativo.
+
+La empresa debe implementar un proceso de due diligence o «diligencia debida» para evaluar a las terceras partes antes de contratarlas y debe realizar un seguimiento continuo de su desempeño para asegurar que siguen cumpliendo con las normas y regulaciones.
+
+==due diligence==
+
+Protección de datos: determina si la empresa cumple con las leyes de protección de datos
+
+Comercio internacional: en los casos en que existen relaciones comerciales internacionales se ha de evaluar si la empresa cumple con las leyes de comercio internacional.
+
+Medioambiente: observa si la empresa cumple con las leyes de protección del medioambiente.
+
+La due diligence en el cumplimiento normativo es una herramienta importante para ayudar a las empresas a prevenir y mitigar los riesgos de incumplimiento.
+
+Bien realizada puede ayudar a las empresas a evitar multas, sanciones e incluso daños a su reputación.
+
+==Herramientas==
+
+Existen algunas herramientas para gestionar la relación con las terceras partes:
+- Plataformas de gestión de riesgos de terceros
+- Cuestionarios de due diligence
+- Códigos de conducta para proveedores
+
+/Plataformas de gestión de riesgos de terceros/
+
+Plataformas que permiten a las empresas evaluar, monitorizar y gestionar las relaciones con sus terceras partes.
+
+Existen algunas plataformas que facilitan esta labor.
+
+Algunos ejemplos son:
+- Diligent: ofrece una amplia gama de soluciones para la gestión de riesgos de terceros, incluyendo due diligence, gestión de proveedores, evaluación de riesgos y monitorización continua.
+- Dow Jones Risk & Compliance: brinda acceso a información sobre riesgos de terceros, como datos de PEP (personas expuestas políticamente) y sanciones, así como herramientas para la evaluación de riesgos y la gestión de due diligence.
+- Accuity FedCheck: solución especializada en la verificación de la identidad de terceros y la detección de fraude.
+- RiskRecon: está enfocada a la evaluación de riesgos de terceros en el sector financiero.
+- SupplyShift: está especializada en la gestión de riesgos de proveedores en la cadena de suministro.
+- Know Your Customer (KYC) X-Change: es una plataforma para la gestión de riesgos de terceros en el ámbito de la prevención del lavado de dinero.
+- QAD Adaptive ERP: es un ejemplo de software de gestión de relaciones con proveedores (SRM) que integra diversas funciones útiles en la interacción con los proveedores, como funciones para la evaluación de riesgos de terceros y la gestión de due diligence.
+- IBM Analytics: es una suite de herramientas de análisis de datos para analizar información sobre terceros e identificar riesgos potenciales.
+
+/Cuestionarios de due diligence/
+
+Formularios que se utilizan para evaluar el cumplimiento normativo de las terceras partes.
+
+Existen cuestionarios generales y específicos según el sector en el que se apliquen (financiero, tecnológico, sanidad, etc.)
+
+Los cuestionarios para la evaluación de un proveedor o cliente suelen recoger los siguientes aspectos:
+- Información financiera: estados financieros, historial decrédito, etcétera.
+- Capacidad operativa: experiencia, recursos humanos y técnicos, etcétera.
+- Cumplimiento normativo: políticas y procedimientos para el cumplimiento de las normas y las regulaciones.
+- Reputación: historial de litigios, quejas de clientes, etcétera.
+
+/Códigos de conducta/
+
+
+Documentos que establecen las normas y expectativas que la empresa tiene con sus proveedores.
+
+Se trata de constatar información para garantizar una buena relación con los proveedores, que regule el cumplimiento normativo y que ayude a:
