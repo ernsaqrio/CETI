@@ -16,3 +16,11 @@
 - Amcache.hve -> catalogo de ejecutables del sistema (hashes, rutas, etc)
 - SRUM (SRUBD.dat)
 - Jump List / LNK -> accesos directos
+
+**volatillity commands**
+
+```shell-session
+which tcpdump
+```
+
+'''shell-sessionç'''
