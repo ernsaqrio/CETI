@@ -20,7 +20,10 @@
 **volatillity commands**
 
 ```shell-session
-which tcpdump
+vol.py -f <fichero> imageinfo
 ```
 
-'''shell-sessionç'''
+```shell-session
+vol.py -f <fichero> kdbgscan
+```
+
