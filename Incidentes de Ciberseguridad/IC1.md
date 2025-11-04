@@ -291,10 +291,23 @@ Todo el personal de una empresa u organización debe ser consciente de la necesi
 
 *Ejemplos:*
 - Revisión de papeleras
-● Política de mesas limpias
-● Revisar en momentos de ausencia de los empleados
-● Contraseñas
-● Simulación de phishing
-● Verificación de la configuración de los equipos
-● Cifrado de datos
-● Notificación de posibles incidentes
+- Política de mesas limpias
+- Revisar en momentos de ausencia de los empleados
+- Contraseñas
+- Simulación de phishing
+- Verificación de la configuración de los equipos
+- Cifrado de datos
+- Notificación de posibles incidentes
+
+*¿Quién las realiza?*
+- Equipo responsable de seguridad de la empresa
+- Cumplimiento legal o normativo (RGPD / LOPDGDD) → Servicio jurídico
+- Brecha de datos u otro incidente → Servicio de análisis forense
+
+*Objetivo:* Mejora de resultados
+
+*Revisiones*
+- Periodicidad (bianual)
+- Tras cambios significativos
+
+Si los resultados son negativos → Se toman acciones para reeducar a los empleados
