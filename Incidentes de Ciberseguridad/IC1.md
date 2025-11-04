@@ -250,10 +250,51 @@ Todo el personal de una empresa u organización debe ser consciente de la necesi
 
 **Auditorias**
 
-Elementos a auditar:
+*Elementos a auditar:*
 - Tecnológicos (sistemas, ordenadores, routers, etc.)
 - Físicos (salas de servidores, control de acceso a diferentes instalaciones, etc).
 - Personal de la empresa.
 
 1. Analisis de riesgos -> Diseño de un plan de protección del puesto de trabajo
 2. Plan de concienciación -> Los empleados operan bajo las medidas implantadas.
+3. Auditoría -> Verificación ó inspección periódica de que se cumple el plan de protección.
+
+*Las auditorías garantizan el cumplimiento en materia de prevención:*
+- Revisión y examen independientes de los registros y actividades del sistema.
+- Verificación de la idoneidad de los controles del sistema.
+- Confirmación del cumplimiento de la política de seguridad y procedimientos operativos establecidos
+- Detectar las infracciones de la seguridad.
+- Recomendar modificaciones de los controles, de la política y de los procedimientos.
+
+*Tipos:*
+- Auditoría de seguridad interna:
+	- Intenta detectar y mitigar los riesgos y debilidades de la estructura del sistema de información: vías de acceso de un posible atacante interno y consecuencias de sufrir un ataque.
+	- Se realiza tomando el rol de un usuario que dispone de acceso a los sistemas internos de la empresa.
+	- Analiza cualquier vector de ataque que pueda provocar un robo de información sensible de la empresa.
+	- Ofrece soluciones disminuyendo las posibilidades de un ataque interno.
+- Auditoría de seguridad externa o perimetral:
+	- Permite conocer el nivel de seguridad de una empresa: Los servicios públicos que ofrece una empresa o la información pública en Internet pueden provocar daños e intrusiones en los sistemas.
+	- Se realiza tomando el rol de un atacante externo que a partir de diversos ataques intenta obtener datos privados o información sensible.
+	- Permite conocer las vulnerabilidades técnicas de los sistemas exteriores y las consecuencias de alguien que se aprovecha de ellas.
+- Test de penetración (pentesting):
+	- Pentesting
+	- Se simulan verdaderos ataques de un hacker real
+	- Se utilizan herramientas de penetración, que son programas utilizados por los hackers para comprometer los sistemas, romper el cifrado, o aprovechar la comunicación.
+	- En ocasiones se realiza con un una defensa activa (RED TEAM <->BLUE TEAM)
+- Auditoría de código fuente: Trata de encontrar posibles vulnerabilidades y fallosde seguridad en el código fuente.
+- Auditoría forense: Se encarga de verificar el rigor de la investigación científica, análisis, documentación e identificación de pruebas que lleve a cabo la informática forense.
+
+*Realización*
+1. Detallar los elementos a auditar
+2. ¿Disponen estos elementos de medidas de seguridad?
+3. ¿Están informados los empleados de estas medidas?
+
+*Ejemplos:*
+- Revisión de papeleras
+● Política de mesas limpias
+● Revisar en momentos de ausencia de los empleados
+● Contraseñas
+● Simulación de phishing
+● Verificación de la configuración de los equipos
+● Cifrado de datos
+● Notificación de posibles incidentes
