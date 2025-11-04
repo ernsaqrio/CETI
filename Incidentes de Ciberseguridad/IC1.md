@@ -250,3 +250,10 @@ Todo el personal de una empresa u organización debe ser consciente de la necesi
 
 **Auditorias**
 
+Elementos a auditar:
+- Tecnológicos (sistemas, ordenadores, routers, etc.)
+- Físicos (salas de servidores, control de acceso a diferentes instalaciones, etc).
+- Personal de la empresa.
+
+1. Analisis de riesgos -> Diseño de un plan de protección del puesto de trabajo
+2. Plan de concienciación -> Los empleados operan bajo las medidas implantadas.
