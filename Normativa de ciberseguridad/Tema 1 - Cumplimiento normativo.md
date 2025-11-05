@@ -597,7 +597,7 @@ benchmarking: proceso de análisis comparativo que evalúa productos, servicios 
 - Basarse siempre en hechos y evidencias verificables. 
 - Evitar opiniones personales o juicios subjetivos. 
 - Mantener un lenguaje profesional y técnico. 
-- Garantizar la confidencialidad de la información tratada.ç
+- Garantizar la confidencialidad de la información tratada.
 
 ==Redacción profesional de informes de Compliance==
 
