@@ -228,19 +228,15 @@ como técnico.
 - Copias de seguridad: se ha repetido un millón de veces que la información es el activo más importante de una empresa. Este activo está sujeto a una serie de amenazas que pueden afectar a su disponibilidad, integridad o confidencialidad. Las políticas de copias de seguridad deben estar diseñadas para hacer frente a dichos problemas y además debe de estar incardinada en la política de continuidad de negocio.
 - Gestión de logs: la monitorización de los sistemas es esencial para garantizar que ante un incidente, podemos dar la respuesta más ágil. Esta política está diseñada para conocer las alertas que se pueden dar, llevar a cabo un análisis que permita identificar el problema y detectar cualquier tipo de error.
 - Respuesta a incidentes: con independencia de que hayamos diseñado un excelente plan director de seguridad, es un hecho que los incidentes van a poder materializarse. Un política de este tipo permitirá diseñar un plan de acción y un sistema de escalado para mitigar el problema de una manera ágil. Es muy importante que esta política esté muy bien detallada.
-Actualizaciones: puesto que la entrega o el “delivery” de actualizaciones puede
-ser muy complejo en organizaciones muy grandes, es vital contar con un plan
-que impida que un atacante pueda aprovecharse de una vulnerabilidad en un
-sistema operativo o una aplicación. A través de esta política se diseñará como
-llevar a cabo el despliegue.
-Borrado seguro: en ocasiones por necesidad, otras por cumplimiento legal
-(eliminación de datos tras retención obligatoria), será necesario diseñar e
-implementar un control que permita a la organización destruir la información
-con total garantía de que no es posible recuperarla.
-Teletrabajo: se trata de una política que tras la aparición de la pandemia se ha
-hecho muy popular. Básicamente contendrá las directrices necesarias para
-desempeñar esta modalidad de manera segura. Por ejemplo, conectarse
-siempre a través de una VPN, usar 2FA, etc.
+- Actualizaciones: puesto que la entrega o el “delivery” de actualizaciones puede ser muy complejo en organizaciones muy grandes, es vital contar con un plan que impida que un atacante pueda aprovecharse de una vulnerabilidad en un sistema operativo o una aplicación. A través de esta política se diseñará como llevar a cabo el despliegue.
+- Borrado seguro: en ocasiones por necesidad, otras por cumplimiento legal (eliminación de datos tras retención obligatoria), será necesario diseñar e implementar un control que permita a la organización destruir la información con total garantía de que no es posible recuperarla.
+- Teletrabajo: se trata de una política que tras la aparición de la pandemia se ha hecho muy popular. Básicamente contendrá las directrices necesarias para desempeñar esta modalidad de manera segura. Por ejemplo, conectarse siempre a través de una VPN, usar 2FA, etc.
+
+Q2: Una política es equivalente a una buena práctica:
+- Verdadero
+- ==Falso==
+
+
 
 
 
