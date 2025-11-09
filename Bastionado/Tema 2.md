@@ -236,7 +236,31 @@ Q2: Una política es equivalente a una buena práctica:
 - Verdadero
 - ==Falso==
 
+**5.- Guía de buenas prácticas**
 
+Tal y como distinguimos en el punto previo, es importante distinguir entre una buena práctica
+y una política. En el caso de las guías, ocurre algo similar. 
+
+Las empresas van a poder contar con documentos elaborados por diversas organizaciones dedicadas a la ciberseguridad, tanto de ámbito nacional como el [INCIBE]() o el [CCN-CERT](), como internacional con la [ENISA]() o [ECSO](), que facilitan numerosas guías de buenas prácticas con muy diversos propósitos.
+
+Recordamos que estas no son de obligado cumplimiento pero sí muy recomendables para la
+implementación de controles específicos sobre los sistemas o redes que queramos proteger.
+
+Las temáticas que ofrecen son muy diversas, desde el uso seguro de las redes wifi hasta
+recomendaciones específicas para sectores concretos como por ejemplo los fabricantes de
+juguetes conectados.
+
+Puesto que no es objetivo de este punto enumerar y explicar el propósito de cada una de las
+guías disponibles, se facilitan las referencias a los listados más interesantes para que el
+alumno pueda escoger.
+Guías de ciberseguridad del INCIBE
+Guías STIC del CCN
+Guías de la ENISA
+Guías de ECSO
+Mencionar que si llevamos a cabo una búsqueda, encontraremos miles de referencias a
+guías de buenas prácticas. Se han escogido las previas por tratarse de organizaciones que
+no atienden a intereses particulares ni están sujetas a cuestiones económicas dependientes
+de grandes corporaciones.
 
 
 
