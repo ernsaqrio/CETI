@@ -292,13 +292,50 @@ determinar los elementos esenciales:
 - Nombre del proceso/procedimiento: gestión de incidentes
 - Propietario: jefe de seguridad (CISO). En este caso, será el que tenga la responsabilidad.
 - Cliente/destinatario del proceso: usuarios, personal, clientes, etc. El público al que se dirige.
-- Objetivo del proceso: gestionar los incidentes que lleguen a través de la cuenta de correo y procesarlos a través de RTIR. Aunque la descripción es sencilla en este caso, se ha de tener en cuenta cuestiones como la idoneidad del mismo, la obtención de indicadores para medir la eficacia y eficiencia y ver cómo satisfacen las necesidades de
-los destinatarios.
-Elementos de entrada: colas de correo, llamadas telefónicas y formulario web. Se han
-de indicar desde dónde llegan los input.
-Elementos de salida: elementos resultantes del proceso como informes, estadísticas,
-etc.
+- Objetivo del proceso: gestionar los incidentes que lleguen a través de la cuenta de correo y procesarlos a través de RTIR. Aunque la descripción es sencilla en este caso, se ha de tener en cuenta cuestiones como la idoneidad del mismo, la obtención de indicadores para medir la eficacia y eficiencia y ver cómo satisfacen las necesidades de los destinatarios.
+- Elementos de entrada: colas de correo, llamadas telefónicas y formulario web. Se han de indicar desde dónde llegan los input.
+- Elementos de salida: elementos resultantes del proceso como informes, estadísticas, etc.
+- RH: responsable, tres técnicos de nivel 1 y un técnico de nivel 2. Será el “músculo” para que el procedimiento se lleve a cabo.
+- Recursos tecnológicos: RTIR, máquinas de pruebas, sandboxes y cuadros de mando Kibana.
+- Mecanismos de control: informes de seguimiento y tiempo de respuesta. Indicadores: número de incidentes resueltos por día, media de resolución de incidentes, etc. Es importante contar con herramientas de medición ya que lo que no se puede medir, no se puede mejorar.
 
+El formato de presentación de la información puede ser muy diverso. Lo que tenemos que
+considerar a la hora de establecer un modelo, es que tendremos elementos de entrada,
+procesado y posterior salida. Un posible ejemplo sería:
+![[tabla.png]]
 
+Q3: Los indicadores son un elemento fundamental en la caracterización:
+- ==Verdadero==
+- Falso
 
+**8.- Niveles, escalado y protocolos de atención a incidencias**
 
+Aunque este tema se trata con mayor detalle en el módulo 2 y el módulo 7, haremos una
+pequeña incursión a través de este punto. 
+
+Comenzaremos mencionando que no existe un método específico para esta cuestión. Puesto que la tipología de incidentes varía a medida que las tecnologías evolucionan, los procedimientos avanzan en pro de estas.
+
+En primer lugar es preciso distinguir entre:
+- Evento: cambio de estado de “algo” dentro de la infraestructura TIC, que es sgnificativo. También se puede denominar notificación o alerta.
+- Evento de seguridad: se trata de un evento que genera una notificación a raíz de la violación de una política o directiva de seguridad implementada.
+- Incidente de seguridad: es un evento o una serie de eventos de seguridad no deseados o no previstos que pueden poner en riesgo a los sistemas de la organización y a la información que almacenan o contienen.
+
+Por lo tanto, identificamos tres tipos de eventos que presumiblemente derivarán en tres tipo
+de gestión o de escalado. 
+
+No obstante, antes de proceder a dicha cuestión, será necesario categorizar el tipo de incidente que variará en función de los sistemas que afecte, la criticidad de los mismos, la información que puede compromenter, etc. 
+
+De hecho, para la clasificación de incidentes, existe una taxonomía común muy interesante que se puede consultar en la [página del CERT de INCIBE.]()
+
+Una vez clasificado el incidente y su nivel de criticidad, se procederá a escalarlo a dónde el procedimiento indique. 
+
+Por ejemplo, considerando la información y el equipo del punto anterior, los incidentes de tipo bajo, medio y alto, serán resueltos por el nivel 1, mientras que los incidentes de tipo muy alto y crítico, serán resueltos por nivel 2.
+
+Tras esta acción, comenzará la fase de procesado del incidente que podría incluir las fases
+de seguimiento y cierre. 
+
+Hay que mencionar que el cierre de un incidente, no significa que este se haya resuelto favorablemente.
+
+Pongamos como ejemplo un ataque de ransomware para el que no hay herramienta de descifrado y donde la empresa afectada no dispone de copia de seguridad. En ese supuesto se cerraría el incidente sin haberse solucionado el problema y el acceder al pago del atacante, no sería parte de la solución.
+
+Para finalizar, en el proceso de gestión de incidentes, es necesario obtener indicadores acerca del servicio para redimensionarlo, para reducir su tiempo de respuesta o para mejorar el servicio.
