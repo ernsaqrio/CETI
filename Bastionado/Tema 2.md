@@ -210,6 +210,37 @@ no al contrario.
 A continuación se ofrecerá un listado de las políticas más comunes tanto a nivel organizativo
 como técnico.
 
+*Organizativas*
+- Continuidad del negocio: esta política permitirá implementar los controles necesarios para que en caso de desastre, se pueda recuperar la actividad del negocio lo más rápido posible de manera que las consecuencias no sean muy negativas.
+- Cumplimiento legal: a día de hoy y al menos en el Espacio Europeo, las empresas con independencia de si son públicas o de ámbito privado, han de cumplir una serie de leyes que en caso contrario, acarrearían duras sanciones. Algunas destacadas son el [RGPD]() o la [LOPDGDD](). Esta política se implementa para garantizar el cumplimiento.
+- Relación con proveedores: a día de hoy, no se concibe la actividad de una empresa sin múltiples colaboradores. En ocasiones, la falta de controles entre las transacciones que se realizan, podrían provocar un incidente. Esta política vela por que se haga de manera correcta sin poner en riesgo a la empresa.
+- Concienciación y formación: sin duda de las más importantes de cara a permitir que los empleados puedan elevar el nivel de ciberseguridad. 
+- Uso del correo electrónico: a pesar de que se asocia el uso de una tecnología, como un cliente, es importante conocer cómo se debe hacer. Habitualmente esto se relaciona con el uso corporativo eliminando el derecho relativo al uso personal.
+- Uso de dispositivos corporativos: similar a la anterior, esta política regula las directrices que un empleado ha de asumir cuando usa un equipo corporativo, sea un PC, portátil o dispositivo móvil.
+- Uso de contraseñas: en este caso, el control se refiere a todo lo que no puede ser controlado por una directiva o política técnica. Tal y como adelantamos en el punto previo, se refiere a la no compartición de contraseñas, a no apuntarlas en post-it, etc.
+- Protección del puesto de trabajo: también dirigida a los empleados para hacer un uso correcto del entorno. Por ejemplo el bloqueo de sesión, no dejar información confidencial a la vista, etc.
+
+*Técnicas*
+- Auditoría de sistemas: se trata de una medida técnica que permitirá identificar cualquier problema ante la evolución de las infraestructuras. Será un proceso que se ejecutará cada cierto tiempo. Sirva como ejemplo, que una auditoría realizada hace un año, poco o nada tendrá que ver con la situación actual de la empresa ya que los sistemas y aplicaciones pueden haber evolucionado.
+- Antimalware: política que obliga a disponer de una solución individual o centralizada para combatir este tipo de amenazas.
+- Uso de dispositivos móviles y equipos corporativos: medida que a través de diversas directivas técnicas, tiene como propósito la protección del hardware enumerado.
+- Control de acceso: en una empresa u organización, todos los empleados no tienen que tener acceso a “todo” y se apuesta por el paradigma “Zero Trust”. En base a esto, la política establecerá los roles y permisos para poder garantizar los dominios de la seguridad de la información.
+- Copias de seguridad: se ha repetido un millón de veces que la información es el activo más importante de una empresa. Este activo está sujeto a una serie de amenazas que pueden afectar a su disponibilidad, integridad o confidencialidad. Las políticas de copias de seguridad deben estar diseñadas para hacer frente a dichos problemas y además debe de estar incardinada en la política de continuidad de negocio.
+- Gestión de logs: la monitorización de los sistemas es esencial para garantizar que ante un incidente, podemos dar la respuesta más ágil. Esta política está diseñada para conocer las alertas que se pueden dar, llevar a cabo un análisis que permita identificar el problema y detectar cualquier tipo de error.
+- Respuesta a incidentes: con independencia de que hayamos diseñado un excelente plan director de seguridad, es un hecho que los incidentes van a poder materializarse. Un política de este tipo permitirá diseñar un plan de acción y un sistema de escalado para mitigar el problema de una manera ágil. Es muy importante que esta política esté muy bien detallada.
+Actualizaciones: puesto que la entrega o el “delivery” de actualizaciones puede
+ser muy complejo en organizaciones muy grandes, es vital contar con un plan
+que impida que un atacante pueda aprovecharse de una vulnerabilidad en un
+sistema operativo o una aplicación. A través de esta política se diseñará como
+llevar a cabo el despliegue.
+Borrado seguro: en ocasiones por necesidad, otras por cumplimiento legal
+(eliminación de datos tras retención obligatoria), será necesario diseñar e
+implementar un control que permita a la organización destruir la información
+con total garantía de que no es posible recuperarla.
+Teletrabajo: se trata de una política que tras la aparición de la pandemia se ha
+hecho muy popular. Básicamente contendrá las directrices necesarias para
+desempeñar esta modalidad de manera segura. Por ejemplo, conectarse
+siempre a través de una VPN, usar 2FA, etc.
 
 
 
