@@ -150,11 +150,8 @@ Evidentemente si un día nos infectamos con un ransomware, nos acordaremos de qu
 Aunque las veremos el funcionamiento de algunas herramientas con mayor detalle
 en unidades posteriores, en esta ocasión describiremos de manera somera algunos
 grupos de controles:
-- Herramientas antimalware: se trata de la solución más básica. Los comúnmente
-conocidos como antivirus aunque desde hace unos años, disponen de otras
-funcionalidades integradas como cortafuegos.
-EDR y XDR: se trata de soluciones antimalware más modernas que las
-anteriores y que además disponen de medidas o funciones reactivas. EDR
+- Herramientas antimalware: se trata de la solución más básica. Los comúnmente conocidos como antivirus aunque desde hace unos años, disponen de otras funcionalidades integradas como cortafuegos.
+- EDR y XDR: se trata de soluciones antimalware más modernas que las anteriores y que además disponen de medidas o funciones reactivas. EDR
 (Endpoint Detection and Response) se puede considerar la primera generación
 de este tipo de soluciones, y XDR (Extended Detection and Response) como la
 segunda. Ambas usan inteligencia artificial y otras técnicas para prever posibles
