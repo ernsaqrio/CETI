@@ -93,35 +93,100 @@ Q1: La fase inicial de un análisis de riesgos es:
 El proceso productivo actual, no es sostenible. Se trata de un proceso lineal donde se usa
 demasiada materia prima que luego no es posible reciclar o reutilizar, o al menos en un
 porcentaje que garantice unos niveles de sostenibilidad adecuados.
+
 ¿En qué consiste la economía circular en la industria 4.0? básicamente en un sistema que
 permita aprovechar los recursos, reduciendo elementos innecesarios que por su naturaleza
 no pueden volver al medio ambiente.
-Algunos de sus principios fundamentales (Fuente Corponet):
-El residuo se convierte en recurso. Todo el material biodegradable vuelve a la
-naturaleza y el no biodegradable se reutiliza.
-Reintroducir en el circuito económico aquellos productos que ya no corresponden a las
-necesidades iniciales de los consumidores.
-Reutilizar ciertos residuos o partes de ellos que todavía pueden funcionar para elaborar
-nuevos productos.
-Reparar y encontrar una segunda vida para los productos estropeados o defectuosos.
-Reciclar los materiales que se encuentran en los residuos.
-Aprovechar energéticamente los residuos que no se pueden reciclar.
-Eliminar la venta de ciertos productos para implantar un sistema de alquiler de bienes.
-Cuando el producto cumple su función principal, vuelve a la empresa y esta lo
-desmonta para reutilizar las piezas que pueden ser utilizadas nuevamente.
-Eliminar los combustibles fósiles para producir el producto, reutilizar y reciclar.
-Considerar los impactos medioambientales a lo largo del ciclo de vida de un producto y
-los integra desde su concepción.
-Establecer un método de organización industrial en un mismo territorio caracterizado
-por una gestión optimizada de los stocks y de los flujos de materiales, energía y
-servicios.
+
+Algunos de sus principios fundamentales:
+- El residuo se convierte en recurso. Todo el material biodegradable vuelve a la naturaleza y el no biodegradable se reutiliza.
+- Reintroducir en el circuito económico aquellos productos que ya no corresponden a las necesidades iniciales de los consumidores.
+- Reutilizar ciertos residuos o partes de ellos que todavía pueden funcionar para elaborar nuevos productos.
+- Reparar y encontrar una segunda vida para los productos estropeados o defectuosos.
+- Reciclar los materiales que se encuentran en los residuos.
+- Aprovechar energéticamente los residuos que no se pueden reciclar.
+- Eliminar la venta de ciertos productos para implantar un sistema de alquiler de bienes. Cuando el producto cumple su función principal, vuelve a la empresa y esta lo desmonta para reutilizar las piezas que pueden ser utilizadas nuevamente.
+- Eliminar los combustibles fósiles para producir el producto, reutilizar y reciclar.
+- Considerar los impactos medioambientales a lo largo del ciclo de vida de un producto y los integra desde su concepción.
+- Establecer un método de organización industrial en un mismo territorio caracterizado por una gestión optimizada de los stocks y de los flujos de materiales, energía y servicios.
+
 En el mundo TI por ejemplo, se busca poner fin a la obsolescencia programada y diseñar
 productos que sean sostenibles y eficaces en el tiempo, pero no sólo eso, si no que los
 avances tecnológicos como la inteligencia artificial, el Big Data y otras tecnologías, mejoras
-los procesos aunque no es ninguna panacea. En cualquier caso, aún estamos comenzando
-con este proceso y será esencial en los próximos años para garantizar la buena salud del
-medio ambiente. Esta cita del Dr. Edmond Locard es conocida como el Principio de Locard , y del mismo
-se deduce que, a la hora de realizar el propio análisis forense, hay que ser especialmente
-cuidadoso para que el sistema se vea afectado en la menor medida posible y que las
-evidencias adquiridas no se vean alteradas, debido a que el uso de cualquier dispositivo
-informático siempre puede dejar algún tipo de rastro.
+los procesos aunque no es ninguna panacea. 
+
+En cualquier caso, aún estamos comenzando con este proceso y será esencial en los próximos años para garantizar la buena salud del medio ambiente. 
+
+Esta cita del Dr. Edmond Locard es conocida como el Principio de Locard , y del mismo se deduce que, a la hora de realizar el propio análisis forense, hay que ser especialmente cuidadoso para que el sistema se vea afectado en la menor medida posible y que las evidencias adquiridas no se vean alteradas, debido a que el uso de cualquier dispositivo informático siempre puede dejar algún tipo de rastro.
+
+**3.- Medias técnicas de seguridad**
+
+En este punto entraremos a describir diferentes medidas técnicas de seguridad adecuadas
+para reforzar la seguridad de los sistemas. 
+
+No entraremos en detalles pormenorizados si no que lo haremos a alto nivel. Es obvio que cuando hablamos de ciberseguridad, lo primero que nos suele venir a la cabeza, es lo relativo a tecnologías y herramientas. 
+
+Evidentemente estas tienen gran importancia, pero no son lo único que hemos de tener en cuenta a la hora de bastionar una infraestructura, aunque sí será lo que tratemos en este apartado.
+
+Podemos definir como medida técnica de seguridad “aquella que ha sido diseñada en base a
+una tecnología o varias, cuyo propósito es proteger un activo o servicio de alguna amenaza o
+riesgo y que habitualmente ha de proteger las tres dimensiones de la seguridad de la información: la confidencialidad, la integridad y la disponibilidad”. 
+
+En este sentido podemos contener dichas medidas en dos grupos fundamentales:
+- Medidas preventivas
+- Medidas reactivas
+
+*Medidas preventivas*
+
+Dentro de este grupo, enumeraremos algunas de las principales herramientas o grupos de herramientas destinadas a evitar que se materialice una amenaza en un activo. 
+
+Habitualmente siempre se suele decir que “es mejor prevenir que lamentar” y en el mundo de las TI podríamos suscribir dicha frase. 
+
+Podemos ilustrarlo con un ejemplo clásico, ¿Qué es más recomendable. Usar un equipo con una herramienta antimalware o pensar que somos lo suficientemente precavidos como para no
+necesitarla? 
+
+Evidentemente si un día nos infectamos con un ransomware, nos acordaremos de que deberíamos haber instalado una aplicación de esas características.
+
+Aunque las veremos el funcionamiento de algunas herramientas con mayor detalle
+en unidades posteriores, en esta ocasión describiremos de manera somera algunos
+grupos de controles:
+- Herramientas antimalware: se trata de la solución más básica. Los comúnmente
+conocidos como antivirus aunque desde hace unos años, disponen de otras
+funcionalidades integradas como cortafuegos.
+EDR y XDR: se trata de soluciones antimalware más modernas que las
+anteriores y que además disponen de medidas o funciones reactivas. EDR
+(Endpoint Detection and Response) se puede considerar la primera generación
+de este tipo de soluciones, y XDR (Extended Detection and Response) como la
+segunda. Ambas usan inteligencia artificial y otras técnicas para prever posibles
+ataques y patrones.
+Firewalls o cortafuegos: se trata de herramientas que van a poder configurarse
+para permitir o impedir el tráfico entre las redes en base a las reglas que se
+establezcan.
+Copias de seguridad: sin duda la estrella de las medidas preventivas y reina de
+los planes de contingencia. En caso de pérdida de la información, nos permitirá
+recuperarla.
+DLP: Data Loss Prevention, son un conjunto de herramientas que velan por que
+la información de una compañía no se exfiltre o se envíe sin disponer de
+autorización, lo que también se conoce como una fuga de datos. Estas
+herramientas permiten mantener el control de la información sin perder
+productividad.
+Verificación de integridad: mediante este tipo de soluciones, será posible
+controlar la integridad de los archivos que forman parte de un sistema o
+arquitectura. A través de la construcción de una base de datos, si se produce
+algún cambio como por ejemplo un binario, la herramienta generará una alerta.
+Habitualmente se usan funciones de hash.
+Conexiones seguras: algo esencial para proteger las comunicaciones, es
+mantener la confidencialidad de los datos que discurren por ellas. Existen
+numerosas herramientas pero destaca la implementación de VPNs (Virtual
+Private Networks) y otro tipo de soluciones de encapsulado. Si algún atacante
+intercepta el tráfico, en principio no podrá leerlo.
+IDS: los sistemas de detección de intrusos, son herramientas de carácter
+preventivo que informan ante un comportamiento anómalo en la red o en un
+host, para llevar a cabo algún tipo de acción.
+Virtual patching: se trata de un conjunto de soluciones diseñadas sobre todo
+para aquellos sistemas de producción que están soportados por sistemas
+obsoletos y que no es posible cambiar.
+SIEMs: los sistemas de identificación de eventos de seguridad, son sin duda
+una de las herramientas más populares de los últimos años que ayudará a
+identificar comportamientos anómalos tanto en una red como en un host.
+
