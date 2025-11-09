@@ -51,3 +51,10 @@ de seguridad, este podría ser:
 
 **1.1- Fases del análisis**
 
+Llevaremos a cabo el análisis propiamente dicho en todas sus fases para obtener el listado de posibles amenazas que podrían afectar al sistema analizado. 
+
+Las mas destacadas son las siguientes:
+1. Identificación de activos: para identificar las amenazas a las que podrían estar sujetos.
+2. Identificación del riesgo intrínseco: resultante de la fase previa y que, nos dará el nivel de riesgo del activo sin la aplicación de los controles que mejorarán la seguridad.
+3. Probabilidad de ocurrencia: estableceremos la posibilidad de que se materialice la amenaza sobre el activo y que pueda generar un impacto y las consecuencias derivadas. En este punto podremos calcular el nivel de riesgo siguiendo la fórmula: [[Formula de probabilidad de ocurrencia y ejemplo]] Este ejemplo, evidentemente indica que se requiere establecer un control para esta cuestión.
+4. 
