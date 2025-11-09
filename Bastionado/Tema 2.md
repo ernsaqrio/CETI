@@ -259,7 +259,32 @@ guías disponibles, se facilitan las referencias a los listados más interesante
 
 Mencionar que si llevamos a cabo una búsqueda, encontraremos miles de referencias a guías de buenas prácticas. Se han escogido las previas por tratarse de organizaciones que no atienden a intereses particulares ni están sujetas a cuestiones económicas dependientes de grandes corporaciones.
 
+**6.- Estándares de securización en sistemas y redes**
 
+Se ha hablado de medidas que aunque no son obligatorias es recomendable implementar, cuando nos referimos a un estándar o un marco específico de securización para las redes y los sistemas, nos encontramos ante un modelo de obligado cumplimiento siempre y cuando, la empresa que lo implemente, quiera certificarse en ese estándar. 
+
+Como ejemplo sirva una empresa que toma el cuadro de controles de la ISO 27001, para implementar alguno de ellos pero sin certificarse, obviamente lo podrá hacer sin ningún problema, pero en el momento en que quiera certificar su SGSI (Sistema de gestión de la seguridad de la información), deberá cumplir todos aquellos controles que le apliquen.
+
+Partamos mencionando la definición de estándar: ”La legislación (Artículo 8 de la Ley 21/1992 de Industria) define norma como “la especificación técnica de aplicación repetitiva o continuada cuya observancia no es obligatoria, establecida con participación de todas las partes interesadas, que aprueba un Organismo reconocido, a nivel nacional o internacional, por su actividad normativa”. 
+
+Este concepto cuyo origen parte del ámbito industrial, se ha llevado también a otros contextos, como es el caso de la ciberseguridad y ha venido manteniendo el orden de aprobación a través de organismos conocidos como UNE, ISA, NIST, IEC, entre otras.
+
+Mencionar que también es cierto que existen corrientes que no están demasiado a favor de estas cuestiones pues la implementación de una norma, lleva asociados una serie de costes que no todas las organizaciones pueden asumir. De hecho, la certificación de un SGSI cuenta con unos periodos de revisión en los que hay que desembolsar, además de cumplir los requisitos, una suma de dinero para mantener la certificación.
+
+Algunos de los estándares más relevantes en el mundo de la ciberseguridad que cubrirían
+los aspectos más importantes serían:
+ 
+ *[ISO]()*
+- ISO/IEC 27000: Gestión de la seguridad de la información (SGSI).
+- ISO/IEC 27032: Directrices para la ciberseguridad.
+- ISO/IEC 27033: Seguridad de la redes.
+- ISO/IEC 27034: Seguridad de las aplicaciones.
+- ISO/IEC 27035: Gestión de incidentes de seguridad de TI.
+- ISO/IEC 27036: Gestión de la seguridad de la información en relaciones con terceros.
+
+*NIST*: [Cybersecurity framework]()
+
+**7. 
 
 
 
