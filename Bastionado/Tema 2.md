@@ -163,5 +163,14 @@ grupos de controles:
 
 *Medidas reactivas*
 
+En este grupo se encuentran las herramientas que en caso de identificación o en el peor de los casos, se materialice un incidente, puedan llevar a cabo alguna acción que permita contenerlo, eliminarlo o corregir la situación. 
+
+Indicar que algunas herramientas de carácter reactivo, también se encuentran en el grupo previo.
+Quizás podamos considerar que si disponemos de un buen conjunto de medidas técnicas de carácter preventivo, no tenga demasiado sentido contar con medidas reactivas. 
+
+Sin duda estaríamos ante un gran error de contexto ya que suelen
+complementarse.  Algunas de estas herramientas pasarían por:
+
+
 
 
