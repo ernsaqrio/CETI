@@ -170,6 +170,35 @@ Quizás podamos considerar que si disponemos de un buen conjunto de medidas téc
 
 Sin duda estaríamos ante un gran error de contexto ya que suelen
 complementarse.  Algunas de estas herramientas pasarían por:
+- EDR y XDR: la función reactiva de estas herramientas pasa por contener, bloquear o eliminar la amenaza detectada. Los sistemas de inferencia que usan son muy avanzados y efectivos.
+- IPS: se trata de un IDS pero con capacidad reactiva, es decir, si identifica un evento no autorizado, además de avisar, llevará a cabo algún tipo de acción como un bloqueo.
+- Plan de contingencia: más que de una herramienta, se trata de una política que recoge varias herramientas o soluciones que permitirán restaurar la actividad de una organización a través de un procedimiento específico. Suelen involucrar herramientas de copia de seguridad, de gestión de incidentes, etc.
+- Verificación de integridad: esta herramienta, además de prevenir, puede llevar a cabo acciones como la restauración de un archivo en caso de modificación no autorizada o similar.
+- Virtual patching: como con otras soluciones que también tienen un carácter preventivo, el virtual patching va a poder bloquear o parar ciertas amenazas que puedan afectar al activo que protege.
+
+**4.- Políticas de securización**
+
+Existen numerosas formas de agrupar las políticas en base a diversos criterios. La
+clasificación más común podemos decir que es la que distingue a la parte técnica y a la parte
+organizativa. No obstante, antes de entrar en ese aspecto, es importante conocer la
+diferencia entre una política y una buena práctica. A menudo se confunden o se asocian
+dichos conceptos a la misma cuestión, algo que es incorrecto. De manera somera podemos
+decir que:
+Buena práctica: recomendación que no es de obligado cumplimiento.
+Política: instrucción de obligado cumplimiento y que, en caso de no proceder como se
+indica, es posible amonestar o llevar algún tipo de acción sancionadora.
+Una vez hecha la distinción pertinente, pasaremos a describir los dos grupos de políticas así
+como las más habituales que conforman dichos grupos.
+Las políticas son una herramienta que permitirá implementar ciberseguridad en los distintos
+procesos que forman parte del negocio de una organización. Tal y como avanzamos al
+comienzo del punto podemos distinguir dos grupos: organizativas y técnicas. Las primeras
+hacen referencia cuestiones relacionadas con el comportamiento que deben tener por
+ejemplo, los empleados ante determinadas cuestiones y que normalmente no pueden ser
+protegidas mediante medidas técnicas. Por ejemplo, “Está prohibido compartir contraseñas”,
+o “será obligatorio destruir la documentación en papel”. En cambio las técnicas, permiten
+implementar medidas que automatizan el control que se quiere implementar. Por ejemplo, la
+necesidad de cambiar la contraseña cada “x” meses, su complejidad y tamaño se puede
+configurar a través de una directiva en el servidor.
 
 
 
