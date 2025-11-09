@@ -49,4 +49,5 @@ de seguridad, este podría ser:
 - Administrado: existe un procedimiento formal que ha sido aprobado.
 - Optimizado: existe un procedimiento formal que ha sido aprobado y se verifica su eficacia periódicamente mediante indicadores.
 
-per favore
+**1.1- Fases del análisis**
+
