@@ -83,5 +83,45 @@ Por último, es importante indicar, que el análisis de riesgos es un proceso co
 debe llevar a cabo de manera periódica pues las tecnologías, servicios e infraestructuras de
 las organizaciones cambian frecuentemente en el mundo TI. 
 
+Q1: La fase inicial de un análisis de riesgos es:
+-  Implementación de medidas
+- ==Reconocimiento inicial==
+- Reconocer el riesgo residual
 
+**2.- Principios de la economía circular**
 
+El proceso productivo actual, no es sostenible. Se trata de un proceso lineal donde se usa
+demasiada materia prima que luego no es posible reciclar o reutilizar, o al menos en un
+porcentaje que garantice unos niveles de sostenibilidad adecuados.
+¿En qué consiste la economía circular en la industria 4.0? básicamente en un sistema que
+permita aprovechar los recursos, reduciendo elementos innecesarios que por su naturaleza
+no pueden volver al medio ambiente.
+Algunos de sus principios fundamentales (Fuente Corponet):
+El residuo se convierte en recurso. Todo el material biodegradable vuelve a la
+naturaleza y el no biodegradable se reutiliza.
+Reintroducir en el circuito económico aquellos productos que ya no corresponden a las
+necesidades iniciales de los consumidores.
+Reutilizar ciertos residuos o partes de ellos que todavía pueden funcionar para elaborar
+nuevos productos.
+Reparar y encontrar una segunda vida para los productos estropeados o defectuosos.
+Reciclar los materiales que se encuentran en los residuos.
+Aprovechar energéticamente los residuos que no se pueden reciclar.
+Eliminar la venta de ciertos productos para implantar un sistema de alquiler de bienes.
+Cuando el producto cumple su función principal, vuelve a la empresa y esta lo
+desmonta para reutilizar las piezas que pueden ser utilizadas nuevamente.
+Eliminar los combustibles fósiles para producir el producto, reutilizar y reciclar.
+Considerar los impactos medioambientales a lo largo del ciclo de vida de un producto y
+los integra desde su concepción.
+Establecer un método de organización industrial en un mismo territorio caracterizado
+por una gestión optimizada de los stocks y de los flujos de materiales, energía y
+servicios.
+En el mundo TI por ejemplo, se busca poner fin a la obsolescencia programada y diseñar
+productos que sean sostenibles y eficaces en el tiempo, pero no sólo eso, si no que los
+avances tecnológicos como la inteligencia artificial, el Big Data y otras tecnologías, mejoras
+los procesos aunque no es ninguna panacea. En cualquier caso, aún estamos comenzando
+con este proceso y será esencial en los próximos años para garantizar la buena salud del
+medio ambiente. Esta cita del Dr. Edmond Locard es conocida como el Principio de Locard , y del mismo
+se deduce que, a la hora de realizar el propio análisis forense, hay que ser especialmente
+cuidadoso para que el sistema se vea afectado en la menor medida posible y que las
+evidencias adquiridas no se vean alteradas, debido a que el uso de cualquier dispositivo
+informático siempre puede dejar algún tipo de rastro.
