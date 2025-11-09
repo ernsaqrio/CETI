@@ -183,21 +183,35 @@ Existen numerosas formas de agrupar las políticas en base a diversos criterios.
 No obstante, antes de entrar en ese aspecto, es importante conocer la diferencia entre una política y una buena práctica. A menudo se confunden o se asocian dichos conceptos a la misma cuestión, algo que es incorrecto. 
 
 De manera somera podemos decir que:
-Buena práctica: recomendación que no es de obligado cumplimiento.
-Política: instrucción de obligado cumplimiento y que, en caso de no proceder como se
-indica, es posible amonestar o llevar algún tipo de acción sancionadora.
+- Buena práctica: recomendación que no es de obligado cumplimiento.
+- Política: instrucción de obligado cumplimiento y que, en caso de no proceder como se indica, es posible amonestar o llevar algún tipo de acción sancionadora.
+
 Una vez hecha la distinción pertinente, pasaremos a describir los dos grupos de políticas así
 como las más habituales que conforman dichos grupos.
+
 Las políticas son una herramienta que permitirá implementar ciberseguridad en los distintos
-procesos que forman parte del negocio de una organización. Tal y como avanzamos al
-comienzo del punto podemos distinguir dos grupos: organizativas y técnicas. Las primeras
-hacen referencia cuestiones relacionadas con el comportamiento que deben tener por
-ejemplo, los empleados ante determinadas cuestiones y que normalmente no pueden ser
-protegidas mediante medidas técnicas. Por ejemplo, “Está prohibido compartir contraseñas”,
-o “será obligatorio destruir la documentación en papel”. En cambio las técnicas, permiten
-implementar medidas que automatizan el control que se quiere implementar. Por ejemplo, la
-necesidad de cambiar la contraseña cada “x” meses, su complejidad y tamaño se puede
-configurar a través de una directiva en el servidor.
+procesos que forman parte del negocio de una organización. 
+
+Tal y como avanzamos al comienzo del punto podemos distinguir dos grupos: organizativas y técnicas. Las primeras hacen referencia cuestiones relacionadas con el comportamiento que deben tener por ejemplo, los empleados ante determinadas cuestiones y que normalmente no pueden ser
+protegidas mediante medidas técnicas. 
+
+Por ejemplo, “Está prohibido compartir contraseñas”, o “será obligatorio destruir la documentación en papel”. 
+
+En cambio las técnicas, permiten implementar medidas que automatizan el control que se quiere implementar. Por ejemplo, la necesidad de cambiar la contraseña cada “x” meses, su complejidad y tamaño se puede configurar a través de una directiva en el servidor.
+
+Habitualmente, las políticas son de aplicación sobre tres elementos, los procesos, las personas y las tecnologías. En función de a quién se dirija tendrán unas características concretas que servirán para el diseño de la propia política.
+
+En relación a las políticas, es importante también, considerar que deben estar equilibradas y
+alineadas por un lado con el negocio, y por otro con la usabilidad de los sistemas. No será
+nunca recomendable implementar políticas tan restrictivas que impidan que los procesos del
+negocio se desarrollen con normalidad, es decir, la ciberseguridad ha de apoyar al negocio y
+no al contrario.
+
+A continuación se ofrecerá un listado de las políticas más comunes tanto a nivel organizativo
+como técnico.
+
+
+
 
 
 
