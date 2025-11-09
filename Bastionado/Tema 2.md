@@ -178,12 +178,11 @@ complementarse.  Algunas de estas herramientas pasarían por:
 
 **4.- Políticas de securización**
 
-Existen numerosas formas de agrupar las políticas en base a diversos criterios. La
-clasificación más común podemos decir que es la que distingue a la parte técnica y a la parte
-organizativa. No obstante, antes de entrar en ese aspecto, es importante conocer la
-diferencia entre una política y una buena práctica. A menudo se confunden o se asocian
-dichos conceptos a la misma cuestión, algo que es incorrecto. De manera somera podemos
-decir que:
+Existen numerosas formas de agrupar las políticas en base a diversos criterios. La clasificación más común podemos decir que es la que distingue a la parte técnica y a la parte organizativa. 
+
+No obstante, antes de entrar en ese aspecto, es importante conocer la diferencia entre una política y una buena práctica. A menudo se confunden o se asocian dichos conceptos a la misma cuestión, algo que es incorrecto. 
+
+De manera somera podemos decir que:
 Buena práctica: recomendación que no es de obligado cumplimiento.
 Política: instrucción de obligado cumplimiento y que, en caso de no proceder como se
 indica, es posible amonestar o llevar algún tipo de acción sancionadora.
