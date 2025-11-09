@@ -151,39 +151,17 @@ Aunque las veremos el funcionamiento de algunas herramientas con mayor detalle
 en unidades posteriores, en esta ocasión describiremos de manera somera algunos
 grupos de controles:
 - Herramientas antimalware: se trata de la solución más básica. Los comúnmente conocidos como antivirus aunque desde hace unos años, disponen de otras funcionalidades integradas como cortafuegos.
-- EDR y XDR: se trata de soluciones antimalware más modernas que las anteriores y que además disponen de medidas o funciones reactivas. EDR
-(Endpoint Detection and Response) se puede considerar la primera generación
-de este tipo de soluciones, y XDR (Extended Detection and Response) como la
-segunda. Ambas usan inteligencia artificial y otras técnicas para prever posibles
-ataques y patrones.
-Firewalls o cortafuegos: se trata de herramientas que van a poder configurarse
-para permitir o impedir el tráfico entre las redes en base a las reglas que se
-establezcan.
-Copias de seguridad: sin duda la estrella de las medidas preventivas y reina de
-los planes de contingencia. En caso de pérdida de la información, nos permitirá
-recuperarla.
-DLP: Data Loss Prevention, son un conjunto de herramientas que velan por que
-la información de una compañía no se exfiltre o se envíe sin disponer de
-autorización, lo que también se conoce como una fuga de datos. Estas
-herramientas permiten mantener el control de la información sin perder
-productividad.
-Verificación de integridad: mediante este tipo de soluciones, será posible
-controlar la integridad de los archivos que forman parte de un sistema o
-arquitectura. A través de la construcción de una base de datos, si se produce
-algún cambio como por ejemplo un binario, la herramienta generará una alerta.
-Habitualmente se usan funciones de hash.
-Conexiones seguras: algo esencial para proteger las comunicaciones, es
-mantener la confidencialidad de los datos que discurren por ellas. Existen
-numerosas herramientas pero destaca la implementación de VPNs (Virtual
-Private Networks) y otro tipo de soluciones de encapsulado. Si algún atacante
-intercepta el tráfico, en principio no podrá leerlo.
-IDS: los sistemas de detección de intrusos, son herramientas de carácter
-preventivo que informan ante un comportamiento anómalo en la red o en un
-host, para llevar a cabo algún tipo de acción.
-Virtual patching: se trata de un conjunto de soluciones diseñadas sobre todo
-para aquellos sistemas de producción que están soportados por sistemas
-obsoletos y que no es posible cambiar.
-SIEMs: los sistemas de identificación de eventos de seguridad, son sin duda
-una de las herramientas más populares de los últimos años que ayudará a
-identificar comportamientos anómalos tanto en una red como en un host.
+- EDR y XDR: se trata de soluciones antimalware más modernas que las anteriores y que además disponen de medidas o funciones reactivas. EDR (Endpoint Detection and Response) se puede considerar la primera generación de este tipo de soluciones, y XDR (Extended Detection and Response) como la segunda. Ambas usan inteligencia artificial y otras técnicas para prever posibles ataques y patrones.
+- Firewalls o cortafuegos: se trata de herramientas que van a poder configurarse para permitir o impedir el tráfico entre las redes en base a las reglas que se establezcan.
+- Copias de seguridad: sin duda la estrella de las medidas preventivas y reina de los planes de contingencia. En caso de pérdida de la información, nos permitirá recuperarla.
+- DLP: Data Loss Prevention, son un conjunto de herramientas que velan por que la información de una compañía no se exfiltre o se envíe sin disponer de autorización, lo que también se conoce como una fuga de datos. Estas herramientas permiten mantener el control de la información sin perder productividad.
+- Verificación de integridad: mediante este tipo de soluciones, será posible controlar la integridad de los archivos que forman parte de un sistema o arquitectura. A través de la construcción de una base de datos, si se produce algún cambio como por ejemplo un binario, la herramienta generará una alerta. Habitualmente se usan funciones de [hash.]()
+- Conexiones seguras: algo esencial para proteger las comunicaciones, es mantener la confidencialidad de los datos que discurren por ellas. Existen numerosas herramientas pero destaca la implementación de VPNs (Virtual Private Networks) y otro tipo de soluciones de encapsulado. Si algún atacante intercepta el tráfico, en principio no podrá leerlo.
+- IDS: los sistemas de detección de intrusos, son herramientas de carácter preventivo que informan ante un comportamiento anómalo en la red o en un host, para llevar a cabo algún tipo de acción.
+- Virtual patching: se trata de un conjunto de soluciones diseñadas sobre todo para aquellos sistemas de producción que están soportados por sistemas obsoletos y que no es posible cambiar.
+- SIEMs: los sistemas de identificación de eventos de seguridad, son sin duda una de las herramientas más populares de los últimos años que ayudará a identificar comportamientos anómalos tanto en una red como en un host.
+
+*Medidas reactivas*
+
+
 
