@@ -284,7 +284,20 @@ los aspectos más importantes serían:
 
 *NIST*: [Cybersecurity framework]()
 
-**7. 
+**7. Caracterización de procedimientos, instrucciones y recomendaciones**
+
+A continuación, y tomando como ejemplo la gestión de incidentes, se va a proponer un
+modelo de caracterización pero hay decenas de alternativas. En primer lugar hemos de
+determinar los elementos esenciales:
+- Nombre del proceso/procedimiento: gestión de incidentes
+- Propietario: jefe de seguridad (CISO). En este caso, será el que tenga la responsabilidad.
+- Cliente/destinatario del proceso: usuarios, personal, clientes, etc. El público al que se dirige.
+- Objetivo del proceso: gestionar los incidentes que lleguen a través de la cuenta de correo y procesarlos a través de RTIR. Aunque la descripción es sencilla en este caso, se ha de tener en cuenta cuestiones como la idoneidad del mismo, la obtención de indicadores para medir la eficacia y eficiencia y ver cómo satisfacen las necesidades de
+los destinatarios.
+Elementos de entrada: colas de correo, llamadas telefónicas y formulario web. Se han
+de indicar desde dónde llegan los input.
+Elementos de salida: elementos resultantes del proceso como informes, estadísticas,
+etc.
 
 
 
