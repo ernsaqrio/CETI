@@ -251,16 +251,13 @@ recomendaciones específicas para sectores concretos como por ejemplo los fabric
 juguetes conectados.
 
 Puesto que no es objetivo de este punto enumerar y explicar el propósito de cada una de las
-guías disponibles, se facilitan las referencias a los listados más interesantes para que el
-alumno pueda escoger.
-Guías de ciberseguridad del INCIBE
-Guías STIC del CCN
-Guías de la ENISA
-Guías de ECSO
-Mencionar que si llevamos a cabo una búsqueda, encontraremos miles de referencias a
-guías de buenas prácticas. Se han escogido las previas por tratarse de organizaciones que
-no atienden a intereses particulares ni están sujetas a cuestiones económicas dependientes
-de grandes corporaciones.
+guías disponibles, se facilitan las referencias a los listados más interesantes:
+[- Guías de ciberseguridad del INCIBE]()
+[- Guías STIC del CCN]()
+[- Guías de la ENISA]()
+[- Guías de ECSO]()
+
+Mencionar que si llevamos a cabo una búsqueda, encontraremos miles de referencias a guías de buenas prácticas. Se han escogido las previas por tratarse de organizaciones que no atienden a intereses particulares ni están sujetas a cuestiones económicas dependientes de grandes corporaciones.
 
 
 
