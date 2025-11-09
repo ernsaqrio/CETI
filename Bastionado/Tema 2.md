@@ -54,7 +54,34 @@ de seguridad, este podría ser:
 Llevaremos a cabo el análisis propiamente dicho en todas sus fases para obtener el listado de posibles amenazas que podrían afectar al sistema analizado. 
 
 Las mas destacadas son las siguientes:
+
+*Fase inicial: reconocimiento*
 1. Identificación de activos: para identificar las amenazas a las que podrían estar sujetos.
 2. Identificación del riesgo intrínseco: resultante de la fase previa y que, nos dará el nivel de riesgo del activo sin la aplicación de los controles que mejorarán la seguridad.
 3. Probabilidad de ocurrencia: estableceremos la posibilidad de que se materialice la amenaza sobre el activo y que pueda generar un impacto y las consecuencias derivadas. En este punto podremos calcular el nivel de riesgo siguiendo la fórmula: [[Formula de probabilidad de ocurrencia y ejemplo]] Este ejemplo, evidentemente indica que se requiere establecer un control para esta cuestión.
-4. 
+4. Riesgos no aceptables: tras el paso previo, hemos de identificar aquellos riesgos que no son aceptables. Estos serían aquellos que pueden afectar muy negativamente al negocio hasta el punto de dejar la organización sin servicio. El tipo de control a implementar, será siempre proporcional al activo que se quiere proteger.
+5. Riesgo residual: determinará el nivel de riesgo tras su reducción considerando este con un valor “aceptable”.
+
+*Mitigación de riesgos*
+
+Tras la fase previa, en esta será donde se establecerán los mecanismos y controles que permitirán definir un nivel de riesgo aceptable y asumible. ¿Con qué mecanismos contamos para llevar a cabo esta tarea? Podemos implementar los siguientes:
+1. Implementar controles para su mitigación: suele ser la más habitual cuando se trata de problemas que pueden interferir en el correcto funcionamiento de los procesos de una organización.
+2. Eliminando el riesgo: cuando se trata de un proceso que no es necesario pero que podría poner en peligro otros activos de la organización.
+3. Tercerizar o transferir el riesgo: a través por ejemplo de un ciberseguro o una póliza de [ciber-riesgos.]()
+
+*Establecimiento de indicadores y verificación del proceso*
+
+Tras definir los controles, se han de establecer [cuadros de mando]() que nos permitan medir el correcto funcionamiento de los controles. 
+
+Si no tenemos en cuenta esta cuestión, es decir si no medimos, nunca sabremos si realmente el control está funcionando. 
+
+Por ejemplo, en una política de copias de seguridad, si no comprobamos la frecuencia con que se hacen y si no verificamos su posible restauración, no podremos estar seguros de si realmente la misma está funcionando de manera correcta. 
+
+De esta manera verificaremos que la medida que se ha implementado es efectiva contra el riesgo que queremos reducir.
+
+Por último, es importante indicar, que el análisis de riesgos es un proceso continuo y que se
+debe llevar a cabo de manera periódica pues las tecnologías, servicios e infraestructuras de
+las organizaciones cambian frecuentemente en el mundo TI. 
+
+
+
