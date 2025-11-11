@@ -1,4 +1,4 @@
-**Definiciones básicas**
+# Definiciones básicas
 
 - Amenazas: una amenaza es cualquier elemento susceptible de causar daño. Aquí podemos
 	distinguir entre amenazas físicas (incendios, terremotos, cortes eléctricos, fallos de hardware,
@@ -34,7 +34,7 @@
 	- Prueba caja gris: combinación de las dos anteriores, conocemos detalles internos pero
 		no tenemos pleno acceso a ellos.
 
-**Principios seguridad de la información**
+# Principios seguridad de la información
 
 Para quebrantar esta seguridad se busca romper uno o varios de las dimensiones
 que sustentan esta seguridad (CIA Triad):
@@ -75,7 +75,8 @@ trabajadores al mínimo necesario para el desempeño de sus tareas autorizadas.
 
 Cada capa ofrece una protección adicional, de modo que si una capa es violada, la siguiente capa de protección estará en su lugar para evitar una mayor exposición de los datos a partes no autorizadas.
 
-**Tipos de seguridad**
+# Tipos de seguridad
+
 - En función de lo que se quiere proteger:
 	- Seguridad física: Protección de la organización frente a accesos no autorizados y ataques físicos a los equipos e instalaciones. Hardware.
 	
@@ -95,13 +96,13 @@ Cada capa ofrece una protección adicional, de modo que si una capa es violada, 
 		- Restauración de copias de seguridad.
 		- Utilización de distintas particiones para el almacenamiento de esas copias de seguridad.
 
-**Deep web y dark web**
+# Deep web y dark web
 
 - Surface web (4%): Indexada y fácil de buscar (wikipedia, google, bing, yahoo)
 - Deep web (90%): No indexada y algo difícil de encontrar (4chan, craiglist, reddit, pastebins, niche blogs & forums, Yahoo answers)
 - Dark web (6%): obscurecida, dificil de descubrir (Zeronet, I2P, TOR encrypted sites, Open bazaar y telegram)
 
-**Anonimato en la red**
+# Anonimato en la red
 
 La dirección ip y dirección Mac de los dispositivos que tenemos conectados a nuestra
 red doméstica/privada (incluidas las máquinas virtuales) no están directamente
@@ -159,7 +160,7 @@ A esto se debe el nombre de TOR, una alusión a las capas de las cebollas.
 - ZeroNet: red de internet descentralizada. No hace uso de servidores, sino que los host pertenecen a una red p2p (peer to peer). Por defecto no es anónima, pero se puede combinar con Tor.
 - FreeNet: alternativa a Tor. Como ZeroNet, es una red descentralizada que emplea la conexión punto a punto (p2p) y es anónima. Aún en desarrollo
 
-**Vulnerabilidades**
+# Vulnerabilidades
 
 Para el nombrado de vulnerabilidades se emplea el estándar de nomenclatura de
 vulnerabilidades CVE (https://cve.mitre.org/) (Common Vulnerabilities and
@@ -185,7 +186,7 @@ Nomenclatura: cpe:/ {part} : {vendor} : {product} : {version} : {update} : {edit
 
 Por ejemplo: cpe:2.3:a:kemptechnologies:web_application_firewall:7.2.54.1:*:*:*:*:*:*:*
 
-*Según severidad*
+**Según severidad**
 
 Existen diferentes formas de clasificación de vulnerabilidades algunas organizaciones utilizan el CVSS (Common Vulnerability Scoring
 System) que califican del 0 al 10 su riesgo.
@@ -197,7 +198,7 @@ System) que califican del 0 al 10 su riesgo.
 
 Una lista de vulnerabilidades y exposiciones más comunes (CVE – Common Vulnerabitilies and Exposures) se encuentra en el National Vulnerability Database (NVD), el cual es un repositorio del gobierno norteamericano. Otra base de datos de vulnerabilidades es cveDetails.com.
 
-*Según tiempo*
+**Según tiempo**
 
 Vulnerabilidades Zero-Day: vulnerabilidad que acaba de ser descubierta y que aún no tiene un
 parche que la solucione. La principal amenaza reside en que, hasta que se lanza dicho parche
@@ -211,7 +212,7 @@ Vulnerabilidades antiguas: vulnerabilidades conocidas desde hace mucho tiempo qu
 parcheadas en nuevas versiones o no lo han sido en absoluto por diversos motivos, por ejemplo: el
 abandono de Windows XP. Suelen tener exploits públicos y son usadas en un entorno de aprendizaje
 
-**Tipos de amenazas**
+# Tipos de amenazas
 
 Poco estructuradas: personas o grupos pequeños que actúan por cuenta propia motivados
 por diversas causas: curiosidad, aprendizaje, beneficios, hacktivismo, etc. Los casos más
@@ -230,7 +231,7 @@ así como organizaciones gubernamentales. La más conocida es la NSA.
 **¿Que es un ataque?**: Toda aquella acción que atenta contra los pilares de la seguridad:
 Confidencialidad, Integridad, Disponibilidad (CIA).
 
-**Tipos de ataques**
+# Tipos de ataques
 - Pasivo o activo:
 	- Activo:
 		- Modifica el sistema
@@ -257,25 +258,25 @@ Confidencialidad, Integridad, Disponibilidad (CIA).
 		- Investigadores
 		- Script kiddies
 
-**Hacking ético**
+# Hacking ético
 
 El hacking ético, también conocido como «pentesting» o prueba de penetración, es una técnica utilizada por los expertos en seguridad informática para detectar y corregir vulnerabilidades en los sistemas de información.
 
 El objetivo principal de los hackers éticos es asegurar que los sistemas y redes de una organización sean seguros y protegidos contra posibles ataques malintencionados.
 
-*comparativa de hacker ético y hacker*
+**comparativa de hacker ético y hacker**
 
 Mientras que el término hacker tiene unas connotaciones de persona que hace uso del hacking para obtener algún tipo de beneficio personal realizando actividades ilegales, cuando hablamos de hacker ético nos referimos a:
 - Profesional de la ciberseguridad que se encarga de identificar y reportar vulnerabilidades en sistemas.
 - Experto que se especializan en las pruebas de penetración de sistemas informáticos y de software con el fin de evaluar, fortalecer y mejorar la seguridad.
 
 
-*tipos de hackers*
+**tipos de hackers**
 - White hat: los sombreros blancos utilizan sus capacidades y recursos para descubrir vulnerabilidades y mantener a salvo a la organización. Reciben el permiso de la organización para esta búsqueda. **Actividad legal**
 - Black hat: delincuentes que buscan identificar y explotar vulnerabilidades en sistemas motivados por el simple beneficio económico, reputación, venganza o diversión. **Actividades ilegales.**
 - Grey hat: este tipo de hacker es una combinación de los dos anteriores. Realizan el mismo análisis de vulnerabilidades de la forma que lo haría un sombrero blanco, pero a diferencia de este no cuenta con el permiso expreso de la organización. Mientras que un sombrero blanco encuentran, reportan vulnerabilidades exclusivamente a la organización y un sombrero negro las explota para su propio beneficio, un sombrero gris encuentra y podría intentar reportárselo a la organización. **Actividades ilegales por no contar con el permiso expreso**
 
-**Bug bounties**
+# Bug bounties
 
 El Bug Bounty se puede definir como una modalidad de seguridad ofensiva en el que una organización ofrece recompensa a aquellos hackers que encuentren diferentes vulnerabilidades en su infraestructura.
 
@@ -292,9 +293,9 @@ encontrar programas de recompensa están:
 - https://www.bugcrowd.com/
 - http://antihack.me/
 
-**Tipos de análisis de seguridad**
+# Tipos de análisis de seguridad
 
-*Auditorias de gestión*
+**Auditorias de gestión**
 
 Este tipo de auditorias se encarga principalmente de auditar un determinado activo con el fin de verificar normativas a cumplir en la organización.
 
@@ -306,7 +307,7 @@ Algunos ejemplos serian:
 Tienen un carácter mas teórico y donde la auditoria suele estar basada en una batería de pruebas
 teóricas que deben ser cumplidas.
 
-*Auditorias técnicas*
+**Auditorias técnicas**
 
 Este tipo de auditorias tienen un carácter más practico donde se pasa de simplemente identificar que algo existe o no para pasar a verificarlo.
 Los principales tipos de auditorias técnicas son los siguientes:
@@ -314,7 +315,7 @@ Los principales tipos de auditorias técnicas son los siguientes:
 - Test de Intrusión (Proceso de intrusión, simulación de ataque digital).
 - Red Team (Simulación de ataque real y dirigido).
 
-*Ámbitos*
+**Ámbitos**
 
 En base al activo y origen de las pruebas podemos tener los siguientes ámbitos tanto de auditoria como de intrusión:
 ▪ Externo: Acciones realizadas sobre la infraestructura desde Internet.
@@ -324,21 +325,21 @@ En base al activo y origen de las pruebas podemos tener los siguientes ámbitos 
 ▪ Wireless: Acciones sobre tecnologías inalámbricas como Wi-Fi.
 ▪ Otros.
 
-**Alcance del hacking ético**
+# Alcance del hacking ético
 
 - Antes de realizar ninguna acción, discutir con el cliente las tareas que llevará a cabo el analista durante el Hacking Ético, así como los roles y responsabilidades de ambos.
 - Asegurar mediante contrato firmado que las acciones que se llevan a cabo son en representación del cliente.
 - Análisis de las políticas de la organización que definen el uso que los usuarios hacen de los sistemas y de la infraestructura.
 - Procedimiento en el caso de que se localice una intrusión por un tercero.
 
-**Mejores prácticas para el hacking ético**
+# Mejores prácticas para el hacking ético
 - Obtener autorización: Antes de realizar cualquier prueba de penetración o análisis de vulnerabilidades, es esencial obtener la autorización del propietario del sistema o red que se está evaluando.
 - Documentar todo: Es importante documentar todas las actividades realizadas durante la evaluación de seguridad, incluyendo cualquier vulnerabilidad encontrada y las medidas tomadas para corregirlas.
 - Mantener la confidencialidad: Todo lo descubierto durante la prueba de penetración debe mantenerse en secreto y no debe ser compartido con terceros sin autorización.
 - No causar daño: El objetivo del hacking ético es mejorar la seguridad del sistema, no dañarlo. Por lo tanto, es importante asegurarse de que las pruebas de penetración no causen daño a los sistemas evaluados.
 - Conocer y cumplir las leyes y regulaciones: Es importante conocer las leyes y regulaciones locales, nacionales e internacionales relacionadas con la seguridad informática y asegurarse de cumplirlas durante cualquier actividad de hacking ético.
 
-**Metodologías de seguridad**
+# Metodologías de seguridad
 
 Existen una gran cantidad de metodologías actualmente reconocidas y ampliamente
 utilizadas por profesionales a nivel internacional. De entre ellas cabe destacar:
@@ -349,7 +350,7 @@ En cuanto a certificaciones mas acotadas:
 - OWISAM: Auditoria de redes Wi-Fi
 - OASAM: Auditoria de aplicaciones móvil (Android)
 
-*OWASP*
+**OWASP**
 
 Es una metodología desarrollada por el proyecto OWASP, que tiene por objetivo
 exponer todos los detalles necesarios para realizar ejercicios de auditoria e
@@ -362,7 +363,7 @@ correcta.
 
 Para ello, han elaborado la OWASP Testing Guide.
 
-*PTES*
+**PTES**
 
 Es una metodología abierta desarrollada por reputados profesionales en el ámbito
 de la seguridad. Dicha metodología tiene un claro enfoque en el desarrollo de
@@ -371,7 +372,7 @@ ejercicios de intrusión o “test de intrusión”.
 Esta metodología cubre todas las fases necesarias que deben ser seguidas para
 materializar una intrusión.
 
-*OSSTMM*
+**OSSTMM**
 
 Es una metodología abierta (v3) desarrollada por ISECOM, y es uno de los estándares
 profesionales mas completos y comúnmente utilizados en auditoria de seguridad.
@@ -383,7 +384,7 @@ Dicha metodología consta de diferentes secciones que son:
 - Sección E - Seguridad Inalámbrica
 - Sección F - Seguridad Física
 
-**Reportes**
+# Reportes
 
 Para resolver esta duda y que tengáis ejemplos reales de cara a poder organizar
 de la mejor forma posible vuestros informes, me gustaría dejaros por aquí varios

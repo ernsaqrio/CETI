@@ -116,3 +116,4 @@ En general, para los tres métodos (aunque su fundamento es distinto) la interpr
 - Si se recibe un **ICMP unreachable** (tipo 3, códigos 1,2,3,9,10 o 13): puerto **filtrado**
     
 - Si no se recibe respuesta, aplicaciones como **nmap** consideran el puerto como **open | filtered** debido a la imposibilidad de determinar si el puerto está en un estado u otro.
+
