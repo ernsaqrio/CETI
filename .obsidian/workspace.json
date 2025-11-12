@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "UD2.2 - Fingerprinting"
             }
+          },
+          {
+            "id": "ee877f1d087e4581",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1d4409999b0de28",
+  "active": "ee877f1d087e4581",
   "lastOpenFiles": [
     "Hacking etico/THB1- Intro to Network Traffic Analysis.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
