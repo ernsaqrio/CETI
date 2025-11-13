@@ -65,7 +65,7 @@ que demuestran la eficacia del sistema.
 
 La documentación debe ser actualizada, accesible y verificable.
 
-**Términos clave**
+*Términos clave*
 - Compliance: cumplimiento normativo; conjunto de acciones que garantizan el respeto de leyes, regulaciones y estándares aplicables.
 
 - Sistema de gestión de compliance: estructura documentada que organiza los procesos y responsabilidades para asegurar el cumplimiento.
@@ -96,16 +96,82 @@ La documentación debe ser actualizada, accesible y verificable.
 
 - Revisión por la dirección: evaluación de la alta dirección para garantizar la adecuación y eficacia del sistema.
 
-**Apéndices**
+*Apéndices*
 - Métodos de evaluación del cumplimiento normativo.
 - Ejemplos de indicadores de rendimiento (KPI).
 - Listas de verificación para revisar la eficacia del sistema de gestión de compliance.
 
-**Indicador de rendimiento**
+*Indicador de rendimiento*
 
 Un indicador de rendimiento (KPI) o indicador clave es una medida del nivel del rendimiento de un proceso.
 
 Sus objetivos principales son medir el nivel de funcionamiento de los procesos y motivar el nivel del cumplimiento de los objetivos.
 
 Los KPI deben ser SMART, es decir, específicos (specific), medibles (measurable), alcanzables (achievable), relevantes (relevant) y oportunos (timely).
+
+**Requisitos**
+
+*1. Política de compliance*: La organización debe definir una política formal que refleje su compromiso con el cumplimiento de leyes, regulaciones y estándares éticos.
+
+Debe ser conocida, aplicable y revisada periódicamente.
+
+*2. Liderazgo*: La alta dirección debe participar activamente, demostrar compromiso y proporcionar los recursos necesarios para implantar el sistema.
+
+Su ejemplo es clave para fomentar la cultura de cumplimiento.
+
+*3. Evaluación de riesgos*: Es necesario realizar una identificación y análisis sistemático de los
+riesgos de incumplimiento, priorizándolos según su impacto y probabilidad.
+
+*4. Controles*: La organización debe establecer medidas preventivas y correctivas que mitiguen
+los riesgos detectados.
+
+Estos controles incluyen políticas, procedimientos, auditorías y revisiones periódicas.
+
+*5. Comunicación y formación*: Toda la plantilla debe conocer la política de compliance y recibir formación continua.
+
+La capacitación fortalece la cultura de cumplimiento y reduce errores humanos.
+
+*6. Supervisión y medición*: Se deben monitorizar y medir los resultados del sistema mediante indicadores (KPI).
+
+Permite detectar deficiencias, introducir mejoras y garantizar la eficacia.
+
+*7. Mejora continua*: El sistema debe evolucionar con el tiempo.
+
+La mejora continua implica la participación de toda la organización y la actualización constante de procedimientos y controles.
+
+*ISO 19600 – Requisitos Clave del Compliance*
+- Política clara y comunicada
+- Liderazgo comprometido
+- Gestión y control de riesgos
+- Formación continua
+- Supervisión y mejora constante
+
+Es importante la realización de una checklist para conocer el estado de la organización respecto a estos requisitos o simplemente para establecer los requisitos respecto al compliance.
+
+La norma ISO 19600 puede integrarse con otras normas de gestión, como la norma ISO 37001 (antisoborno) o la norma ISO 27001 (seguridad de la información).
+
+**Tipos de sistemas**
+
+Los sistemas de gestión de compliance pueden clasificarse según el tipo de normativa en la que centran su atención.
+
+Cada tipo cubre unos riesgos, controles y políticas específicas de su ámbito regulatorio.
+
+==Compliance fiscal==: Garantiza el cumplimiento de las obligaciones tributarias de la organización, tanto nacionales como internacionales.
+
+Elementos clave:
+- Política fiscal clara y transparente.
+- Procedimientos para la gestión de impuestos y declaraciones.
+- Sistema de control interno para detectar errores o fraudes.
+- Formación del personal en normativa fiscal.
+- Canal de denuncia para comunicar incumplimientos.
+
+==Compliance medioambiental==: Asegura el cumplimiento de las leyes medioambientales, permisos y
+licencias, y la protección del entorno natural.
+
+Elementos clave:
+- Política medioambiental y compromiso institucional.
+- Evaluación de impactos ambientales.
+- Plan de gestión de residuos y emisiones.
+- Controles internos de cumplimiento.
+- Formación específica en sostenibilidad y medioambiente.
 
