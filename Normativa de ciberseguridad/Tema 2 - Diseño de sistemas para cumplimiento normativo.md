@@ -175,3 +175,62 @@ Elementos clave:
 - Controles internos de cumplimiento.
 - Formación específica en sostenibilidad y medioambiente.
 
+==Compliance tecnológico==: Centrado en la protección de datos personales, la ciberseguridad y el comercio electrónico.
+
+Elementos clave:
+- Política de protección de datos y privacidad.
+- Medidas técnicas y organizativas de seguridad.
+- Plan de respuesta ante incidentes.
+- Formación del personal en seguridad de la información.
+
+==Compliance penal==: Busca prevenir la comisión de delitos dentro de la organización o por parte de
+sus empleados.
+
+Se relaciona directamente con el Código Penal y la responsabilidad penal de las personas jurídicas.
+
+Elementos clave:
+- Código ético y de conducta.
+- Modelo de prevención de delitos.
+- Controles internos de detección y prevención.
+- Canal de denuncias y protección del informante.
+
+# Chief compliance officer
+
+El Chief Compliance Officer (CCO) o Responsable de Cumplimiento Normativo.
+
+Es la persona profesional encargada de velar por el cumplimiento de leyes, regulaciones y normas internas dentro de una organización.
+
+Su papel es fundamental en la implementación, gestión y supervisión del sistema de compliance, actuando como garante de la ética, la transparencia y la reputación corporativa.
+
+**Funciones principales**
+
+*1. Evaluación de riesgos de incumplimiento*
+- Identificar y analizar los riesgos legales o regulatorios que puedan afectar a la organización.
+- Desarrollar e implementar estrategias de mitigación que aseguren el cumplimiento normativo.
+
+*2. Supervisión de los procedimientos internos*
+- Verificar que las políticas, procesos y controles internos estén alineados con las normativas vigentes.
+- Coordinar auditorías internas o externas para revisar la eficacia del sistema de compliance.
+
+*3. Formación y concienciación del personal*
+- Impulsar la formación continua en materia de cumplimiento, ética y buenas prácticas.
+- Sensibilizar a todos los niveles de la organización sobre la importancia del cumplimiento normativo.
+
+*4. Comunicación y cultura del cumplimiento*
+- Comunicar y mantener actualizado el sistema de gestión de compliance en toda la organización.
+- Promover una cultura ética y transparente, fomentando la responsabilidad individual y colectiva.
+
+**¿Porqué es importante?**
+- Es el enlace entre la dirección y el resto de la organización en materia de cumplimiento.
+- Supervisa los protocolos de comunicación interdepartamental y asegura la coherencia en las políticas internas.
+- Su actuación contribuye directamente a la prevención de riesgos legales, al cumplimiento ético y a la protección de la reputación corporativa.
+
+**Chief compliance officer vs Compilance Officer**
+
+
+| Aspecto          | Chief compliace officer | Compliance officer               |
+| ---------------- | ----------------------- | -------------------------------- |
+| Nivel jerarquico | Alta dirección          | Nivel técnico o de gestión media |
+| Rol principal    |                         |                                  |
+|                  |                         |                                  |
+|                  |                         |                                  |
