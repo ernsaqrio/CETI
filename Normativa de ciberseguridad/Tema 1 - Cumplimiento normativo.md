@@ -1,4 +1,4 @@
-**1.1 Aspectos sociales de la informática**
+# 1.1 Aspectos sociales de la informática
 
 **Brecha digital**
 
@@ -80,16 +80,16 @@ Cuestiones ambientales de la informática
 	- Aumento de conexiones
 	- Cada búsqueda en Google tiene un consumo de 12 Kilo julios / 7 gr. CO2
 
-**1.2 Introducción al cumplimiento normativo**
+# 1.2 Introducción al cumplimiento normativo
 
-*Cumplimiento normativo en ciberseguridad*
+**Cumplimiento normativo en ciberseguridad**
 
 En la era digital, la información es uno de los activos más valiosos de cualquier organización.
 
 El cumplimiento normativo —o compliance— es esencial para garantizar la seguridad de los sistemas de información, proteger los datos personales y mantener la confianza en el
 entorno digital.
 
-*Contexto y revelancia*
+**Contexto y relevancia**
 
 Por qué es importante el cumplimiento normativo:
 - La ciberseguridad se ha convertido en una necesidad estratégica.
@@ -100,7 +100,7 @@ Por qué es importante el cumplimiento normativo:
 El compliance es más que cumplir leyes: es crear una cultura de
 seguridad y responsabilidad.
 
-*Marco normativo europeo*
+**Marco normativo europeo**
 
 Normativas clave en Europa
 - Directiva NIS (Network and Information Security)
@@ -112,7 +112,7 @@ Normativas clave en Europa
 	
 Ambas normas fortalecen la seguridad y la confianza en el entorno digital europeo.
 
-*Marco normativo español*
+**Marco normativo español**
 
 El **Esquema Nacional de Seguridad (ENS)**
 - Marco normativo español en materia de ciberseguridad.
@@ -136,7 +136,7 @@ El **Esquema Nacional de Seguridad (ENS)**
 	
 El ENS no solo protege los sistemas públicos, sino que también es un referente para organizaciones privadas.
 
-*Guías CCN-STIC - Herramientas de apoyo al ENS*
+**Guías CCN-STIC - Herramientas de apoyo al ENS**
 
 El Centro Criptológico Nacional (CCN) publica guías prácticas para implantar y auditar el ENS:
 
@@ -148,14 +148,14 @@ El Centro Criptológico Nacional (CCN) publica guías prácticas para implantar 
 | CCN-STIC 809 | Certificación y declaración de conformidad |
 Estas guías orientan la evaluación, verificación y certificación del cumplimiento normativo.
 
-*¿Qué es el compliance en ciberseguridad?*
+**¿Qué es el compliance en ciberseguridad?**
 
 Es es el conjunto de medidas, políticas y controles que aseguran el cumplimiento de las
 leyes, regulaciones y estándares aplicables en materia de seguridad de la información y protección de datos.
 
 Objetivo: Proteger los activos de información y demostrar que la organización cumple con las normas y buenas prácticas establecidas.
 
-*Componentes principales del compliance*
+**Componentes principales del compliance**
 - Cumplimiento normativo. Se refiere al conjunto de medidas y controles que una organización debe implementar para cumplir con las leyes, regulaciones y normativas aplicables en materia de seguridad de la información y protección de datos.
 	- Estas regulaciones pueden provenir de entidades gubernamentales, organismos reguladores o estándares de la industria.
 	
@@ -176,7 +176,7 @@ Objetivo: Proteger los activos de información y demostrar que la organización 
 	
 - En general, un sistema de compliance efectivo combina medidas técnicas, organizativas y formativas.
 
-*Guía CCN-STIC 809*
+**Guía CCN-STIC 809**
 
 La Guía CCN-STIC 809, titulada Declaración, Certificación y Aprobación
 Provisional de conformidad con el ENS y Distintivos de cumplimiento.
@@ -187,7 +187,7 @@ normativo.
 
 En ella se introduce el concepto de Aprobación Provisional de Conformidad (APC) en el ENS, descrito y definido en la Guía CCN-CERT IC-01/19 ENS: Criterios Generales de Auditoría y Certificación.
 
-*Objetivos del compliance*
+**Objetivos del compliance**
 
 Finalidad del cumplimiento normativo
 - Garantizar el respeto de la legislación vigente.
@@ -199,11 +199,11 @@ Finalidad del cumplimiento normativo
 El cumplimiento normativo es una inversión en reputación,
 seguridad y sostenibilidad.
 
-**1.3 Principios del buen gobierno y ética empresarial**
+# 1.3 Principios del buen gobierno y ética empresarial
 
 Cómo la gestión ética y responsable protege los activos digitales y fortalece la confianza.
 
-*Buen gobierno en ciberseguridad*
+**Buen gobierno en ciberseguridad**
 
 
 Los principios de buen gobierno se vinculan con el cumplimiento normativo.
@@ -217,9 +217,9 @@ Ejemplos clave:
 
 Recuerda: Al adherirse a unos marcos normativos las organizaciones no solo fortalecen su postura de seguridad, sino que también están mitigando el riesgo de sanciones legales y de daños a su reputación.
 
-*Principios fundamentales del buen gobierno en ciberseguridad*
+**Principios fundamentales del buen gobierno en ciberseguridad**
 
-==Liderazgo ejecutivo y compromiso corporativo==
+*Liderazgo ejecutivo y compromiso corporativo*
 
 El buen gobierno en ciberseguridad se inicia con el compromiso activo de la dirección ejecutiva. 
 Implicaciones:
@@ -230,7 +230,7 @@ Implicaciones:
 Finalidad: Garantizar que la ciberseguridad sea una prioridad estratégica.
 Ejemplo: Un CEO que aprueba presupuesto para implementar controles de seguridad y respalda públicamente iniciativas de ciberseguridad.
 
-==Gestión integral de riesgos==
+*Gestión integral de riesgos*
 
 Identificar y gestionar proactivamente los riesgos cibernéticos.
 Implicaciones:
@@ -241,7 +241,7 @@ Implicaciones:
 Finalidad: Minimizar amenazas y proteger la continuidad del negocio.
 Ejemplo: Realizar auditorías periódicas de seguridad y establecer planes de contingencia frente a ataques de phishing.
 
-==Implementación de controles y medidas de seguridad==
+*Implementación de controles y medidas de seguridad*
 
 Aplicar políticas y tecnologías para proteger los activos digitales.
 Implicaciones:
@@ -252,7 +252,7 @@ Implicaciones:
 Finalidad: Prevenir accesos no autorizados y proteger la información sensible.
 Ejemplo: Implementar un sistema de gestión de identidades y accesos (IAM) para controlar los permisos de los usuarios.
 
-==Monitorización y respuesta efectiva==
+*Monitorización y respuesta efectiva*
 
 Detectar y responder rápidamente a incidentes de seguridad.
 Implicaciones:
@@ -264,7 +264,7 @@ Finalidad: Minimizar el impacto de ataques y asegurar la
 continuidad del negocio.
 Ejemplo: Uso de un Security Operations Center (SOC) para monitorear y responder a intrusiones en tiempo real.
 
-*Ética empresarial*
+**Ética empresarial**
 
 Conjunto de principios, valores y normas que guían el comportamiento de una organización con empleados, clientes, proveedores, accionistas y la sociedad.
 Fundamento:
@@ -292,7 +292,7 @@ Dedicación:
 
 ![[csr.png]]
 
-==Aspectos clave==
+**Aspectos clave**
 
 Transparencia y honestidad
 - Las organizaciones éticas son transparentes en operaciones y comunicaciones.
@@ -321,7 +321,7 @@ Integridad y ética en la toma de decisiones
 - Evitar prácticas engañosas o fraudulentas.
 - Fomentar una cultura de integridad y ética en la organización.
 
- ==En la ciberseguridad==
+ *En la ciberseguridad*
 
 La ética empresarial es clave para la protección de datos y seguridad de la información.
 
@@ -329,14 +329,14 @@ El manejo adecuado de información confidencial y la privacidad de usuarios es f
 
 Una buena ética contribuye a funcionamiento efectivo y reputación sólida de la organización.
 
-==Principios de protección de la información==
+*Principios de protección de la información*
 
 Garantizar:
 - Confidencialidad
 - Integridad
 - Disponibilidad de la información
 
-==Medidas prácticas==
+*Medidas prácticas*
 
 Implementar controles de seguridad adecuados.
 
@@ -344,7 +344,7 @@ Capacitar al personal en buenas prácticas de ciberseguridad.
 
 Cumplir con la normativa y regulaciones aplicables.
 
-==Beneficios de la ética en ciberseguridad==
+*Beneficios de la ética en ciberseguridad
 
 Refuerza la reputación y la confianza de clientes y colaboradores.
 
@@ -352,7 +352,7 @@ Contribuye al éxito a largo plazo de la organización.
 
 Favorece el bienestar de la sociedad y el desarrollo sostenible.
 
-**1.4 - Compliance officer: funciones y responsabilidades**
+# 1.4 - Compliance officer: funciones y responsabilidades
 
 *¿Qué es un Compliance Officer?*
 
