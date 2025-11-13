@@ -227,10 +227,10 @@ Su papel es fundamental en la implementación, gestión y supervisión del siste
 
 **Chief compliance officer vs Compilance Officer**
 
-
-| Aspecto          | Chief compliace officer | Compliance officer               |
-| ---------------- | ----------------------- | -------------------------------- |
-| Nivel jerarquico | Alta dirección          | Nivel técnico o de gestión media |
-| Rol principal    |                         |                                  |
-|                  |                         |                                  |
-|                  |                         |                                  |
+| Aspecto                      | Chief compliace officer                                        | Compliance officer                                    |
+| ---------------------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
+| Nivel jerarquico             | Alta dirección                                                 | Nivel técnico o de gestión media                      |
+| Rol principal                | Estrategia y supervisión del sistema                           | Ejecución operativa del sistema                       |
+| Responsabilidad              | Global en toda la organización                                 | Específica por área o proceso                         |
+| Relación con la<br>dirección | Reporta al Consejo o CEO                                       | Reporta al CCO                                        |
+| Competencias<br>clave        | Liderazgo, visión estratégica,<br>comunicación con reguladores | Análisis, control, verificación,<br>formación interna |
