@@ -67,17 +67,45 @@ La documentación debe ser actualizada, accesible y verificable.
 
 **Términos clave**
 - Compliance: cumplimiento normativo; conjunto de acciones que garantizan el respeto de leyes, regulaciones y estándares aplicables.
+
 - Sistema de gestión de compliance: estructura documentada que organiza los procesos y responsabilidades para asegurar el cumplimiento.
+
 - Política de compliance: compromiso formal de la organización con los principios éticos y las normas que guían su comportamiento. 
+
 - Riesgo de compliance: probabilidad de incumplir una obligación legal o normativa.
+
 - Control de compliance: medidas para reducir o eliminar los riesgos de incumplimiento.
+
 - Cultura de compliance: entorno donde los empleados comprenden y asumen la importancia del cumplimiento normativo. 
+
 - Partes interesadas: grupos que influyen o se ven afectados por la organización (clientes, empleados, proveedores, inversores, reguladores).
+
 - No conformidad: incumplimiento de un requisito del sistema de compliance.
+
 - Acción correctiva: medida adoptada para eliminar la causa de una no conformidad y evitar su repetición.
+
 - Acción preventiva: acción para impedir la aparición de una no conformidad.
+
 - Mejora continua: proceso cíclico de revisión y perfeccionamiento del sistema.
+
 - Evidencia: información verificable que demuestra la eficacia del sistema.
+
 - Documentación: información registrada en cualquier formato o soporte.
+
 - Auditoría interna: revisión sistemática e independiente para comprobar la conformidad del sistema.
+
 - Revisión por la dirección: evaluación de la alta dirección para garantizar la adecuación y eficacia del sistema.
+
+**Apéndices**
+- Métodos de evaluación del cumplimiento normativo.
+- Ejemplos de indicadores de rendimiento (KPI).
+- Listas de verificación para revisar la eficacia del sistema de gestión de compliance.
+
+**Indicador de rendimiento**
+
+Un indicador de rendimiento (KPI) o indicador clave es una medida del nivel del rendimiento de un proceso.
+
+Sus objetivos principales son medir el nivel de funcionamiento de los procesos y motivar el nivel del cumplimiento de los objetivos.
+
+Los KPI deben ser SMART, es decir, específicos (specific), medibles (measurable), alcanzables (achievable), relevantes (relevant) y oportunos (timely).
+
