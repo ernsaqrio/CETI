@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fef0d432ca0287c",
+        "id": "7224ef37b0e1911a",
         "type": "tabs",
         "children": [
           {
-            "id": "af87128a103138b3",
+            "id": "69e07ca9c7d1a0c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af87128a103138b3",
+  "active": "69e07ca9c7d1a0c0",
   "lastOpenFiles": [
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
