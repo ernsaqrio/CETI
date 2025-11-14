@@ -17,7 +17,7 @@ Un sistema de gestión de compliance es el conjunto de políticas, procedimiento
 Por tanto, un sistema de gestión de compliance es una herramienta esencial para las organizaciones que quieren garantizar el cumplimiento de la legislación vigente y de
 las normas éticas.
 
-**Referencia normativa**
+# Referencia normativa
 
 La norma ISO 19600:2015 – Sistemas de Gestión de Compliance (Directrices) ofrece un marco internacional para establecer, implementar, mantener y mejorar sistemas de cumplimiento efectivos en cualquier tipo de organización.
 
@@ -101,7 +101,7 @@ La documentación debe ser actualizada, accesible y verificable.
 - Ejemplos de indicadores de rendimiento (KPI).
 - Listas de verificación para revisar la eficacia del sistema de gestión de compliance.
 
-*Indicador de rendimiento*
+**Indicador de rendimiento**
 
 Un indicador de rendimiento (KPI) o indicador clave es una medida del nivel del rendimiento de un proceso.
 
@@ -150,13 +150,13 @@ Es importante la realización de una checklist para conocer el estado de la orga
 
 La norma ISO 19600 puede integrarse con otras normas de gestión, como la norma ISO 37001 (antisoborno) o la norma ISO 27001 (seguridad de la información).
 
-**Tipos de sistemas**
+# Tipos de sistemas
 
 Los sistemas de gestión de compliance pueden clasificarse según el tipo de normativa en la que centran su atención.
 
 Cada tipo cubre unos riesgos, controles y políticas específicas de su ámbito regulatorio.
 
-==Compliance fiscal==: Garantiza el cumplimiento de las obligaciones tributarias de la organización, tanto nacionales como internacionales.
+**Compliance fiscal**: Garantiza el cumplimiento de las obligaciones tributarias de la organización, tanto nacionales como internacionales.
 
 Elementos clave:
 - Política fiscal clara y transparente.
@@ -165,7 +165,7 @@ Elementos clave:
 - Formación del personal en normativa fiscal.
 - Canal de denuncia para comunicar incumplimientos.
 
-==Compliance medioambiental==: Asegura el cumplimiento de las leyes medioambientales, permisos y
+**Compliance medioambiental**: Asegura el cumplimiento de las leyes medioambientales, permisos y
 licencias, y la protección del entorno natural.
 
 Elementos clave:
@@ -175,7 +175,7 @@ Elementos clave:
 - Controles internos de cumplimiento.
 - Formación específica en sostenibilidad y medioambiente.
 
-==Compliance tecnológico==: Centrado en la protección de datos personales, la ciberseguridad y el comercio electrónico.
+**Compliance tecnológico**: Centrado en la protección de datos personales, la ciberseguridad y el comercio electrónico.
 
 Elementos clave:
 - Política de protección de datos y privacidad.
@@ -183,7 +183,7 @@ Elementos clave:
 - Plan de respuesta ante incidentes.
 - Formación del personal en seguridad de la información.
 
-==Compliance penal==: Busca prevenir la comisión de delitos dentro de la organización o por parte de
+**Compliance penal**: Busca prevenir la comisión de delitos dentro de la organización o por parte de
 sus empleados.
 
 Se relaciona directamente con el Código Penal y la responsabilidad penal de las personas jurídicas.

@@ -354,7 +354,7 @@ Favorece el bienestar de la sociedad y el desarrollo sostenible.
 
 # 1.4 - Compliance officer: funciones y responsabilidades
 
-*¿Qué es un Compliance Officer?*
+**¿Qué es un Compliance Officer?**
 
 Profesional especializado en ciberseguridad y cumplimiento normativo.
 
@@ -366,7 +366,7 @@ Busca minimizar el riesgo de incumplimientos que puedan derivar en sanciones o d
 
 Compliance Officer actúa como un enlace entre la estrategia de negocio y las exigencias regulatorias, asegurando un equilibrio entre innovación y cumplimiento.
 
-*Objetivo del Compliance Officer*
+**Objetivo del Compliance Officer**
 
 Prevenir sanciones legales y multas.
 
@@ -376,7 +376,7 @@ Promover la ética corporativa y la cultura del cumplimiento.
 
 Alinear la ciberseguridad con el marco regulatorio.
 
-*Conocimientos clave*
+**Conocimientos clave**
 
 Estándares → ISO 27001, NIST, etc.
 
@@ -388,29 +388,23 @@ Leyes → Legislación nacional e internacional aplicable.
 
 Normas → Procedimientos técnicos y operativos específicos.
 
-*Funciones y Responsabilidades*
+**Funciones y Responsabilidades**
 
 Las funciones pueden variar según el tamaño y la naturaleza de la organización, pero en general se agrupan en siete áreas clave.
 
-==1. Interpretación y Seguimiento Normativo==
-
-Conocer y mantenerse actualizado sobre leyes, regulaciones y estándares de ciberseguridad y protección de datos. 
+*1. Interpretación y Seguimiento Normativo*: Conocer y mantenerse actualizado sobre leyes, regulaciones y estándares de ciberseguridad y protección de datos. 
 
 Analizar el impacto de los cambios regulatorios en la organización. 
 
 Asegurar la alineación continua entre las operaciones y los requisitos normativos.
 
-==2. Desarrollo de Políticas y Procedimientos Internos
-
-Diseñar, implementar y mantener políticas corporativas de cumplimiento.
+*2. Desarrollo de Políticas y Procedimientos Internos*: Diseñar, implementar y mantener políticas corporativas de cumplimiento.
 
 Incluir áreas como seguridad de la información, gestión de riesgos y privacidad de datos.
 
 Garantizar que los documentos reflejen los requisitos legales y regulatorios vigentes.
 
-==3. Formación y Concienciación del Personal==
-
-Organizar sesiones de capacitación sobre políticas de cumplimiento. 
+*3. Formación y Concienciación del Personal*: Organizar sesiones de capacitación sobre políticas de cumplimiento. 
 
 Elaborar materiales formativos y campañas internas. 
 
@@ -418,9 +412,7 @@ Promover una cultura de cumplimiento y responsabilidad individual.
 
 Recordar: “El eslabón más débil siempre es la persona”.
 
-==4. Monitorización y Auditoría del Cumplimiento==
-
-Supervisar el cumplimiento de políticas y controles internos.
+*4. Monitorización y Auditoría del Cumplimiento*: Supervisar el cumplimiento de políticas y controles internos.
 
 Realizar auditorías periódicas y revisiones de seguridad.
 
@@ -428,9 +420,7 @@ Coordinar con áreas técnicas para vigilar eventos de seguridad.
 
 Comprobar la eficacia de los controles de seguridad de la información.
 
-==5. Gestión de Incidentes y Respuesta a Emergencias==
-
-Coordinar la respuesta ante incidentes de seguridad o brechas de datos. 
+*5. Gestión de Incidentes y Respuesta a Emergencias*: Coordinar la respuesta ante incidentes de seguridad o brechas de datos. 
 
 Colaborar con los equipos técnicos y legales en la contención y notificación. 
 
@@ -438,36 +428,28 @@ Aplicar medidas correctivas y preventivas.
 
 Mantener comunicación con autoridades regulatorias cuando sea necesario.
 
-==6. Reporte y Comunicación==
-
-Informes regulares sobre el estado del cumplimiento en ciberseguridad. 
+*6. Reporte y Comunicación*: Informes regulares sobre el estado del cumplimiento en ciberseguridad. 
 
 Presentaciones a la alta dirección sobre el cumplimiento normativo. 
 
 Comunicación de incidentes de seguridad a los stakeholders relevantes.
 
-==7. Coordinación con Autoridades Reguladoras==
-
-Punto de contacto para auditorías externas. 
+*7. Coordinación con Autoridades Reguladoras*: Punto de contacto para auditorías externas. 
 
 Colaboración en la preparación de documentación y respuestas a solicitudes de información. 
 
 Supervisión de investigaciones regulatorias relacionadas con ciberseguridad.
 
 
-*Marco Normativo del Compliance Officer en Europa y España*
+**Marco Normativo del Compliance Officer en Europa y España**
 
-==Influencia normativa en el rol del Compliance Officer==
-
-El rol del Compliance Officer está condicionado por directrices europeas y nacionales. 
+*Influencia normativa en el rol del Compliance Officer*: El rol del Compliance Officer está condicionado por directrices europeas y nacionales. 
 
 Estas normas establecen requisitos, responsabilidades y expectativas en materia de cumplimiento y gestión de riesgos. 
 
 En España, se complementan regulaciones de la Unión Europea con leyes nacionales específicas.
 
-==1. Reglamento General de Protección de Datos (RGPD)==
-
-Normativa de la Unión Europea sobre protección de datos personales. 
+*1. Reglamento General de Protección de Datos (RGPD)*: Normativa de la Unión Europea sobre protección de datos personales. 
 
 Obliga a designar un Delegado de Protección de Datos (DPO). 
 
@@ -475,25 +457,19 @@ El Compliance Officer colabora con el DPO en la supervisión del cumplimiento de
 
 Actúa como enlace con las autoridades de protección de datos.
 
-==2. Reglamento de Ciberseguridad (UE) 2019/881==
-
-Establece un marco europeo de certificación para productos y servicios TIC. 
+*2. Reglamento de Ciberseguridad (UE) 2019/881*: Establece un marco europeo de certificación para productos y servicios TIC. 
 
 Refuerza el papel de [ENISA,]() la agencia europea de ciberseguridad. 
 
 El Compliance Officer debe alinear las políticas internas con los estándares de certificación y seguridad.
 
-==3. Directiva NIS (Seguridad de Redes y Sistemas de Información)==
-
-Fija requisitos de ciberseguridad para proveedores de servicios esenciales.
+*3. Directiva NIS (Seguridad de Redes y Sistemas de Información)*: Fija requisitos de ciberseguridad para proveedores de servicios esenciales.
 
 Obliga a implementar medidas técnicas y organizativas de seguridad.
 
 El Compliance Officer asegura la conformidad de la empresa con las exigencias de la directiva.
 
-==4. Ley de Seguridad Nacional (España, Ley 36/2015)==
-
-Define el marco legal para la seguridad nacional.
+*4. Ley de Seguridad Nacional (España, Ley 36/2015)*: Define el marco legal para la seguridad nacional.
 
 Busca proteger los intereses estratégicos del país frente a amenazas y riesgos.
 
@@ -501,9 +477,7 @@ Impulsa la coordinación entre organismos públicos.
 
 El Compliance Officer debe conocer esta ley cuando su organización forma parte de infraestructuras críticas o estratégicas.
 
-==5. Esquema Nacional de Seguridad (ENS)==
-
-Marco normativo nacional para la seguridad en las Administraciones Públicas.
+*5. Esquema Nacional de Seguridad (ENS)*: Marco normativo nacional para la seguridad en las Administraciones Públicas.
 
 Establece medidas y controles mínimos obligatorios.
 
@@ -511,44 +485,34 @@ Supervisa el cumplimiento a través del Centro Criptológico Nacional (CCN).
 
 El Compliance Officer vela por la implementación y revisión de medidas ENS en organismos públicos o contratistas.
 
-==6. Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD)==
-
-Complementa el RGPD a nivel nacional.
+*6. Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD)*: Complementa el RGPD a nivel nacional.
 
 Introduce disposiciones específicas sobre derechos digitales y privacidad.
 
 El Compliance Officer debe asegurar la armonización entre las políticas internas y ambos marcos legales (RGPD + LOPDGDD).
 
-==7. Ley de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI-CE)==
-
-Regula la prestación de servicios digitales y comercio electrónico.
+*7. Ley de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI-CE)*: Regula la prestación de servicios digitales y comercio electrónico.
 
 Afecta la protección de datos online y la información al usuario.
 
 El Compliance Officer debe verificar que la empresa cumpla con las obligaciones de transparencia y
 consentimiento digital.
 
-==8. Normas ISO de Gestión de Seguridad de la Información==
-
-ISO 27001 e ISO 27002: estándares internacionales no obligatorios, pero altamente recomendados.
+*8. Normas ISO de Gestión de Seguridad de la Información*: ISO 27001 e ISO 27002: estándares internacionales no obligatorios, pero altamente recomendados.
 
 Proporcionan buenas prácticas para sistemas de gestión de seguridad de la información (SGSI).
 
 El Compliance Officer puede utilizarlas como referencia estratégica para la mejora continua del cumplimiento y la seguridad.
 
-==Otras normativas y actualización constante==
-
-Las mencionadas son solo algunas de las normativas másrelevantes.
+*Otras normativas y actualización constante*: Las mencionadas son solo algunas de las normativas másrelevantes.
 
 Según el sector (financiero, sanitario, energético, tecnológico, etc.), pueden aplicar otras regulaciones específicas.
 
 Las normas están en constante evolución, por lo que el Compliance Officer debe mantenerse actualizado sobre cambios y nuevas directrices.
 
-*Informes elaborados por el Compliance Officer*
+**Informes elaborados por el Compliance Officer**
 
-==Importancia de los informes de cumplimiento==
-
-Reflejan el estado del cumplimiento normativo en la organización. 
+*Importancia de los informes de cumplimiento*: Reflejan el estado del cumplimiento normativo en la organización. 
 
 Sirven como base para la toma de decisiones estratégicas. 
 
@@ -556,7 +520,7 @@ Facilitan la comunicación con la alta dirección y autoridades reguladoras.
 
 Contribuyen a la transparencia y mejora continua del sistema de cumplimiento.
 
-==1. Informe Anual de Cumplimiento Normativo==
+*1. Informe Anual de Cumplimiento Normativo*
 
 Incluye información sobre: 
 - Políticas y procedimientos implementados. 
@@ -565,7 +529,7 @@ Incluye información sobre:
 - Medidas disciplinarias adoptadas. 
 - Áreas de mejora identificadas.
 
-==2. Informe de Evaluación de Riesgos==
+*2. Informe de Evaluación de Riesgos*
 
 Evalúa los riesgos de incumplimiento normativo basándose en: 
 - El sector en el que opera la empresa. 
@@ -575,7 +539,7 @@ Evalúa los riesgos de incumplimiento normativo basándose en:
 
 Este informe es esencial para anticipar riesgos y establecer prioridades en la gestión del cumplimiento.
 
-==3. Informe de Investigación Interna==
+*3. Informe de Investigación Interna*
 
 Se elabora ante posibles irregularidades detectadas. Debe incluir:
 - Descripción de la irregularidad.
@@ -583,25 +547,21 @@ Se elabora ante posibles irregularidades detectadas. Debe incluir:
 - Evidencias o pruebas recopiladas.
 - Recomendaciones de medidas disciplinarias o legales.
 
-==Otros tipos de informes==
-
-Otros tipos:
+*Otros tipos de informes:*
 - Eficacia de políticas y procedimientos de cumplimiento. 
 - Tendencias y cambios en materia de cumplimiento normativo. 
 - Buenas prácticas y benchmarking* en cumplimiento y ciberseguridad. 
 
 benchmarking: proceso de análisis comparativo que evalúa productos, servicios y procesos de una empresa comparándolos con los de otras organizaciones líderes en su sector.
 
-==Recomendaciones para la elaboración de informes==
+*Recomendaciones para la elaboración de informes:*
 - Ser claros, concisos y objetivos. 
 - Basarse siempre en hechos y evidencias verificables. 
 - Evitar opiniones personales o juicios subjetivos. 
 - Mantener un lenguaje profesional y técnico. 
 - Garantizar la confidencialidad de la información tratada.
 
-==Redacción profesional de informes de Compliance==
-
-Cómo redactar un informe de Compliance Officer.:
+*Redacción profesional de informes de Compliance*
 - Usar un lenguaje formal, claro y preciso. 
 - Redactar en tercera persona (evitar el “yo” o el “nosotros”). 
 - Evitar opiniones personales o juicios de valor. 
@@ -619,7 +579,7 @@ Ejemplos:
 	- “Se determinó que el incidente se originó por una configuración incorrecta del sistema, según el análisis realizado el 15 de septiembre de 2025.”
 
 
-**1.5 - Relaciones con terceras partes dentro del compliance**
+# 1.5 - Relaciones con terceras partes dentro del compliance
 
 Las terceras partes son entidades o individuos que interactúan con una empresa y que pueden afectar su capacidad para cumplir con las normas y regulaciones.
 
