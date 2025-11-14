@@ -585,11 +585,9 @@ Las terceras partes son entidades o individuos que interactúan con una empresa 
 
 Las terceras partes como entidades fundamentales en el desarrollo de los objetivos de las organizaciones también están sujetas a cumplimiento normativo.
 
-*Terceras partes*
+**Terceras partes**
 
-==Clasificación==
-
-En el contexto del perfil de cumplimiento normativo las terceras partes se pueden clasificar en tres categorías principales:
+*Clasificación*: En el contexto del perfil de cumplimiento normativo las terceras partes se pueden clasificar en tres categorías principales:
 - Proveedores:
 	- Proveedores de servicios: empresas que ofrecen servicios a la empresa, como servicios de TI, consultoría, gestión de riesgos, etcétera.
 	- Proveedores de productos: empresas que suministran productos a la empresa, como materias primas, componentes, equipos, etcétera.
@@ -602,13 +600,11 @@ En el contexto del perfil de cumplimiento normativo las terceras partes se puede
 	- Asesores: consultores, abogados, auditores y otros profesionales que asesoran a la empresa en materia de cumplimiento normativo.
 	- Entidades gubernamentales: organismos que regulan las actividades de la empresa y que pueden imponer sanciones en caso de incumplimiento.
 
-==Importancia==
-
-Gestionar las terceras partes es fundamental para asegurar el cumplimiento normativo.
+*Importancia*: Gestionar las terceras partes es fundamental para asegurar el cumplimiento normativo.
 
 La empresa debe implementar un proceso de due diligence o «diligencia debida» para evaluar a las terceras partes antes de contratarlas y debe realizar un seguimiento continuo de su desempeño para asegurar que siguen cumpliendo con las normas y regulaciones.
 
-==due diligence==
+*due diligence*:
 
 Protección de datos: determina si la empresa cumple con las leyes de protección de datos
 
