@@ -311,4 +311,4 @@ Otras normas internacionales relacionadas con los sistemas de gestión de compli
 
 **ISO 27001:2022 — Sistemas de gestión de la seguridad de la información:**
 - Norma internacional que regula la protección de la confidencialidad, integridad y disponibilidad de la información.
-- Proporciona un marco basado en riesgos para gestionar la seguridad de manera sistemática.
+- Proporciona un marco basado en riesgos para gestionar la seguridad de manera sistemática.ç

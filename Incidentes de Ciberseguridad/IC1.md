@@ -1,4 +1,4 @@
-**Parte 1**
+# Parte 1
 
 **Ciberseguridad:** Conjunto de actividades dirigidas a proteger el ciberespacio contra el uso indebido del mismo, defendiendo su infraestructura tecnológica, los servicios que prestan y la información que manejan.
 
@@ -104,7 +104,7 @@ La ciberseguridad debe enfocarse en proteger:
 - Software: Elementos lógicos que hacen al hardware funcionar→S.O., firmware y aplicaciones.
 - Datos: Conjunto de información lógica. Principal elemento a proteger. Es el más amenazado y **difícil de recuperar.**
 
-**Parte 2**
+# Parte 2
 
 **Normativa en el puesto de trabajo**
 - Gran cantidad de recursos económicos en medidas de seguridad 
