@@ -234,3 +234,46 @@ Su papel es fundamental en la implementación, gestión y supervisión del siste
 | Responsabilidad              | Global en toda la organización                                 | Específica por área o proceso                         |
 | Relación con la<br>dirección | Reporta al Consejo o CEO                                       | Reporta al CCO                                        |
 | Competencias<br>clave        | Liderazgo, visión estratégica,<br>comunicación con reguladores | Análisis, control, verificación,<br>formación interna |
+
+# 2.2.- Entorno regulatorio de aplicación
+
+Al implementar un sistema de gestión de compliance, es necesario identificar el marco regulatorio que afecta a la organización.
+
+Este marco depende de factores como:
+- La actividad y el sector en el que opera la organización.
+- Las leyes y normas aplicables a distintos niveles: local, regional, nacional, europeo e internacional.
+- Las relaciones con terceros que puedan implicar nuevas obligaciones.
+
+Para comprender mejor este conjunto de obligaciones, se propone visualizar el entorno regulatorio como un modelo de capas, donde cada capa representa un nivel normativo o
+una fuente de requisitos aplicables.
+
+**2.2.1.-  Regulación europea**
+
+*Reglamento General de Protección de Datos (RGPD)*
+- Regula el tratamiento de datos personales en la Unión Europea.
+- Establece obligaciones estrictas sobre privacidad, seguridad y derechos de las personas.
+- Establece 3 niveles de seguridad de los datos.
+
+![[Pasted image 20251120203317.png]]
+
+*Directiva (UE) 2019/1937 – Protección de denunciantes (Whistleblowing)*
+- Obliga a las empresas a implantar canales de denuncia internos.
+- Permite que empleados informen de infracciones del Derecho de la Unión de manera segura.
+
+# 2.2.2.- Regulación y legislación nacionales
+
+El marco normativo español relevante para un sistema de gestión de compliance es amplio y diverso.
+
+Por ello, cada organización debe identificar y seleccionar únicamente aquellas leyes y regulaciones que sean realmente aplicables a su actividad, sector y riesgos específicos.
+
+Constitución Española de 1978
+○ Norma suprema del ordenamiento jurídico; vincula a ciudadanos y
+poderes públicos.
+● Código Penal (Ley Orgánica 10/1995 ~ Ley Orgánica 1/2015)
+○ Define los delitos y las sanciones aplicables.
+○ Base esencial para programas de compliance penal.
+● Código Civil (Real Decreto de 1889)
+○ Regula relaciones jurídicas entre personas físicas y jurídicas.
+● Ley Orgánica 4/2015 – Seguridad Ciudadana
+○ Obliga a empresas a implementar medidas de seguridad para prevenir
+terrorismo y delitos.

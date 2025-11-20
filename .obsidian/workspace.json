@@ -11,10 +11,14 @@
             "id": "d2697065012e8613",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tema 2 - Diseño de sistemas para cumplimiento normativo"
             }
           }
         ]
@@ -168,6 +172,10 @@
   },
   "active": "d2697065012e8613",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20251120203317.png",
+    "Pasted image 20251023165511.png",
+    "Pasted image 20251120203329.png",
+    "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
     "Hacking etico/Info.md",
     "Hacking etico/THB1- Intro to Network Traffic Analysis.md",
     "termux commands.md",
@@ -180,12 +188,10 @@
     "Analisis forense informatico/Practica RAM.md",
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
-    "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
     "Hacking etico/UD2.2 - Fingerprinting.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
     "Hacking etico/UD2- Recopilación de información y Sniffers.md",
     "Imagenes/tabla.png",
-    "Pasted image 20251023165511.png",
     "Puesta en produccion segura/T1 - Entendiendo el código de nuestras aplicaciones.md",
     "Incidentes de Ciberseguridad/IC1.md",
     "Imagenes/formulario.png",
@@ -194,13 +200,11 @@
     "Imagenes/Captura de pantalla 2025-10-23 204149.png",
     "Imagenes/seleccion.png",
     "Imagenes/Captura de pantalla 2025-10-21 182707.png",
-    "Imagenes/proceso.png",
     "Incidentes de Ciberseguridad/IC_Indice.md",
     "Incidentes de Ciberseguridad/Actividad 1.1 - Principios, amenazas y medidas.md",
     "Normativa de ciberseguridad",
     "Puesta en produccion segura",
     "Analisis forense informatico",
-    "Imagenes/dragon.png",
     "Imagenes",
     "Tema 1.md",
     "Incidentes de Ciberseguridad",
