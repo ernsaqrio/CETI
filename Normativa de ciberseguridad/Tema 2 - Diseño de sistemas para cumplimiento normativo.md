@@ -266,14 +266,51 @@ El marco normativo español relevante para un sistema de gestión de compliance 
 
 Por ello, cada organización debe identificar y seleccionar únicamente aquellas leyes y regulaciones que sean realmente aplicables a su actividad, sector y riesgos específicos.
 
-Constitución Española de 1978
-○ Norma suprema del ordenamiento jurídico; vincula a ciudadanos y
+*Constitución Española de 1978:*  Norma suprema del ordenamiento jurídico; vincula a ciudadanos y
 poderes públicos.
-● Código Penal (Ley Orgánica 10/1995 ~ Ley Orgánica 1/2015)
-○ Define los delitos y las sanciones aplicables.
-○ Base esencial para programas de compliance penal.
-● Código Civil (Real Decreto de 1889)
-○ Regula relaciones jurídicas entre personas físicas y jurídicas.
-● Ley Orgánica 4/2015 – Seguridad Ciudadana
-○ Obliga a empresas a implementar medidas de seguridad para prevenir
-terrorismo y delitos.
+
+*Código Penal (Ley Orgánica 10/1995 ~ Ley Orgánica 1/2015)*:
+- Define los delitos y las sanciones aplicables.
+- Base esencial para programas de compliance penal.
+
+*Código Civil (Real Decreto de 1889)*: Regula relaciones jurídicas entre personas físicas y jurídicas.
+
+*Ley Orgánica 4/2015 – Seguridad Ciudadana*: Obliga a empresas a implementar medidas de seguridad para prevenir terrorismo y delitos.
+
+*Ley 10/2010 – Prevención del blanqueo de capitales y financiación del terrorismo (PBC/FT)*: Establece obligaciones para prevenir y detectar operaciones ilícitas.
+
+*Real Decreto 311/2022 – Esquema Nacional de Seguridad (ENS)*: Marco de requisitos para garantizar la seguridad de la información en el sector público y entidades relacionadas.
+
+La normativa aplicable es amplia. Cada organización debe identificar cuáles son relevantes con apoyo de especialistas jurídicos.
+
+# 2.2.3.- Regulación sectorial
+
+La regulación sectorial incluye leyes, normas y reglamentos específicos aplicables a sectores como:
+financiero, energético, sanitario, tecnológico, educativo, defensa o sector público.
+
+Cada sector puede tener requisitos propios debido a su naturaleza, riesgos y sensibilidad de la información.
+
+**Factores a considerar:**
+- **Tamaño y complejidad de la organización**: Las entidades grandes o con operaciones complejas suelen estar sujetas a más obligaciones regulatorias.
+- **Sector de actividad:** Sectores como el financiero o el sanitario tienen mayor nivel de regulación por la criticidad y sensibilidad de los datos que manejan.
+- **Riesgos de incumplimiento:** Organizaciones con mayor exposición a riesgos reciben más supervisión y deben cumplir con requisitos más estrictos.
+
+# 2.2.4.- Normas internacionales
+
+Otras normas internacionales relacionadas con los sistemas de gestión de compliance que hay que tener en cuenta son las siguientes:
+
+UNE-ISO 37301:2021 — Sistemas de gestión de compliance
+○ Establece los requisitos para implementar, mantener y mejorar un
+sistema de gestión del cumplimiento normativo.
+○ Sustituye a la antigua norma UNE-ISO 19600:2015.
+○ Aporta orientación para desarrollar una cultura organizacional basada
+en cumplimiento y ética.
+
+ISO 37001:2025 — Sistemas de gestión antisoborno (SGA)
+○ Define requisitos para prevenir, detectar y gestionar riesgos de
+soborno.
+○ Incluye políticas, procedimientos y controles destinados a promover
+integridad, transparencia y ética empresarial.
+○ Ayuda a las organizaciones a establecer un marco eficaz para combatir
+el soborno y mejorar sus prácticas de cumplimiento.
+
