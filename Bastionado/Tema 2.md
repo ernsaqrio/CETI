@@ -1,4 +1,4 @@
-**1.- Análisis de riesgos**
+# 1.- Análisis de riesgos
 
 Para poder conocer a qué amenazas se encuentran sujetos los activos de una organización, el primer paso es llevar a cabo una evaluación de cuál es la situación inicial, en términos de ciberseguridad, de la organización. 
 
@@ -24,7 +24,7 @@ información, de manera intencionada o no, no contar con el apoyo de áreas crí
 
 Además será necesario contar con el apoyo de la dirección o la parte estratégica de la organización para esta cuestión ya que, por ejemplo, si no creen en las bondades de la ciberseguridad, difícilmente podremos incrementar el nivel de seguridad ya que no se facilitará presupuesto y se demorarán los plazos establecidos priorizando otras cuestiones.
 
-*Limitar el alcance*
+**Limitar el alcance**
 
 Para poder implementar ciberseguridad desde un punto de vista efectivo y eficiente, se ha de limitar el alcance del proyecto y este además ha de ser realista. 
 
@@ -49,7 +49,7 @@ de seguridad, este podría ser:
 - Administrado: existe un procedimiento formal que ha sido aprobado.
 - Optimizado: existe un procedimiento formal que ha sido aprobado y se verifica su eficacia periódicamente mediante indicadores.
 
-**1.1- Fases del análisis**
+# 1.1- Fases del análisis
 
 Llevaremos a cabo el análisis propiamente dicho en todas sus fases para obtener el listado de posibles amenazas que podrían afectar al sistema analizado. 
 
@@ -62,14 +62,14 @@ Las mas destacadas son las siguientes:
 4. Riesgos no aceptables: tras el paso previo, hemos de identificar aquellos riesgos que no son aceptables. Estos serían aquellos que pueden afectar muy negativamente al negocio hasta el punto de dejar la organización sin servicio. El tipo de control a implementar, será siempre proporcional al activo que se quiere proteger.
 5. Riesgo residual: determinará el nivel de riesgo tras su reducción considerando este con un valor “aceptable”.
 
-*Mitigación de riesgos*
+**Mitigación de riesgos**
 
 Tras la fase previa, en esta será donde se establecerán los mecanismos y controles que permitirán definir un nivel de riesgo aceptable y asumible. ¿Con qué mecanismos contamos para llevar a cabo esta tarea? Podemos implementar los siguientes:
 1. Implementar controles para su mitigación: suele ser la más habitual cuando se trata de problemas que pueden interferir en el correcto funcionamiento de los procesos de una organización.
 2. Eliminando el riesgo: cuando se trata de un proceso que no es necesario pero que podría poner en peligro otros activos de la organización.
 3. Tercerizar o transferir el riesgo: a través por ejemplo de un ciberseguro o una póliza de [ciber-riesgos.]()
 
-*Establecimiento de indicadores y verificación del proceso*
+**Establecimiento de indicadores y verificación del proceso**
 
 Tras definir los controles, se han de establecer [cuadros de mando]() que nos permitan medir el correcto funcionamiento de los controles. 
 
@@ -88,7 +88,7 @@ Q1: La fase inicial de un análisis de riesgos es:
 - ==Reconocimiento inicial==
 - Reconocer el riesgo residual
 
-**2.- Principios de la economía circular**
+# 2.- Principios de la economía circular
 
 El proceso productivo actual, no es sostenible. Se trata de un proceso lineal donde se usa
 demasiada materia prima que luego no es posible reciclar o reutilizar, o al menos en un
@@ -119,7 +119,7 @@ En cualquier caso, aún estamos comenzando con este proceso y será esencial en 
 
 Esta cita del Dr. Edmond Locard es conocida como el Principio de Locard , y del mismo se deduce que, a la hora de realizar el propio análisis forense, hay que ser especialmente cuidadoso para que el sistema se vea afectado en la menor medida posible y que las evidencias adquiridas no se vean alteradas, debido a que el uso de cualquier dispositivo informático siempre puede dejar algún tipo de rastro.
 
-**3.- Medias técnicas de seguridad**
+# 3.- Medias técnicas de seguridad
 
 En este punto entraremos a describir diferentes medidas técnicas de seguridad adecuadas
 para reforzar la seguridad de los sistemas. 
@@ -136,7 +136,7 @@ En este sentido podemos contener dichas medidas en dos grupos fundamentales:
 - Medidas preventivas
 - Medidas reactivas
 
-*Medidas preventivas*
+**Medidas preventivas**
 
 Dentro de este grupo, enumeraremos algunas de las principales herramientas o grupos de herramientas destinadas a evitar que se materialice una amenaza en un activo. 
 
@@ -161,7 +161,7 @@ grupos de controles:
 - Virtual patching: se trata de un conjunto de soluciones diseñadas sobre todo para aquellos sistemas de producción que están soportados por sistemas obsoletos y que no es posible cambiar.
 - SIEMs: los sistemas de identificación de eventos de seguridad, son sin duda una de las herramientas más populares de los últimos años que ayudará a identificar comportamientos anómalos tanto en una red como en un host.
 
-*Medidas reactivas*
+**Medidas reactivas**
 
 En este grupo se encuentran las herramientas que en caso de identificación o en el peor de los casos, se materialice un incidente, puedan llevar a cabo alguna acción que permita contenerlo, eliminarlo o corregir la situación. 
 
@@ -176,7 +176,7 @@ complementarse.  Algunas de estas herramientas pasarían por:
 - Verificación de integridad: esta herramienta, además de prevenir, puede llevar a cabo acciones como la restauración de un archivo en caso de modificación no autorizada o similar.
 - Virtual patching: como con otras soluciones que también tienen un carácter preventivo, el virtual patching va a poder bloquear o parar ciertas amenazas que puedan afectar al activo que protege.
 
-**4.- Políticas de securización**
+# 4.- Políticas de securización
 
 Existen numerosas formas de agrupar las políticas en base a diversos criterios. La clasificación más común podemos decir que es la que distingue a la parte técnica y a la parte organizativa. 
 
@@ -210,7 +210,7 @@ no al contrario.
 A continuación se ofrecerá un listado de las políticas más comunes tanto a nivel organizativo
 como técnico.
 
-*Organizativas*
+**Organizativas**
 - Continuidad del negocio: esta política permitirá implementar los controles necesarios para que en caso de desastre, se pueda recuperar la actividad del negocio lo más rápido posible de manera que las consecuencias no sean muy negativas.
 - Cumplimiento legal: a día de hoy y al menos en el Espacio Europeo, las empresas con independencia de si son públicas o de ámbito privado, han de cumplir una serie de leyes que en caso contrario, acarrearían duras sanciones. Algunas destacadas son el [RGPD]() o la [LOPDGDD](). Esta política se implementa para garantizar el cumplimiento.
 - Relación con proveedores: a día de hoy, no se concibe la actividad de una empresa sin múltiples colaboradores. En ocasiones, la falta de controles entre las transacciones que se realizan, podrían provocar un incidente. Esta política vela por que se haga de manera correcta sin poner en riesgo a la empresa.
@@ -220,7 +220,7 @@ como técnico.
 - Uso de contraseñas: en este caso, el control se refiere a todo lo que no puede ser controlado por una directiva o política técnica. Tal y como adelantamos en el punto previo, se refiere a la no compartición de contraseñas, a no apuntarlas en post-it, etc.
 - Protección del puesto de trabajo: también dirigida a los empleados para hacer un uso correcto del entorno. Por ejemplo el bloqueo de sesión, no dejar información confidencial a la vista, etc.
 
-*Técnicas*
+**Técnicas**
 - Auditoría de sistemas: se trata de una medida técnica que permitirá identificar cualquier problema ante la evolución de las infraestructuras. Será un proceso que se ejecutará cada cierto tiempo. Sirva como ejemplo, que una auditoría realizada hace un año, poco o nada tendrá que ver con la situación actual de la empresa ya que los sistemas y aplicaciones pueden haber evolucionado.
 - Antimalware: política que obliga a disponer de una solución individual o centralizada para combatir este tipo de amenazas.
 - Uso de dispositivos móviles y equipos corporativos: medida que a través de diversas directivas técnicas, tiene como propósito la protección del hardware enumerado.
@@ -236,7 +236,7 @@ Q2: Una política es equivalente a una buena práctica:
 - Verdadero
 - ==Falso==
 
-**5.- Guía de buenas prácticas**
+# 5.- Guía de buenas prácticas
 
 Tal y como distinguimos en el punto previo, es importante distinguir entre una buena práctica
 y una política. En el caso de las guías, ocurre algo similar. 
@@ -259,7 +259,7 @@ guías disponibles, se facilitan las referencias a los listados más interesante
 
 Mencionar que si llevamos a cabo una búsqueda, encontraremos miles de referencias a guías de buenas prácticas. Se han escogido las previas por tratarse de organizaciones que no atienden a intereses particulares ni están sujetas a cuestiones económicas dependientes de grandes corporaciones.
 
-**6.- Estándares de securización en sistemas y redes**
+# 6.- Estándares de securización en sistemas y redes
 
 Se ha hablado de medidas que aunque no son obligatorias es recomendable implementar, cuando nos referimos a un estándar o un marco específico de securización para las redes y los sistemas, nos encontramos ante un modelo de obligado cumplimiento siempre y cuando, la empresa que lo implemente, quiera certificarse en ese estándar. 
 
@@ -284,7 +284,7 @@ los aspectos más importantes serían:
 
 *NIST*: [Cybersecurity framework]()
 
-**7. Caracterización de procedimientos, instrucciones y recomendaciones**
+# 7. Caracterización de procedimientos, instrucciones y recomendaciones
 
 A continuación, y tomando como ejemplo la gestión de incidentes, se va a proponer un
 modelo de caracterización pero hay decenas de alternativas. En primer lugar hemos de
@@ -308,7 +308,7 @@ Q3: Los indicadores son un elemento fundamental en la caracterización:
 - ==Verdadero==
 - Falso
 
-**8.- Niveles, escalado y protocolos de atención a incidencias**
+# 8.- Niveles, escalado y protocolos de atención a incidencias
 
 Aunque este tema se trata con mayor detalle en el módulo 2 y el módulo 7, haremos una
 pequeña incursión a través de este punto. 
