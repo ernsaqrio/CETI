@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado/Tema 2.md",
+                "file": "Bastionado/Formula de probabilidad de ocurrencia y ejemplo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 2"
+              "title": "Formula de probabilidad de ocurrencia y ejemplo"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "b80d034511436015",
   "lastOpenFiles": [
-    "Bastionado/Tema 1.md",
     "Bastionado/Tema 2.md",
+    "Bastionado/Tema 1.md",
     "Analisis forense informatico/Practica RAM.md",
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
