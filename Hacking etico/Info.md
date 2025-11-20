@@ -1,0 +1,3 @@
+- https://github.com/gemartin99
+- https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/payloadbox/sql-injection-payload-list
