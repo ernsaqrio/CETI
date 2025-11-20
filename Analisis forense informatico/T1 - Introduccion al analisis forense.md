@@ -1,8 +1,7 @@
 Principio de intercambio de Locard: “Todo contacto deja un rastro”
 - Si hay contacto entre dos elementos, habrá un intercambio.
 
-
-*Definiciones*
+# Definiciones
 
 Rodney McKemmish, 1999: La informática forense es el proceso de
 identificar, preservar, analizar y presentar las evidencias digitales de una forma legalmente
@@ -15,7 +14,7 @@ Generalmente dicha infraestructura ha sufrido un incidente de seguridad informá
 También sacar información de un crimen que no emplea tecnología
 - P. ej.: Verificar una coartada
 
-*Tipos de infraestructura*
+**Tipos de infraestructura**
 
 - S.O del PC:
 	- Windows
@@ -35,7 +34,7 @@ También sacar información de un crimen que no emplea tecnología
 - Dispositivos IoT
 - Multimedia
 
-*Enfoques*
+**Enfoques**
 - Presentar evidencia ante un Tribunal de Justicia
 	- Casos de competencia desleal, fuga de información, incumplimiento de contrato, plagio, acoso, fraude financiero, investigación de seguros, homicidios, secuestros, pornografía infantil o ciberterrorismo.
 -  Analizar un incidente
@@ -43,8 +42,7 @@ También sacar información de un crimen que no emplea tecnología
 		- No trata de contenerlo, solucionarlo y recuperar el sistema
 	- DFIR (Digital Forensics Incident Response)
 
-*Objetivos*
-
+**Objetivos**
 - Investigación de incidente de seguridad
 	- ¿Quién nos ha atacado?
 	- ¿Cuándo se ha producido el ataque?
@@ -60,7 +58,7 @@ También sacar información de un crimen que no emplea tecnología
 	- ¿Qué programas usó?
 	- ¿Qué periféricos usó?
 
-**Perito judicial**
+# Perito judicial
 
 Su misión es suministrar información u opinión fundada a los tribunales de justicia.
 
@@ -68,7 +66,7 @@ Proceso
 
 ![[proceso.png]]
 
-*historia*
+**historia**
 
 Ya eran usados en juicios en la antigua Roma
 - Para disputas de lindes de tierras, embarazos, etc.
@@ -88,7 +86,7 @@ También hay peritos en lo social ([Ley 36/2011, de 10 de octubre]()) y en lo co
 Se centra sobre todo en los de la LEC
 -  Aunque en muchos aspectos la LECrim es similar
 
-*Requisitos*
+**Requisitos**
 
 Poseer el título oficial en la materia
 - O ser personas entendidas si no hay título oficial
@@ -96,7 +94,7 @@ Promesa de decir la verdad y actuar con la mayor objetividad posible
 - Tanto lo que pueda favorecer como lo que sea susceptible de causar perjuicio a las partes
 Conocer las sanciones penales en las que podría incurrir si incumple su deber
 
-*Funciones*
+**Funciones**
 
 Formular dictamen escrito
 - Acompañar de documentos o instrumentos o materiales adecuados
@@ -108,7 +106,7 @@ Intervenir en el juicio
 - Crítica del dictamen de la parte contraria
 - Formulación de tachas
 
-*Habilidades*
+**Habilidades**
 - Aseguramiento de la escena
 - Recolección de pruebas
 - Preservación de pruebas
@@ -117,9 +115,9 @@ Intervenir en el juicio
 - Generación de dictámenes
 - Conocimiento legislativo
 
-*nombramiento*
+**nombramiento**
 
-Peritos nombrados judicialmente
+*Peritos nombrados judicialmente*
 - A partir de una lista de titulados creada por el
 - Colegio profesional o asociación similar
 - Pueden ser recusados
@@ -130,17 +128,16 @@ Peritos nombrados judicialmente
 
 ![[seleccion.png]] 
 
-Peritos nombrados por una o ambas partes
+*Peritos nombrados por una o ambas partes*
 - Tienen que ser aceptados por el juez o fiscal
 - No necesitan ser titulados
 - Pueden ser tachados por nepotismo, etc.
 	- Tachado significa que no se le recusa aunque sí se tiene en cuenta la circunstancia
 	- P. ej.: si el perito de una empresa es un propio trabajador de la empresa
 
-**Código deontológico**
+# Código deontológico
 
-*Responsabilidad civil*
-
+**Responsabilidad civil**
 - Sujeto a responsabilidad civil
 	- Por acción u omisión
 	- Obligado a reparar el daño a un particular
@@ -152,8 +149,7 @@ Peritos nombrados por una o ambas partes
 	- Responsabilidad contractual
 		- No hacer la tarea, hacerlo fuera de plazo o errores flagrantes
 
-*Responsabilidad penal*
-
+**Responsabilidad penal**
 - Sujeto a responsabilidad penal
 	-  Hecho delictivo voluntario
 	- Obligado a reparar el daño a la sociedad
@@ -164,8 +160,7 @@ Peritos nombrados por una o ambas partes
 	- Desobediencia al Juez o Tribunal
 	- Perturbación del orden en el Juzgado o Tribunal
 
-*Responsabilidad disciplinaria y profesional*
-
+**Responsabilidad disciplinaria y profesional**
 - Sujeto a Responsabilidad disciplinaria
 	- No comparecer en juicio o vista cuando sea requerido judicialmente (por escrito) para ello
 - Sujeto a Responsabilidad profesional
@@ -173,7 +168,7 @@ Peritos nombrados por una o ambas partes
 
 **Otras funciones del perito**
 
-Los peritos pueden ser contratados con fines preventivos, correctivos o probatorios
+*Los peritos pueden ser contratados con fines preventivos, correctivos o probatorios*
 - Asesoría técnica contra el Cibercrimen
 - Localización de evidencias electrónicas
 - Auditorías
@@ -188,7 +183,7 @@ Los peritos pueden ser contratados con fines preventivos, correctivos o probator
 - Análisis informático forense de videos, imágenes digitales y audio
 - Asesoría sobre falsificación de correos, imágenes, violaciones de seguridad, infiltraciones, doble contabilidad, fraude financiero y de sistemas informáticos, robo de claves, información sensible, secretos industriales, errores en la cadena de custodia, etc.
 
-**cobro de honorarios**
+# cobro de honorarios
 
 Solicitado por una de las partes => se trata como un contrato privado más
 
@@ -199,8 +194,7 @@ Solicitado por el juez => pagado por las partes
 Justicia gratuita => pago por parte de Admon. de Justicia que no cubre los gastos ni de lejos
 - puede cobrar más si hay beneficio económico
 
-
-**Arbitraje**
+# Arbitraje
 
 Más rápido y barato que el proceso judicial
 - Contemplado en las leyes [60/2003]() y [11/2011]()
@@ -213,10 +207,9 @@ En lugar del juez hay uno o varios árbitros
 A la sentencia se le llama laudo
 - De obligado cumplimiento y no recurrible, pero se puede solicitar su anulación
 
+# Legislación aplicable al Análisis Forense Informático
 
-**Legislación aplicable al Análisis Forense Informático**
-
-*Constitución Española*
+**Constitución Española**
 
 Garantizar los siguientes [derechos fundamentales]()
 -  A la seguridad jurídica (art. 9.3) y tutela judicial efectiva (art. 24.1)
@@ -226,7 +219,7 @@ Garantizar los siguientes [derechos fundamentales]()
 - Al secreto de las comunicaciones (art. 18.3)
 - A la protección de datos ([STC 292/2000]())
 
-*Enjuiciamiento civil y criminal*
+**Enjuiciamiento civil y criminal**
 
 [Ley 1/2000](), de 7 de enero, de Enjuiciamiento Civil (LEC)
 [Real Decreto de 14 de septiembre de 1882]()  Ley de Enjuiciamiento Criminal (LECrim)
@@ -235,5 +228,3 @@ Garantizar los siguientes [derechos fundamentales]()
 - Art. 588, sobre interceptación de comunicaciones
 	- Muy modificado por la [LO 13/2015, de 5 de octubre]()
 [Circular 5/2019, de 6 de marzo](), de la FGE, sobre registro de dispositivos y equipos informáticos
-
-*Sistemas de información y Comercio electrónico*
