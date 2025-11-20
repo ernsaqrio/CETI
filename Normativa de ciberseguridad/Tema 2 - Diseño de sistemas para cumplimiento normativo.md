@@ -299,18 +299,16 @@ Cada sector puede tener requisitos propios debido a su naturaleza, riesgos y sen
 
 Otras normas internacionales relacionadas con los sistemas de gestión de compliance que hay que tener en cuenta son las siguientes:
 
-UNE-ISO 37301:2021 — Sistemas de gestión de compliance
-○ Establece los requisitos para implementar, mantener y mejorar un
-sistema de gestión del cumplimiento normativo.
-○ Sustituye a la antigua norma UNE-ISO 19600:2015.
-○ Aporta orientación para desarrollar una cultura organizacional basada
-en cumplimiento y ética.
+**UNE-ISO 37301:2021 — Sistemas de gestión de compliance:**
+- Establece los requisitos para implementar, mantener y mejorar un sistema de gestión del cumplimiento normativo.
+- Sustituye a la antigua norma UNE-ISO 19600:2015.
+- Aporta orientación para desarrollar una cultura organizacional basada en cumplimiento y ética.
 
-ISO 37001:2025 — Sistemas de gestión antisoborno (SGA)
-○ Define requisitos para prevenir, detectar y gestionar riesgos de
-soborno.
-○ Incluye políticas, procedimientos y controles destinados a promover
-integridad, transparencia y ética empresarial.
-○ Ayuda a las organizaciones a establecer un marco eficaz para combatir
-el soborno y mejorar sus prácticas de cumplimiento.
+**ISO 37001:2025 — Sistemas de gestión antisoborno (SGA):**
+- Define requisitos para prevenir, detectar y gestionar riesgos de soborno.
+- Incluye políticas, procedimientos y controles destinados a promover integridad, transparencia y ética empresarial.
+- Ayuda a las organizaciones a establecer un marco eficaz para combatir el soborno y mejorar sus prácticas de cumplimiento.
 
+**ISO 27001:2022 — Sistemas de gestión de la seguridad de la información:**
+- Norma internacional que regula la protección de la confidencialidad, integridad y disponibilidad de la información.
+- Proporciona un marco basado en riesgos para gestionar la seguridad de manera sistemática.
