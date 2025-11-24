@@ -7,3 +7,7 @@ Partes de una pagina:
 Paso por referencia -> la variable cambia
 Paso por valor -> la variable no cambia
 Etiqueta pre en html es para que no se vean los saltos de línea
+
+**crud_bd -> login**
+
+**contador_cookies**
