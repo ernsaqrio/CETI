@@ -10,9 +10,13 @@ Hash
 - ¿Para que sirve?
 	- Verifica la integridad y autenticidad del archivo.
 	- Antivirus/Firewall/IDS/IPS: mediante el hash. compara ese hash con los hash de virus en una base de datos.
-	- Passwords: compara el hash guardado con el hash de la contraseña introducida
+	- Contraseñas: compara el hash guardado con el hash de la contraseña introducida
 Cifrar:
-- Algoritmo:
+- Algoritmo oculto:
 	- César
 	- Escítala
 	- Enigma
+- Algoritmo conocido pero claves ocultas:
+	- Simétrica: se envía el mensaje con la clave secreta y al recibirlo, si tienes la clave, sacas el mensaje.
+		- Es muy rápido.
+		- 
