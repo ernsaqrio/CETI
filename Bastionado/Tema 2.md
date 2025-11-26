@@ -19,4 +19,9 @@ Cifrar:
 - Algoritmo conocido pero claves ocultas:
 	- Simétrica: se envía el mensaje con la clave secreta y al recibirlo, si tienes la clave, sacas el mensaje.
 		- Es muy rápido.
+		- AES
+	- Asimétrica: cada uno tiene una clave privada y pública, se envía el mensaje con la pública y con su privada, descifra el mensaje.
+		- Es lento.
+		- RSA
+	- Híbrida: 
 		- 
