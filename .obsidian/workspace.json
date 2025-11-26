@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado/Tema 2.md",
+                "file": "Bastionado/Tema 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 2"
+              "title": "Tema 1.2"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T2.md",
+                "file": "Bastionado/Tema 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T2"
+              "title": "Tema 2"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "007c1e0485babc2d",
   "lastOpenFiles": [
+    "Bastionado/Tema 1.2.md",
     "Bastionado/Tema 2.md",
-    "T2.md",
     "Puesta en produccion segura/T1 - Entendiendo el código de nuestras aplicaciones.md",
     "Incidentes de Ciberseguridad/IC1.md",
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
