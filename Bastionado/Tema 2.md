@@ -22,6 +22,6 @@ Cifrar:
 		- AES
 	- Asimétrica: cada uno tiene una clave privada y pública, se envía el mensaje con la pública y con su privada, descifra el mensaje.
 		- Es lento.
-		- RSA
+		- RSA -> Ronald Rivest, Adi Shamir, Leonard Adleman
 	- Híbrida: 
 		- 
