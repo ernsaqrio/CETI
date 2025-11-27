@@ -311,4 +311,28 @@ Otras normas internacionales relacionadas con los sistemas de gestión de compli
 
 **ISO 27001:2022 — Sistemas de gestión de la seguridad de la información:**
 - Norma internacional que regula la protección de la confidencialidad, integridad y disponibilidad de la información.
-- Proporciona un marco basado en riesgos para gestionar la seguridad de manera sistemática.ç
+- Proporciona un marco basado en riesgos para gestionar la seguridad de manera sistemática.
+
+# 2.3.- Normas internacionales
+
+El análisis y la gestión de riesgos son procesos fundamentales para identificar, evaluar y controlar las amenazas que pueden afectar el cumplimiento de los objetivos de una organización.
+
+Su correcta aplicación permite anticipar eventos no deseados, reducir impactos y fortalecer la toma de decisiones.
+
+**Aspectos a Considerar para aplicar la ISO 31000:2018**
+
+La implantación de la norma ISO 31000:2018 requiere desarrollar una política sólida y un marco integral de gestión del riesgo que sirva como base para la toma de decisiones dentro de la organización. Entre los aspectos clave a considerar se encuentran los siguientes:
+
+*1. Liderazgo y compromiso*
+
+La alta dirección juega un papel central en la correcta aplicación de la norma. 
+Es necesario que: 
+- Demuestre un compromiso real y visible con la gestión del riesgo.
+- Establezca una política de gestión del riesgo que enuncie los principios, objetivos y directrices que guiarán a toda la organización. 
+- Fomente una cultura en la que la gestión del riesgo se perciba como un elemento estratégico y no solo operativo.
+
+*2. Integración en la Organización*
+
+La gestión del riesgo debe ser parte activa del funcionamiento cotidiano. Para ello: 
+- Debe integrarse en todos los procesos, áreas y niveles de la organización. 
+- Es necesario asignar responsabilidades claras para la identificación, evaluación y tratamiento del riesgo, involucrando tanto a departamentos como a empleados.
