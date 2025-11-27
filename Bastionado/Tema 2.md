@@ -23,5 +23,7 @@ Cifrar:
 	- Asimétrica: cada uno tiene una clave privada y pública, se envía el mensaje con la pública y con su privada, descifra el mensaje.
 		- Es lento.
 		- RSA -> Ronald Rivest, Adi Shamir, Leonard Adleman
-	- Híbrida: 
-		- 
+	- Híbrida: con la clave pública, se cifra la privada para enviarla -> método medio rápido
+- Firma dígital:
+	- A un archivo le haces el hash y eso lo firmas con tu clave publica y lo mandas.
+		
