@@ -1,4 +1,3 @@
-
 Hash
 - ¿Qué es? Función matemática con un algoritmo (Resumen en n bits y hexadecimal) -> md5,sha1,sha256,sha512.
 - Propiedades:
