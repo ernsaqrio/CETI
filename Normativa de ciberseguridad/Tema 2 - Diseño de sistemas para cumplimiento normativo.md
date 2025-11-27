@@ -366,3 +366,68 @@ El análisis de riesgos de los sistemas de información es un proceso esencial p
 - Disponibilidad: asegurar que la información y los servicios estén accesibles cuando se necesiten.
 - Confidencialidad: proteger la información frente a accesos no autorizados.
 - Integridad: mantener la exactitud, consistencia y fiabilidad de los datos.
+
+**Gestión de Riesgos**
+
+Una vez que se han identificado los riesgos relacionados con el cumplimiento normativo, el siguiente paso es llevar a cabo una correcta gestión del riesgo. 
+
+Esta gestión tiene como objetivo: 
+- Evaluar los riesgos detectados. Seleccionar las medidas adecuadas para mitigar los riesgos de incumplimiento.
+- Reducir al mínimo las posibles consecuencias legales, operativas y económicas, incluidas sanciones administrativas o penales. 
+
+La gestión de riesgos es, por tanto, una actividad estratégica que contribuye a la protección de la organización y a la continuidad de sus operaciones.
+
+*Herramientas software*
+
+En la actualidad, el mercado ofrece diversas soluciones software especializadas que facilitan los procesos asociados a la gestión del riesgo en el ámbito del cumplimiento normativo. 
+
+Estas herramientas permiten:
+- Automatizar tareas repetitivas o de seguimiento.
+- Sincronización y coordinación entre diferentes departamentos.
+- Controles más precisos sobre actividades y obligaciones.
+- Gestionar de forma centralizada la información.
+- Generar informes específicos
+
+El uso de este tipo de soluciones supone un importante ahorro de tiempo y recursos, y permite al responsable de cumplimiento normativo disponer de:
+- Información actualizada y accesible.
+- Mayor capacidad de análisis.
+- Un soporte valioso para la toma de decisiones estratégicas y operativas.
+
+**Mapa de riesgo**
+
+Los mapas de riesgos son herramientas visuales que permiten representar de manera clara y ordenada los riesgos identificados, clasificándolos normalmente según dos variables principales:
+- Probabilidad de ocurrencia. [[Tema 1.2]] [[Formula de probabilidad de ocurrencia y ejemplo]]
+- Impacto en la organización 
+
+Esta representación facilita la priorización de acciones y recursos, ya que permite distinguir rápidamente qué riesgos requieren atención inmediata, cuáles deben monitorearse y cuáles se consideran aceptables.
+
+*¿Qué permiten?*
+- Identificar los riesgos: Tanto internos como externos.
+- Evaluar los riesgos. En función de: 
+	- Probabilidad de ocurrencia.
+	- Impacto potencial sobre la organización.
+- Priorizar los riesgos.
+- Desarrollar planes de acción.
+- Orientados a mitigar, prevenir o controlar los riesgos identificados.
+
+*Beneficios*
+
+Para el experto en cumplimiento normativo, el uso de un mapa de riesgos permite:
+- Garantizar el cumplimiento normativo.
+- Proteger la información confidencial.
+- Prevenir pérdidas financieras.
+
+*Elementos clave*
+
+Para elaborar un mapa de riesgos efectivo, deben considerarse los siguientes elementos:
+- Tipos de riesgos:
+	- Financieros
+	- Operativos
+	- De compliance
+	- De ciberseguridad
+	- Reputacionales, entre otros
+
+*Elaboración*
+
+Se elaboran mediante un proceso estructurado.
+
