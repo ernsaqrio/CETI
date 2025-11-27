@@ -1,6 +1,6 @@
 
 Hash
-- ¿Qué es? Función matemática con un algoritmo (Resumen en n bits y hexadecimal)
+- ¿Qué es? Función matemática con un algoritmo (Resumen en n bits y hexadecimal) -> md5,sha1,sha256,sha512.
 - Propiedades:
 	- Finalista: misma entrada -> misma salida
 	- Único: no tiene colisiones
