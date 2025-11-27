@@ -430,4 +430,59 @@ Para elaborar un mapa de riesgos efectivo, deben considerarse los siguientes ele
 *Elaboración*
 
 Se elaboran mediante un proceso estructurado.
+![[proc.png]]
 
+Se elaboran mediante un proceso estructurado. Estas tareas incluyen: 
+1. Identificación de activos, amenazas y vulnerabilidades 
+2. Valoración de probabilidad e impacto 
+3. Clasificación y priorización de riesgos 
+4. Elaboración del mapa 
+5. Diseño de planes de acción
+
+==1.Identificación de activos, amenazas y vulnerabilidades ==
+
+En esta etapa se crea un registro de riesgos en el que se contextualiza cada riesgo de manera clara y completa. 
+
+Elementos que pueden incluirse en dicho registro: 
+1. Número de riesgo: se identiЃca de forma unívoca el riesgo. 
+2. Título del riesgo: breve descripción de la consecuencia del riesgo por la causa. 
+3. Descripción: datos detallados de cómo ocurriría el incumplimiento (o delito), y además se debe indicar qué norma se incumple. 
+4. Proceso: dónde afecta el incumplimiento e identificación de operaciones del proceso afectadas. 
+5. Factores de riesgos: circunstancias que deben darse para que se materialice el incumplimiento. 
+6. Controles actuales: descripción de los controles implementados actualmente. 
+7. Implicados: relación de las personas afectadas por el incumplimiento. 
+8. Propietario: principal dueño del objetivo afectado por el incumplimiento.
+
+![[t2-2.3-nc-ej.png]]
+
+==2. Evaluación del impacto y la probabilidad==
+
+Cada riesgo identificado, se debe valorar en base a dos aspectos:
+- Probabilidad: Frecuencia o posibilidad de que el riesgo se materialice
+- Impacto: Magnitud de los daños, pérdidas o consecuencias que podría sufrir la organización si el riesgo se materializa.
+	- Costes económicos directos
+	- Daños reputacionales
+	- Pérdidas operativas
+	- Sanciones legales o regulatorias
+
+Cada riesgo identificado, se debe evaluar:
+- Escala cualitativa:
+	- Baja
+	- Media
+	- Alta
+- Escala cuantitativa:
+	- De 1 a 10
+	- De 1 a 5
+	- etc
+
+![[tabla_riesgos.png]]
+
+==3. Determinar el riesgo residual y la priorización de los riesgos==
+
+Una vez definidas las escalas de valoración para los factores de probabilidad e impacto, el siguiente paso consiste en establecer un marco de medición que permita determinar el nivel de riesgo asociado a cada situación evaluada. 
+
+Este marco se construye habitualmente mediante una matriz de riesgos, en la cual se cruzan los valores asignados a la probabilidad y al impacto.
+
+- Matriz de Riesgos y Valoración: La matriz de riesgos es una herramienta que facilita:
+- 
+- Código de colores: Para facilitar la interpretación, esta matriz suele incorporar un código de colores:
