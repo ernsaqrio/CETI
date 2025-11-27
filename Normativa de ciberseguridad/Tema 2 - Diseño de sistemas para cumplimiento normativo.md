@@ -336,3 +336,28 @@ Es necesario que:
 La gestión del riesgo debe ser parte activa del funcionamiento cotidiano. Para ello: 
 - Debe integrarse en todos los procesos, áreas y niveles de la organización. 
 - Es necesario asignar responsabilidades claras para la identificación, evaluación y tratamiento del riesgo, involucrando tanto a departamentos como a empleados.
+
+*3. Diseño del Marco de Gestión del Riesgo*
+
+El marco debe estructurarse de forma sistemática e incluir procesos clave como:
+- Identificación de riesgos: detección de eventos potenciales que puedan afectar a los objetivos.
+- Evaluación de riesgos: análisis y valoración de probabilidad e impacto.
+- Tratamiento de riesgos: selección e implementación de medidas para reducir, evitar o compartir el riesgo.
+- Seguimiento y revisión: control continuo para garantizar eficacia y detectar cambios en el contexto.
+
+*4. Implementación del Marco*
+
+Una vez diseñado, el marco debe ponerse en práctica mediante: 
+- Su implantación en toda la organización, asegurando que todos los niveles lo apliquen coherentemente.
+- La formación del personal, de modo que todos comprendan principios, procesos y responsabilidades dentro de la gestión del riesgo.
+
+*5. Mejora Continua*
+
+La ISO 31000:2018 promueve un enfoque dinámico orientado al perfeccionamiento constante:
+- El sistema debe ser monitorizado y evaluado periódicamente, revisando resultados y detectando desviaciones.
+- Debe asegurarse la mejora continua, actualizando procesos, medidas y controles según nuevas necesidades, riesgos emergentes o cambios en el contexto.
+
+*Aspectos para tener en cuenta*
+![[t2-2.3-nc.png]]
+
+
