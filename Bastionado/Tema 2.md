@@ -25,5 +25,5 @@ Cifrar:
 		- RSA -> Ronald Rivest, Adi Shamir, Leonard Adleman
 	- Híbrida: con la clave pública, se cifra la privada para enviarla -> método medio rápido
 - Firma dígital:
-	- A un archivo le haces el hash y eso lo firmas con tu clave publica y lo mandas.
+	- A un archivo le haces el hash (resumen) y eso lo firmas con tu clave publica (obtienes el resumen cifrado) y envías el archivo con el resumen cifrado. El receptor compara 
 		
