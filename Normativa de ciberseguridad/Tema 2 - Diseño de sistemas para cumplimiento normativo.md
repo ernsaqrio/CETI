@@ -360,4 +360,9 @@ La ISO 31000:2018 promueve un enfoque dinámico orientado al perfeccionamiento c
 *Aspectos para tener en cuenta*
 ![[t2-2.3-nc.png]]
 
+**Análisis de los riesgos**
 
+El análisis de riesgos de los sistemas de información es un proceso esencial para garantizar los tres pilares fundamentales de la seguridad informática:
+- Disponibilidad: asegurar que la información y los servicios estén accesibles cuando se necesiten.
+- Confidencialidad: proteger la información frente a accesos no autorizados.
+- Integridad: mantener la exactitud, consistencia y fiabilidad de los datos.
