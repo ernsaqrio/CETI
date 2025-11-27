@@ -484,5 +484,22 @@ Una vez definidas las escalas de valoración para los factores de probabilidad e
 Este marco se construye habitualmente mediante una matriz de riesgos, en la cual se cruzan los valores asignados a la probabilidad y al impacto.
 
 - Matriz de Riesgos y Valoración: La matriz de riesgos es una herramienta que facilita:
-- 
+	- La comprensión gráfica del nivel de riesgo.
+	- La comparación rápida entre diferentes riesgos.
+	- La priorización de aquellos que requieren medidas más urgentes.
 - Código de colores: Para facilitar la interpretación, esta matriz suele incorporar un código de colores:
+	- Rojo / Naranja: Riesgo alto. Acción inmediata.
+	- Amarillo: Riesgo medio. Monitorización y medidas planificadas.
+	- Sin color / Verde / Bajo: Riesgo bajo. Nivel aceptable, no requiere intervención inmediata.
+	![[color_table.png]]
+
+==4. Plan de acción y seguimiento==
+
+Una vez identificados y priorizados los riesgos más relevantes, es necesario definir un plan de acción. 
+
+El plan de acción consiste en un conjunto de acciones, medidas o controles que deben implementarse para:
+- Reducir la probabilidad de que el riesgo se materialice.
+- Disminuir el impacto en caso de que se produzca.
+- Prevenir futuros incumplimientos normativos.
+
+![[accion-seguimiento.png]]
