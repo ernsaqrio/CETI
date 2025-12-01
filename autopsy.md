@@ -8,4 +8,7 @@ caine
 - ESC todo el rato
 - opcion 3
 - start live
-- 
+- n
+- p
+- 0c
+- w
