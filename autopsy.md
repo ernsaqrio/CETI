@@ -12,3 +12,5 @@ caine
 - p
 - 0c
 - w
+
+guardar usuario::passhash
