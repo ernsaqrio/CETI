@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
+                "file": "Analisis forense informatico/Practica RAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 2 - Diseño de sistemas para cumplimiento normativo"
+              "title": "Practica RAM"
+            }
+          },
+          {
+            "id": "c2e4c4a27ead674e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "autopsy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "autopsy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,15 +185,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92ed4075efe7a7ca",
+  "active": "c2e4c4a27ead674e",
   "lastOpenFiles": [
+    "Analisis forense informatico/Practica RAM.md",
+    "autopsy.md",
+    "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
     "Imagenes/accion-seguimiento.png",
     "Imagenes/color_table.png",
     "Imagenes/tabla_riesgos.png",
     "Imagenes/t2-2.3-nc-ej.png",
     "Imagenes/proc.png",
     "Bastionado/Formula de probabilidad de ocurrencia y ejemplo.md",
-    "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
     "Imagenes/t2-2.3-nc.png",
     "Bastionado/t2 mindmap.png",
     "Bastionado/Tema 2.md",
@@ -189,7 +206,6 @@
     "Incidentes de Ciberseguridad/IC1.md",
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
     "Imagenes/Pasted image 20251120203317.png",
-    "Pasted image 20251023165511.png",
     "Hacking etico/Info.md",
     "Hacking etico/THB1- Intro to Network Traffic Analysis.md",
     "termux commands.md",
@@ -197,7 +213,6 @@
     "Bastionado/Bastionado.md",
     "Bastionado/Repaso de redes.md",
     "Bastionado/Tema 1.md",
-    "Analisis forense informatico/Practica RAM.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Hacking etico/UD2.2 - Fingerprinting.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
