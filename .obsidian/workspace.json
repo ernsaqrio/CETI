@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autopsy.md",
+                "file": "Analisis forense informatico/autopsy.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2e4c4a27ead674e",
+  "active": "e2f07224029a2894",
   "lastOpenFiles": [
     "Analisis forense informatico/Practica RAM.md",
-    "autopsy.md",
+    "Analisis forense informatico/autopsy.md",
     "Normativa de ciberseguridad/Tema 2 - Diseño de sistemas para cumplimiento normativo.md",
     "Imagenes/accion-seguimiento.png",
     "Imagenes/color_table.png",
