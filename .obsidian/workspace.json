@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado/T3 -  Gestión credenciales de acceso.md",
+                "file": "Bastionado/Tema 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T3 -  Gestión credenciales de acceso"
+              "title": "Tema 2"
             }
           }
         ]
@@ -172,9 +172,11 @@
   },
   "active": "3fef27ee89043a7e",
   "lastOpenFiles": [
-    "Bastionado/Sin título.jpg",
+    "Bastionado/Mindmap 1.md",
     "Bastionado/Tema 2.md",
+    "Bastionado/Tema 1.md",
     "Bastionado/T3 -  Gestión credenciales de acceso.md",
+    "Bastionado/Sin título.jpg",
     "Incidentes de Ciberseguridad/IC1.md",
     "Analisis forense informatico/autopsy.md",
     "Analisis forense informatico/Practica RAM.md",
@@ -195,10 +197,8 @@
     "Hacking etico/Info.md",
     "Hacking etico/THB1- Intro to Network Traffic Analysis.md",
     "termux commands.md",
-    "Bastionado/Mindmap 1.md",
     "Bastionado/Bastionado.md",
     "Bastionado/Repaso de redes.md",
-    "Bastionado/Tema 1.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
     "Hacking etico/UD2.2 - Fingerprinting.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
