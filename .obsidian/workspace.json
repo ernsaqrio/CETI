@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6db265fd6dccfcd3",
+        "id": "c2a53e85c189f0fb",
         "type": "tabs",
         "children": [
           {
-            "id": "44a681e0402ccf58",
+            "id": "3fef27ee89043a7e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bastionado/Sin título.jpg"
+                "file": "Bastionado/T3 -  Gestión credenciales de acceso.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Sin título"
+              "icon": "lucide-file",
+              "title": "T3 -  Gestión credenciales de acceso"
             }
           }
         ]
@@ -168,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2f07224029a2894",
+  "active": "3fef27ee89043a7e",
   "lastOpenFiles": [
+    "Bastionado/Sin título.jpg",
     "Bastionado/Tema 2.md",
     "Bastionado/T3 -  Gestión credenciales de acceso.md",
     "Incidentes de Ciberseguridad/IC1.md",
@@ -185,7 +188,6 @@
     "Imagenes/t2-2.3-nc.png",
     "Bastionado/t2 mindmap.png",
     "Bastionado/Captura de pantalla 2025-11-27 180233.png",
-    "Bastionado/Sin título.jpg",
     "Bastionado/Tema 1.2.md",
     "Puesta en produccion segura/T1 - Entendiendo el código de nuestras aplicaciones.md",
     "Analisis forense informatico/T1 - Introduccion al analisis forense.md",
@@ -210,7 +212,6 @@
     "Tema 1.md",
     "Incidentes de Ciberseguridad",
     "Read Me.md",
-    "Read me.md",
     "Hacking etico",
     "Bastionado"
   ]
