@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "T3 -  Gestión credenciales de acceso"
             }
-          },
-          {
-            "id": "98e1790e02e722d2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98e1790e02e722d2",
+  "active": "3fef27ee89043a7e",
   "lastOpenFiles": [
     "Bastionado/Tema 2.md",
     "Bastionado/Mindmap 1.md",
