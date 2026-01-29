@@ -68,15 +68,23 @@ dhclient wlan2 -v
 ```
 
 ```shell-session
-ip link set wlan2 down
+ip link set wlan4 down
 ```
 
 ```shell-session
-macchanger -m B0:72:BF:B0:78:48 wlan2
+macchanger -m B0:72:BF:B0:78:48 wlan4
 ```
 
 ```shell-session
-ip link set wlan2 up
+ip link set wlan4 up
 ```
 
+```shell-session
+wpa_supplicant -Dnl80211 -iwlan4 -c open.conf
+```
+
+
+```shell-session
+dhclient wlan4 -v
+```
 
