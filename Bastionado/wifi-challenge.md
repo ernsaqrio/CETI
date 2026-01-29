@@ -10,7 +10,7 @@ sudo airodump-ng wlan0mon -w ./scan --manufacturer --wps --band abg
 ```
 
 ```shell-session
-sudo airodump-ng wlan0mon -w ./scan/c11 --manufacturer --wps -c11
+sudo airodump-ng wlan0mon -w ./scanc11 --manufacturer --wps -c11
 ```
 
 ```shell-session
