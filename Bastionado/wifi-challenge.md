@@ -67,3 +67,4 @@ wpa_supplicant -Dnl80211 -iwlan2 -c open.conf
 dhclient wlan2 -v
 ```
 
+ip link set wlan4 down
