@@ -26,7 +26,9 @@ sudo iwconfig wlan0mon channel 11
 sudo mdk4 wlan0mon p -t F0:9F:C2:6A:88:26 -f rockyouwifi.txt
 ```
 
+```shell-session
 sudo nano free.conf
+```
 
 network={
         ssid="wifi-free"
@@ -34,5 +36,26 @@ network={
         scan_ssid=1
 }
 
+
+```shell-session
 wpa_supplicant -Dnl80211 -iwlan1 -c free.conf
+```
+
+```shell-session
+dhclient wlan1 -v
+```
+
+root@WiFiChallengeLab:/home/user# cp free.conf open.conf
+root@WiFiChallengeLab:/home/user# nano open.conf
+
+network={
+        ssid="wifi-guest"
+        key_mgmt=NONE
+}
+
+wpa_supplicant -Dnl80211 -iwlan2 -c open.conf
+
+```shell-session
+dhclient wlan2 -v
+```
 
