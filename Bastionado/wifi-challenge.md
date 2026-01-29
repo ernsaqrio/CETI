@@ -67,4 +67,16 @@ wpa_supplicant -Dnl80211 -iwlan2 -c open.conf
 dhclient wlan2 -v
 ```
 
-ip link set wlan4 down
+```shell-session
+ip link set wlan2 down
+```
+
+```shell-session
+macchanger -m B0:72:BF:B0:78:48 wlan2
+```
+
+```shell-session
+ip link set wlan2 up
+```
+
+
