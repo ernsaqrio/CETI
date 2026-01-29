@@ -45,15 +45,23 @@ wpa_supplicant -Dnl80211 -iwlan1 -c free.conf
 dhclient wlan1 -v
 ```
 
-root@WiFiChallengeLab:/home/user# cp free.conf open.conf
-root@WiFiChallengeLab:/home/user# nano open.conf
+```shell-session
+cp free.conf open.conf
+```
+
+```shell-session
+nano open.conf
+```
 
 network={
         ssid="wifi-guest"
         key_mgmt=NONE
 }
 
+```shell-session
 wpa_supplicant -Dnl80211 -iwlan2 -c open.conf
+```
+
 
 ```shell-session
 dhclient wlan2 -v
