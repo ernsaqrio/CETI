@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "909e8ed72b8deecc",
+        "id": "1737391d323532ae",
         "type": "tabs",
         "children": [
           {
-            "id": "e17fc82d017b5a8a",
+            "id": "a8c2327413ea43b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Bastionado/wifi-challenge.md",
-                "mode": "source",
-                "source": false
+                "file": "Bastionado/Pasted image 20251023165511.png"
               },
-              "icon": "lucide-file",
-              "title": "wifi-challenge"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251023165511"
             }
           }
         ]
@@ -172,15 +170,15 @@
   },
   "active": "e2f07224029a2894",
   "lastOpenFiles": [
+    "Bastionado/pki-mindmap.md",
+    "pki-mindmap.md",
+    "Bastionado/wifi-challenge.md",
     "Bastionado/Sin título.jpg",
     "Hacking etico/THB1- Intro to Network Traffic Analysis.md",
     "Hacking etico/UD1 - Introduccion al hacking etico.md",
     "Hacking etico/UD2- Recopilación de información y Sniffers.md",
     "Hacking etico/UD2.2 - Fingerprinting.md",
-    "Bastionado/wifi-challenge.md",
-    "Bastionado/pki-mindmap.md",
     "Bastionado/T3 -  Gestión credenciales de acceso.md",
-    "pki-mindmap.md",
     "Bastionado/Tema 2.md",
     "Bastionado/Mindmap 1.md",
     "Bastionado/Tema 1.md",
