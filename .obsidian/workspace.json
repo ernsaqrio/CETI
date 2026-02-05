@@ -11,12 +11,14 @@
             "id": "a8c2327413ea43b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bastionado/Pasted image 20251023165511.png"
+                "file": "Bastionado/wifi-challenge.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251023165511"
+              "icon": "lucide-file",
+              "title": "wifi-challenge"
             }
           }
         ]
@@ -170,6 +172,7 @@
   },
   "active": "a8c2327413ea43b0",
   "lastOpenFiles": [
+    "Bastionado/Pasted image 20251023165511.png",
     "Bastionado/pki-mindmap.md",
     "pki-mindmap.md",
     "Bastionado/wifi-challenge.md",
