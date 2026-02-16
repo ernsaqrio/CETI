@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "wifi-challenge"
             }
+          },
+          {
+            "id": "95101c8fc4743311",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8c2327413ea43b0",
+  "active": "95101c8fc4743311",
   "lastOpenFiles": [
     "Bastionado/Pasted image 20251023165511.png",
     "Bastionado/pki-mindmap.md",
