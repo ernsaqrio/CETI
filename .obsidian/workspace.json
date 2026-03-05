@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "volatility linux"
             }
-          },
-          {
-            "id": "492c99cfd15eb782",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "492c99cfd15eb782",
+  "active": "82d72c53eecf6460",
   "lastOpenFiles": [
     "Bastionado/Bastionado.md",
     "Analisis forense informatico/volatility linux.md",
