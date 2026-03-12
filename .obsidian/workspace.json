@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado/Bastionado.md",
+                "file": "Analisis forense informatico/volatility linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bastionado"
+              "title": "volatility linux"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "078ee2cc6d60f03e",
   "lastOpenFiles": [
-    "Analisis forense informatico/volatility linux.md",
     "Bastionado/Bastionado.md",
+    "Analisis forense informatico/volatility linux.md",
     "Bastionado/wifi-challenge.md",
     "Bastionado/Pasted image 20251023165511.png",
     "Bastionado/pki-mindmap.md",
