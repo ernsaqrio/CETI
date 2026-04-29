@@ -8,4 +8,9 @@ ECS (docker) / EKS (kubernetes) = docker  €/h/contenedor (Esta opción es mas 
 
 .pdf
 .bck
-.png
+.png  
+
+S3 (SSS): simple storage service (una opcion economica) : barato el €/GB y bajo  rendimento
+EBS (volumenes): muy caro el €/GB y mejor rendimiento
+EFS : Elastic file system (sistema compartido para servidores linux)
+
