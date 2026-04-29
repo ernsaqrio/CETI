@@ -11,10 +11,14 @@
             "id": "3f3a7cc108aa79e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bastionado/AWS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "AWS"
             }
           }
         ]
@@ -168,6 +172,7 @@
   },
   "active": "3f3a7cc108aa79e5",
   "lastOpenFiles": [
+    "Bastionado/AWS.md",
     "Analisis forense informatico/volatility linux.md",
     "Bastionado/Bastionado.md",
     "Bastionado/wifi-challenge.md",
@@ -203,7 +208,6 @@
     "termux commands.md",
     "Bastionado/Repaso de redes.md",
     "Normativa de ciberseguridad/Tema 1 - Cumplimiento normativo.md",
-    "Incidentes de Ciberseguridad/IC_Indice.md",
     "Normativa de ciberseguridad",
     "Puesta en produccion segura",
     "Analisis forense informatico",
