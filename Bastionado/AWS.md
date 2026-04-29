@@ -25,7 +25,10 @@ Base de datos y sistemas gestores:
 
 Redes:
 
--VPC (nube privada virtual): red privada 
--
--
+-VPC (nube privada virtual): red privada para conexión entre equipos o una S3 con una lambda.
+-Route 53: Servidor DNS de AWS
+-CloudFront (CDN, Edge computing): La web se distribuye de forma global.
+
+Al introducir url va Route53 y no se pone la ip de la EC2, se usa la del CDN y luego se conecta con tu servidor.
+
 -
