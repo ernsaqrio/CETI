@@ -41,3 +41,9 @@ Seguridad:
 -MS: gestión de claves y cifrado.
 -Cognito: identidad para apliaciones web y móviles.
 -AWS WAF/Shield: protección web y defensa ante DDoS.
+
+Monitorizacion y gobernanza:
+
+-Cloudwatch: métricas, logs, eventos y alarmas
+-CloudTrail: auditoria de llamadas API.
+-CloudFormation: IaC
