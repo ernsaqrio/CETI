@@ -35,3 +35,9 @@ Al introducir url va Route53 y no se pone la ip de la EC2, se usa la del CDN y l
 /users -GET-> lambda obtener usuarios
 /users -POST-> lambda crear usuario
 
+Seguridad:
+
+-AWS IAM: usuarios, grupos, roles y políticas.
+-MS: gestión de claves y cifrado.
+-Cognito: identidad para apliaciones web y móviles.
+-AWS WAF/Shield: protección web y defensa ante DDoS.
