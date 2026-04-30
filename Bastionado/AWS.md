@@ -31,4 +31,7 @@ Redes:
 
 Al introducir url va Route53 y no se pone la ip de la EC2, se usa la del CDN y luego se conecta con tu servidor.
 
--
+-API Gateway (API REST):  publicación y prtoección de APIs.
+/users -GET-> lambda obtener usuarios
+/users -POST-> lambda crear usuario
+
