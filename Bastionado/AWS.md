@@ -47,3 +47,9 @@ Monitorizacion y gobernanza:
 -Cloudwatch: métricas, logs, eventos y alarmas
 -CloudTrail: auditoria de llamadas API.
 -CloudFormation: IaC
+
+Integración de aplicaciones:
+
+-SQS: colas para desacoplar sistemas.
+-SNS notificaciones y patrón sub/pub.
+AWS step functions: orquestación
